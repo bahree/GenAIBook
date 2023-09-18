@@ -1,0 +1,756 @@
+{
+  "data": [
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "ada",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "babbage",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "curie",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "davinci",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "text-ada-001",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "text-babbage-001",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "text-curie-001",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "text-davinci-001",
+      "status": "succeeded",
+      "created_at": 1646092800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-davinci-002",
+      "status": "succeeded",
+      "created_at": 1642809600,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "gpt-35-turbo",
+      "status": "succeeded",
+      "created_at": 1678320000,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "gpt-35-turbo",
+      "status": "succeeded",
+      "created_at": 1687132800,
+      "updated_at": 1687132800,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "inference": 1705276800
+      },
+      "id": "gpt-35-turbo-16k",
+      "status": "succeeded",
+      "created_at": 1687132800,
+      "updated_at": 1687132800,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1696118400
+      },
+      "id": "gpt-35-turbo",
+      "status": "succeeded",
+      "created_at": 1677628800,
+      "updated_at": 1677628800,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": false,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "gpt-4",
+      "status": "succeeded",
+      "created_at": 1679356800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "inference": 1705276800
+      },
+      "id": "gpt-4",
+      "status": "succeeded",
+      "created_at": 1687132800,
+      "updated_at": 1687132800,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "gpt-4-32k",
+      "status": "succeeded",
+      "created_at": 1679356800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": true,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "inference": 1705276800
+      },
+      "id": "gpt-4-32k",
+      "status": "succeeded",
+      "created_at": 1687132800,
+      "updated_at": 1687132800,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-davinci-003",
+      "status": "succeeded",
+      "created_at": 1664496000,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "text-davinci-fine-tune-002",
+      "status": "succeeded",
+      "created_at": 1659398400,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "code-cushman-001",
+      "status": "succeeded",
+      "created_at": 1642809600,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "code-cushman-fine-tune-002",
+      "status": "succeeded",
+      "created_at": 1677456000,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "code-davinci-002",
+      "status": "succeeded",
+      "created_at": 1657497600,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": false,
+        "completion": true,
+        "chat_completion": false,
+        "embeddings": false
+      },
+      "lifecycle_status": "generally-available",
+      "deprecation": {
+        "fine_tune": 1720137600,
+        "inference": 1720137600
+      },
+      "id": "code-davinci-fine-tune-002",
+      "status": "succeeded",
+      "created_at": 1662508800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-similarity-ada-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-similarity-babbage-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-similarity-curie-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-similarity-davinci-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-ada-doc-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-ada-query-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-babbage-doc-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-babbage-query-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-curie-doc-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-curie-query-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-davinci-doc-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "text-search-davinci-query-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "code-search-ada-code-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "code-search-ada-text-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "code-search-babbage-code-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1720137600
+      },
+      "id": "code-search-babbage-text-001",
+      "status": "succeeded",
+      "created_at": 1653004800,
+      "updated_at": 1688601600,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1738454400
+      },
+      "id": "text-embedding-ada-002",
+      "status": "succeeded",
+      "created_at": 1675296000,
+      "updated_at": 1675296000,
+      "object": "model"
+    },
+    {
+      "capabilities": {
+        "fine_tune": false,
+        "inference": true,
+        "completion": false,
+        "chat_completion": false,
+        "embeddings": true
+      },
+      "lifecycle_status": "preview",
+      "deprecation": {
+        "inference": 1743638400
+      },
+      "id": "text-embedding-ada-002",
+      "status": "succeeded",
+      "created_at": 1680480000,
+      "updated_at": 1680480000,
+      "object": "model"
+    }
+  ],
+  "object": "list"
+}
