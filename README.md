@@ -27,6 +27,7 @@ You can find some utility functions and programs in the **`utils`** folder.
 
 ## Web Application :earth_americas:
 In addition to the code from the chapter, a fully functional web application brings all the different constructs together in an easy-to-navigate web application that you can run locally. The code for this can be found in the **`webapp`** folder. :panda_face:  
+You run the web application using the following command from your prompt:  `streamlit run '.\🏡 Home.py'` 
 
 **Note:** :warning: The web application is meant only as a reference to run locally and not exposed to the internet. It does not have all the necessary proxies and controls one would build when exposing an application to the internet.
 
