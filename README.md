@@ -27,18 +27,17 @@ You can find some utility functions and programs in the **`utils`** folder.
 
 ## Web Application :earth_americas:
 In addition to the code from the chapter, a fully functional web application brings all the different constructs together in an easy-to-navigate web application that you can run locally. The code for this can be found in the **`webapp`** folder. :panda_face:  
-You run the web application using the following command from your prompt:  `streamlit run '.\🏡 Home.py'` 
 
 **Note:** :warning: The web application is meant only as a reference to run locally and not exposed to the internet. It does not have all the necessary proxies and controls one would build when exposing an application to the internet.
 
-## Papers 📓
+## Papers
 LLM and Generative AI are still quite new, and as a result, there is a fascinating list of very active research. You can find a pointer to many of these  in the paper folder. These are organized by Chapter to help you navigate. 
 
 The reader is not expected to know these but as with most things, it is always good to go deeper and grok some of these concepts for a better and fuller understanding.
 
-## Contact ☎️
+## Contact
 You can see my <a href="https://github.com/bahree" target="_blank">GitHub profile</a> for different ways to get in touch. If there are any questions, or issues, please submit an Issue.
 
-## License ©️
+## License
 The work as part of this repo is shared under <a href="LICENSE" target="_blank">MIT License</a>. 
 In summary, this is a short and simple permissive license with conditions only requiring the preservation of copyright and license notices. Licensed, modified, and larger works may be distributed under different terms and without source code.

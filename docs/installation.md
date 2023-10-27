@@ -18,7 +18,15 @@ We can see our environment created, and is the active one as denoted with the as
 ![](images/conda-env-step5.png)  
 
 ### 2. Install the runtime packages
-We install the needed runtime packages using pip by running the following: `pip install -r requirements.txt`  
+We install the needed runtime packages using conda by running the following:
+`conda install -c conda-forge openai streamlit tiktoken python-dotenv
+`.
+
+We also need to install streamlit-chat by itself for some reason:
+
+`conda install -c anaconda streamlit-chat`.
+
+If you happen to not be using conda, but are using pip, we install the needed runtime packages by running the following: `pip install -r requirements.txt`  
 
 Depending on how many new packages need to be installed, and your internet speed, this can take a few minutes. You will see the output of this similar to the ones shown below - the first one when starting out, and the second one when finishing.
 ![](images/pip-install-step1.png)  
@@ -39,6 +47,7 @@ You can set these using the following commands in your terminal depending on the
 ##### Windows:
 `setx AOAI_KEY "your-openai-key"`  
 `setx AOAI_ENDPOINT "your-openai-endpoint"`  
+Note: You need to restart the terminal for the environment variables to take effect.
 
 ##### Linux/Mac:
 `export AOAI_KEY=your-openai-key`  
