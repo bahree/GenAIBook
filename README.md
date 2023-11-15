@@ -1,4 +1,4 @@
-# Book - Generative AI in Action
+# 📚 Book - Generative AI in Action
 Welcome to the code repo associated with my book **Generative AI in Action: Real-World Applications and Case Studies of Artificial Intelligence for Enterprises**.
 
 This repo has a few things that might be of interest:
