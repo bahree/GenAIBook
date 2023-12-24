@@ -2,6 +2,9 @@
 
 import os
 import openai
+from openai import OpenAI
+
+api_key_file = '../../OPENAI_API_BOOK_KEY.key'
 
 # function to read the key
 def read_api_key(file_path: str) -> str:
@@ -9,13 +12,10 @@ def read_api_key(file_path: str) -> str:
         api_key = file.read().strip()
     return api_key
 
-# Setup the OpenAI API key and organization
-api_key_file = '../../OPENAI_API_BOOK_KEY.key'
-openai.organization = "enter-your-organization-id-here"
-openai.api_key = read_api_key(api_key_file)
+client = OpenAI(api_key=read_api_key(api_key_file))
 
 # Call the models API to retrieve a list of available models
-models = openai.Model.list()
+models = client.models.list()
 
 # debug output - show response
 # print(models)
@@ -24,8 +24,8 @@ models = openai.Model.list()
 with open('oai-models.json', 'w') as file:
     file.write(str(models))
 
-# Print out the names and permissions of all the available models
-for model in models['data']:
-    print("ID:", model['id'])
-    print("Model permissions:", model['permission'])
+# Print out the organization that owns the models
+for model in models.data:
+    print("ID:", model.id)
+    print("Model owned by:", model.owned_by)
     print("-------------------")

@@ -1,24 +1,24 @@
 import os
-import openai
+from openai import AzureOpenAI
 
-openai.api_type = "azure"
-openai.api_base = os.getenv("AOAI_ENDPOINT")
-openai.api_version = "2022-12-01"
-openai.api_key = os.getenv("AOAI_KEY")
+client = AzureOpenAI(
+    azure_endpoint=os.getenv("AOAI_ENDPOINT"),
+    api_version="2023-09-15-preview",
+    api_key=os.getenv("AOAI_KEY"))
 
-prompt_startphrase = "Suggest three names for a new pet salon business."
+GPT_MODEL = "text-davinci-003"
 
-response = openai.Completion.create(
-  engine="text-davinci-003",
-  prompt=prompt_startphrase,
-  temperature=0.8,
-  max_tokens=100,
-  suffix="\nThats all folks!",
-  stop=None)
+prompt_startphrase = "Suggest three names for a new pet salon business. The generated name ideas should evoke positive emotions and the following key features: Professional, friendly, Personalized Service."
 
-responsetext = response["choices"][0]["text"]
+response = client.completions.create(
+    model=GPT_MODEL,
+    prompt=prompt_startphrase,
+    temperature=0.7,
+    max_tokens=100,
+    #best_of=5,
+    n=3,
+    stop=None)
+
+responsetext = response.choices[0].text
 
 print("Prompt:" + prompt_startphrase + "\nResponse:" + responsetext)
-
-print(response)
-

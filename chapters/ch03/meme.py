@@ -29,6 +29,7 @@ ax[2].set_title('Human: Now, can you understand sarcasm?',
 ax[2].text(0.5, 0.5, "AI: Working on it...", color=text_color, fontsize=font_size, 
            ha='center', va='center')
 
+# Save the figure; this assumes a folder named "data" exists
 plt.tight_layout()
 plt.savefig("/mnt/data/AI_meme_v2.png")
 plt.show()
