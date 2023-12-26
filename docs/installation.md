@@ -19,12 +19,11 @@ We can see our environment created, and is the active one as denoted with the as
 
 ### 2. Install the runtime packages
 We install the needed runtime packages using conda by running the following:
-`conda install -c conda-forge openai streamlit tiktoken python-dotenv
-`.
+`conda install -c conda-forge openai streamlit tiktoken python-dotenv streamlit-chat`
 
-We also need to install streamlit-chat by itself for some reason:
+Sometime, we also need to install streamlit-chat by itself and it fails to install with the above command. In that case, we can run the following command:
 
-`conda install -c anaconda streamlit-chat`.
+`conda install -c conda-forge streamlit-chat`
 
 If you happen to not be using conda, but are using pip, we install the needed runtime packages by running the following: `pip install -r requirements.txt`  
 
