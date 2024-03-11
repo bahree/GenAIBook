@@ -1,5 +1,5 @@
-# 📚 Book - Generative AI in Action
-Welcome to the code repo associated with my book **Generative AI in Action**.
+# Book - Generative AI in Action
+Welcome to the code repo associated with my book **Generative AI in Action: Real-World Applications and Case Studies of Artificial Intelligence for Enterprises**.
 
 This repo has a few things that might be of interest:
 * Code from the different examples in the book.
@@ -11,6 +11,7 @@ This repo has a few things that might be of interest:
 | --- |
 OpenAI recently updated its API, and the code in the book is incompatible with the new API (v1.0). Unfortunately, this new version introduces breaking changes, which, while insignificant, are still breaking. I am working on updating the code and will have it available soon. If you are doing a fresh installation and want to follow the code in the chapters, it might be best to pin the installation to the older API version (v0.28).
 If you are using pip, you can run the following command: `pip install openai==0.28.0`. Using conda, you can run the command: `conda install -c conda-forge openai=0.28.0`.
+
 
 ## Core dependencies :minidisc:
 Before we start installation instructions, as outlined in the book, we assume you have installed the following basic dependencies. For most developers and data scientists, these would already be in place, and there might not be any additional steps needed. 
