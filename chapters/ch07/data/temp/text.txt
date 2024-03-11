@@ -1,0 +1,15 @@
+Insert your 
+first table of contents 
+Create, update, and customize a table of contents 
+You don’t need to wait until your pages are finalized; inserting a table of contents can be an 
+early step in creating your document. As the pages of your document develop, Word helps you 
+keep the table of contents up to date. 
+This doc isn’t just for reading, it’s for trying too. Watch for the Try it text in red 
+throughout this document so you can learn by doing. 
+Insert a table of contents 
+To add a TOC (short for table of contents), just decide where you want it. Word will do the heavy 
+lifting.  
+Try It: Hit Enter after the first paragraph in this doc to get a new line. Then, go to the 
+References tab, select Table of Contents, and choose a TOC from the gallery. 
+Voila! Word found all the headings in this document and added a TOC. 
+Page | 1  
