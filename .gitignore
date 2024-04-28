@@ -161,3 +161,26 @@ cython_debug/
 
 # Key files
 *.key
+
+# Environment files
+*.env
+
+# Other files
+chapters/ch07/data/women_fifa_worldcup_2023.csv
+chapters/ch07/data/women_fifa_worldcup_2023.zip
+chapters/ch07/data/women_fifa_worldcup_2023.csv.txt
+chapters/data/__MACOSX/._vector_database_wikipedia_articles_embedded.csv
+chapters/ch07/data/vector_database_wikipedia_articles_embedded.csv
+chapters/ch07/data/__MACOSX/._vector_database_wikipedia_articles_embedded.csv
+chapters/ch08/data/data.pkl
+chapters/ch08/pinecone-vectordb/vector_database_wikipedia_articles_embedded.zip
+chapters/ch08/redis-vectordb/temp/data.pkl
+chapters/ch07/data/vector_database_wikipedia_articles_embedded.zip
+chapters/ch08/redis-vectordb/temp/data.pkl
+chapters/ch08/pinecone-vectordb/vector_database_wikipedia_articles_embedded.zip
+chapters/ch07/data/data.pkl
+chapters/ch10/storage
+chapters/ch11/mlruns
+chapters/ch11/mlflow
+chapters/ch11/prometheus/data
+chapters/ch07/data/paragraph_embeddings_20240331_102408.csv

@@ -1,0 +1,11 @@
+SCHEMA = [
+    TagField("url"),
+    TextField("title"), 
+    TextField("description"),
+    TextField("publish_date"),
+    TextField("content"),
+    VectorField("embedding", "HNSW",
+                {"TYPE": "FLOAT32",
+                 "DIM": 1536,
+                 "DISTANCE_METRIC": "COSINE"}),
+   ]

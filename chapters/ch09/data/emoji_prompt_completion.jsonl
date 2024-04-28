@@ -1,0 +1,600 @@
+{"prompt":"I just passed my driving test!", "completion":"(party) STOP"}
+{"prompt":"Feeling pretty sick today.", "completion":"(facewithmedicalmask) STOP"}
+{"prompt":"I just got promoted at work!", "completion":"(confetti) STOP"}
+{"prompt":"I'm feeling really tired.", "completion":"(sleeping) STOP"}
+{"prompt":"Just adopted a puppy!", "completion":"(dog) STOP"}
+{"prompt":"I'm stuck in traffic.", "completion":"(car) STOP"}
+{"prompt":"Just finished a great workout!", "completion":"(muscle) STOP"}
+{"prompt":"I'm feeling really stressed about this project.", "completion":"(sweating) STOP"}
+{"prompt":"I won the lottery!", "completion":"(moneybag) STOP"}
+{"prompt":"I made a delicious meal!", "completion":"(yum) STOP"}
+{"prompt":"I'm going for a run.", "completion":"(runner) STOP"}
+{"prompt":"I'm studying for an exam.", "completion":"(book) STOP"}
+{"prompt":"I'm watching a movie.", "completion":"(popcorn) STOP"}
+{"prompt":"I'm listening to music.", "completion":"(music) STOP"}
+{"prompt":"Hey there! How's it going?", "completion":"(wave) STOP"}
+{"prompt":"It's so hot outside, I feel like I'm melting!", "completion":"(meltingface) STOP"}
+{"prompt":"Guess what? I just won a free trip to Hawaii!", "completion":"(surprised) STOP"}
+{"prompt":"Phew, I just finished that tough project on time!", "completion":"(relieved) STOP"}
+{"prompt":"You won't believe the mischief I got into last night!", "completion":"(squintingfacewithtongue) STOP"}
+{"prompt":"I've got a secret I can't share right now.", "completion":"(zippermouthface) STOP"}
+{"prompt":"Everything's gone topsy-turvy today, but I'm going with the flow!", "completion":"(upsidedownface) STOP"}
+{"prompt":"My robot vacuum broke down today.", "completion":"(sadrobot) STOP"}
+{"prompt":"I heard the koala habitat was destroyed by the fire.", "completion":"(sadkoala) STOP"}
+{"prompt":"I had the most amazing dream last night.", "completion":"(dream) STOP"}
+{"prompt":"Listening to my favorite album to relax.", "completion":"(headphones) STOP"}
+{"prompt":"I just had a brilliant idea for our project!", "completion":"(idea) STOP"}
+{"prompt":"I had a rough day and need to let off some steam.", "completion":"(punch) STOP"}
+{"prompt":"Feeling happy and colorful today!", "completion":"(rainbowsmile) STOP"}
+{"prompt":"I stayed up too late last night watching movies.", "completion":"(yawn) STOP"}
+{"prompt":"I've been working nonstop and need a break.", "completion":"(tired) STOP"}
+{"prompt":"I just finished reading an amazing book!", "completion":"(like) STOP"}
+{"prompt":"Ready to rock out at the concert tonight!", "completion":"(rock) STOP"}
+{"prompt":"Oh yeah, I'm sure that's totally going to happen.", "completion":"(sarcastic) STOP"}
+{"prompt":"Taking a selfie at this beautiful location!", "completion":"(selfie) STOP"}
+{"prompt":"I accidentally shared way too much personal info in that meeting.", "completion":"(tmi) STOP"}
+{"prompt":"I agree with your point.", "completion":"(nod) STOP"}
+{"prompt":"I don't think that's a good idea.", "completion":"(shake) STOP"}
+{"prompt":"I saw the most beautiful sunset today.", "completion":"(eyes) STOP"}
+{"prompt":"I found a hidden detail in this painting.", "completion":"(eye) STOP"}
+{"prompt":"I tried the most delicious ice cream flavor!", "completion":"(tongue) STOP"}
+{"prompt":"I had a great conversation with an old friend.", "completion":"(mouth) STOP"}
+{"prompt":"I nailed that presentation today!", "completion":"(dropthemic) STOP"}
+{"prompt":"We make a great team!", "completion":"(fistbump) STOP"}
+{"prompt":"My baby just took her first steps!", "completion":"(smilebaby) STOP"}
+{"prompt":"My child just won their soccer game!", "completion":"(child) STOP"}
+{"prompt":"My son just got an A on his test!", "completion":"(smileboy) STOP"}
+{"prompt":"My daughter just got accepted into her dream college!", "completion":"(smilegirl) STOP"}
+{"prompt":"I feel magical and unique today!", "completion":"(unicornhead) STOP"}
+{"prompt":"I saw a zebra at the zoo today!", "completion":"(zebra) STOP"}
+{"prompt":"I'm going to a holiday party with a reindeer theme.", "completion":"(reindeer) STOP"}
+{"prompt":"I just bought a new plant for my home office.", "completion":"(pottedplant) STOP"}
+{"prompt":"I'm on vacation in a tropical paradise!", "completion":"(palmtree) STOP"}
+{"prompt":"I visited the desert and saw some amazing cacti.", "completion":"(cactus) STOP"}
+{"prompt":"I'm trying to eat healthier, so I made a broccoli dish.", "completion":"(broccoli) STOP"}
+{"prompt":"I just made some delicious garlic bread.", "completion":"(garlic) STOP"}
+{"prompt":"It's a full moon tonight, and it looks so mysterious.", "completion":"(fullmoonwithface) STOP"}
+{"prompt":"It's a beautiful sunny day today!", "completion":"(sun) STOP"}
+{"prompt":"The night sky is clear, and the stars are shining bright.", "completion":"(star) STOP"}
+{"prompt":"I just achieved a major milestone, and I'm feeling on top of the world!", "completion":"(glowingstar) STOP"}
+{"prompt":"I'm so mad at him!", "completion":"(angry) STOP"}
+{"prompt":"I can't believe he did that!", "completion":"(swear) STOP"}
+{"prompt":"I feel so mischievous today.", "completion":"(devil) STOP"}
+{"prompt":"She's so annoying!", "completion":"(angryfacewithhorns) STOP"}
+{"prompt":"I feel dead tired.", "completion":"(skull) STOP"}
+{"prompt":"That was a dangerous situation.", "completion":"(skullandbones) STOP"}
+{"prompt":"This situation stinks!", "completion":"(poop) STOP"}
+{"prompt":"I'm in a silly mood.", "completion":"(clownface) STOP"}
+{"prompt":"I feel grumpy today.", "completion":"(ogre) STOP"}
+{"prompt":"I'm going to play a trick on him.", "completion":"(goblin) STOP"}
+{"prompt":"I'm going to a Halloween party.", "completion":"(ghost) STOP"}
+{"prompt":"I'm watching a sci-fi movie.", "completion":"(alien) STOP"}
+{"prompt":"Hello everyone!", "completion":"(raisedbackofhand) STOP"}
+{"prompt":"I'm open to all ideas!", "completion":"(handwithfingerssplayed) STOP"}
+{"prompt":"I volunteer!", "completion":"(raisedhand) STOP"}
+{"prompt":"Live long and prosper.", "completion":"(vulcansalute) STOP"}
+{"prompt":"Is everything alright?", "completion":"(ok) STOP"}
+{"prompt":"Just a bit more!", "completion":"(pinchedfingers) STOP"}
+{"prompt":"Be careful!", "completion":"(pinchinghand) STOP"}
+{"prompt":"We won!", "completion":"(victory) STOP"}
+{"prompt":"I hope I get the job!", "completion":"(crossedfingers) STOP"}
+{"prompt":"I love you all!", "completion":"(loveyougesture) STOP"}
+{"prompt":"Let's rock!", "completion":"(signofthehorns) STOP"}
+{"prompt":"I got a new wheelchair!", "completion":"(personinmotorizedwheelchair) STOP"}
+{"prompt":"That joke was so funny!", "completion":"(laughkoala) STOP"}
+{"prompt":"Turn the music up!", "completion":"(speakerhigh) STOP"}
+{"prompt":"I'm writing a novel.", "completion":"(blacknib) STOP"}
+{"prompt":"I'm fixing the roof.", "completion":"(manconstructionworker) STOP"}
+{"prompt":"I'm proposing to my girlfriend!", "completion":"(mankneeling) STOP"}
+{"prompt":"I'm investigating the case.", "completion":"(mandetective) STOP"}
+{"prompt":"Let's go fly a kite!", "completion":"(kite) STOP"}
+{"prompt":"I need a haircut.", "completion":"(barberpole) STOP"}
+{"prompt":"Happy Thanksgiving!", "completion":"(turkey) STOP"}
+{"prompt":"I'm working on a craft project.", "completion":"(scissors) STOP"}
+{"prompt":"I love succulents!", "completion":"(cactus) STOP"}
+{"prompt":"I'm at a birthday party.", "completion":"(pinata) STOP"}
+{"prompt":"I'm going to a boxing match.", "completion":"(boxingglove) STOP"}
+{"prompt":"I'm collecting eggs from the chickens.", "completion":"(hendance) STOP"}
+{"prompt":"I'm conducting a science experiment.", "completion":"(testtube) STOP"}
+{"prompt":"Ew youre gross", "completion":"(pig) STOP"}
+{"prompt":"I'm going for a swim.", "completion":"(manswimming) STOP"}
+{"prompt":"Thanksgiving is coming up.", "completion":"(turkeybird) STOP"}
+{"prompt":"This situation stinks.", "completion":"(poop) STOP"}
+{"prompt":"I'm fixing something.", "completion":"(toolbox) STOP"}
+{"prompt":"It's a foggy day.", "completion":"(fog) STOP"}
+{"prompt":"I have a lot of emails to check.", "completion":"(inbox) STOP"}
+{"prompt":"I'm making sushi tonight.", "completion":"(rice) STOP"}
+{"prompt":"I'm working from home today.", "completion":"(wfh) STOP"}
+{"prompt":"You're so sweet!", "completion":"(kissingfacewithsmilingeyes) STOP"}
+{"prompt":"I'm going surfing.", "completion":"(personsurfing) STOP"}
+{"prompt":"I'm not happy about this.", "completion":"(manpouting) STOP"}
+{"prompt":"I need to deposit some money.", "completion":"(bank) STOP"}
+{"prompt":"Let's take a picture!", "completion":"(selfie) STOP"}
+{"prompt":"Don't forget this!", "completion":"(pushpin) STOP"}
+{"prompt":"That's way too much information.", "completion":"(tmi) STOP"}
+{"prompt":"I bought a new blouse.", "completion":"(womansclothes) STOP"}
+{"prompt":"I love desert plants!", "completion":"(cactuslove) STOP"}
+{"prompt":"I need to write a letter.", "completion":"(pencil) STOP"}
+{"prompt":"I'm waiting for my friend.", "completion":"(womanstanding) STOP"}
+{"prompt":"It's so cold today!", "completion":"(shivering) STOP"}
+{"prompt":"Look at the message below.", "completion":"(pointdownindexfinger) STOP"}
+{"prompt":"What time is it?", "completion":"(mantelpiececlock) STOP"}
+{"prompt":"It's back to school time!", "completion":"(school) STOP"}
+{"prompt":"That's hilarious!", "completion":"(catwithtearsofjoy) STOP"}
+{"prompt":"Great job!", "completion":"(highfive) STOP"}
+{"prompt":"I need to fill up my car.", "completion":"(fuelpump) STOP"}
+{"prompt":"I got a new pet.", "completion":"(blackcat) STOP"}
+{"prompt":"Let's have drinks!", "completion":"(cocktail) STOP"}
+{"prompt":"I'm not happy about this.", "completion":"(pouting_face) STOP"}
+{"prompt":"It's a full moon tonight.", "completion":"(fullmoonsymbol) STOP"}
+{"prompt":"I'm having steak for dinner.", "completion":"(meatonbone) STOP"}
+{"prompt":"Look to the right.", "completion":"(pointrightindexfinger) STOP"}
+{"prompt":"I'm going golfing this weekend.", "completion":"(golfer) STOP"}
+{"prompt":"I'm at the spa.", "completion":"(man_steam_room) STOP"}
+{"prompt":"I'm playing cards.", "completion":"(spades) STOP"}
+{"prompt":"I'm writing a report.", "completion":"(page) STOP"}
+{"prompt":"Look at my cute baby!", "completion":"(smilebaby) STOP"}
+{"prompt":"I'm making soup.", "completion":"(spoon) STOP"}
+{"prompt":"I dyed my hair blonde.", "completion":"(blondehairedperson) STOP"}
+{"prompt":"Check out this sale!", "completion":"(labeltag) STOP"}
+{"prompt":"I'm wearing a turban today.", "completion":"(personwearingturban) STOP"}
+{"prompt":"I'm making onion soup.", "completion":"(onion) STOP"}
+{"prompt":"My history teacher is so cool.", "completion":"(manteacher) STOP"}
+{"prompt":"I'm getting married!", "completion":"(bridewithveil) STOP"}
+{"prompt":"I love chocolate.", "completion":"(chocolate) STOP"}
+{"prompt":"I'm making guacamole.", "completion":"(avocadolove) STOP"}
+{"prompt":"I'm going to the beach.", "completion":"(bikini) STOP"}
+{"prompt":"I'm watching an old movie.", "completion":"(videocassette) STOP"}
+{"prompt":"I love my pet.", "completion":"(dog) STOP"}
+{"prompt":"I saw a beautiful bird today.", "completion":"(bird) STOP"}
+{"prompt":"I'm working from home today.", "completion":"(wfh) STOP"}
+{"prompt":"I'm attending a wedding.", "completion":"(personwithveil) STOP"}
+{"prompt":"It's snowing!", "completion":"(cloudwithsnow) STOP"}
+{"prompt":"My sister just passed the bar exam.", "completion":"(womanjudge) STOP"}
+{"prompt":"I just had a great idea!", "completion":"(idea) STOP"}
+{"prompt":"I just bought a new lipstick.", "completion":"(lipstick) STOP"}
+{"prompt":"I'm mixing some music.", "completion":"(controlknobs) STOP"}
+{"prompt":"I need to fix my car.", "completion":"(manmechanic) STOP"}
+{"prompt":"Hold on a minute.", "completion":"(wait) STOP"}
+{"prompt":"I'm so in love!", "completion":"(heartonfire) STOP"}
+{"prompt":"I love avocados!", "completion":"(avocadolove) STOP"}
+{"prompt":"I'm getting Chinese food.", "completion":"(takeoutbox) STOP"}
+{"prompt":"That's so funny!", "completion":"(lol) STOP"}
+{"prompt":"I can't stop laughing!", "completion":"(laughmonkey) STOP"}
+{"prompt":"I'm going canoeing.", "completion":"(canoe) STOP"}
+{"prompt":"I went to the zoo.", "completion":"(rhino) STOP"}
+{"prompt":"I'm going for a bike ride.", "completion":"(bicycle) STOP"}
+{"prompt":"I'm baking some bread.", "completion":"(bread) STOP"}
+{"prompt":"I got a new pair of boots.", "completion":"(womansboot) STOP"}
+{"prompt":"Where's the bathroom?", "completion":"(wc) STOP"}
+{"prompt":"I'm eating ramen for dinner.", "completion":"(noodles) STOP"}
+{"prompt":"Be careful!", "completion":"(warning) STOP"}
+{"prompt":"What time is it?", "completion":"(mantelpiececlock) STOP"}
+{"prompt":"Make a wish!", "completion":"(shootingstar) STOP"}
+{"prompt":"I'm not feeling well.", "completion":"(ill) STOP"}
+{"prompt":"It's almost Christmas!", "completion":"(reindeer) STOP"}
+{"prompt":"Can you help me?", "completion":"(persontippinghand) STOP"}
+{"prompt":"I received a package.", "completion":"(parcel) STOP"}
+{"prompt":"It's Women's Day today!", "completion":"(womenssymbol) STOP"}
+{"prompt":"Let's grab some burgers.", "completion":"(burger) STOP"}
+{"prompt":"I'm making mashed potatoes.", "completion":"(potato) STOP"}
+{"prompt":"I'm having corn for dinner.", "completion":"(corn) STOP"}
+{"prompt":"I miss you.", "completion":"(faceblowingakiss) STOP"}
+{"prompt":"It's raining outside.", "completion":"(rain) STOP"}
+{"prompt":"I'm visiting London.", "completion":"(london) STOP"}
+{"prompt":"I'm doing some drawing.", "completion":"(crayon) STOP"}
+{"prompt":"Happy St. Patrick's Day!", "completion":"(shamrock) STOP"}
+{"prompt":"It's snowing!", "completion":"(cloudwithsnow) STOP"}
+{"prompt":"I'm going to a fancy party.", "completion":"(tophat) STOP"}
+{"prompt":"I'm cooking dumplings tonight.", "completion":"(dumpling) STOP"}
+{"prompt":"Working late at the office.", "completion":"(personofficeworker) STOP"}
+{"prompt":"Reading a fairy tale to my kids.", "completion":"(fairy) STOP"}
+{"prompt":"Took a minibus to the city.", "completion":"(minibus) STOP"}
+{"prompt":"Look at this cute chick!", "completion":"(frontfacingbabychick) STOP"}
+{"prompt":"Let's pray for peace.", "completion":"(palmsuptogether) STOP"}
+{"prompt":"My dad was awarded a military medal.", "completion":"(militarymedal) STOP"}
+{"prompt":"Just exchanged some euros for my trip.", "completion":"(euro) STOP"}
+{"prompt":"Eating a banana for breakfast.", "completion":"(banana) STOP"}
+{"prompt":"I'm feeling a bit down today.", "completion":"(wiltedflower) STOP"}
+{"prompt":"I don't understand this.", "completion":"(confused) STOP"}
+{"prompt":"Watching the sunrise over the mountains.", "completion":"(sunriseovermountains) STOP"}
+{"prompt":"Going skiing this winter.", "completion":"(skier) STOP"}
+{"prompt":"We need more accessibility ramps.", "completion":"(personinmanualwheelchair) STOP"}
+{"prompt":"Such a beautiful full moon tonight.", "completion":"(fullmoonsymbol) STOP"}
+{"prompt":"I visited a dairy farm today.", "completion":"(cow) STOP"}
+{"prompt":"Protesting for a cause.", "completion":"(placard) STOP"}
+{"prompt":"I'm trying to solve a mystery.", "completion":"(detective) STOP"}
+{"prompt":"Just got paid today!", "completion":"(moneybag) STOP"}
+{"prompt":"I got fresh eggs from the farm.", "completion":"(hendance) STOP"}
+{"prompt":"I saw a beaver at the park.", "completion":"(beaver) STOP"}
+{"prompt":"I'm learning to play the piano.", "completion":"(musicalkeyboard) STOP"}
+{"prompt":"Ready for the beach!", "completion":"(sunglasses) STOP"}
+{"prompt":"Be careful, it's dangerous.", "completion":"(highvoltage) STOP"}
+{"prompt":"I love desert plants.", "completion":"(cactuslove) STOP"}
+{"prompt":"There's a bug in my code.", "completion":"(beetle) STOP"}
+{"prompt":"I'm going to ride my scooter to the park.", "completion":"(kickscooter) STOP"}
+{"prompt":"Let's go to the circus!", "completion":"(circustent) STOP"}
+{"prompt":"Be careful, the floor is wet.", "completion":"(warning) STOP"}
+{"prompt":"I work in a manufacturing company.", "completion":"(factory) STOP"}
+{"prompt":"I'm visiting a shrine in Japan.", "completion":"(shintoshrine) STOP"}
+{"prompt":"Look at the sky!", "completion":"(backhandindexpointingup) STOP"}
+{"prompt":"I need to fix the roof.", "completion":"(ladder) STOP"}
+{"prompt":"I'm going for a walk.", "completion":"(womanwalking) STOP"}
+{"prompt":"I'm going to the farm today.", "completion":"(womanfarmer) STOP"}
+{"prompt":"I found a bird's feather.", "completion":"(feather) STOP"}
+{"prompt":"Look at the cute piglets!", "completion":"(pigface) STOP"}
+{"prompt":"I'm learning to play the piano.", "completion":"(musicalkeyboard) STOP"}
+{"prompt":"It's getting cold, better wear a scarf.", "completion":"(scarf) STOP"}
+{"prompt":"I visited a wildlife sanctuary in Australia.", "completion":"(coolkoala) STOP"}
+{"prompt":"My cat is so affectionate today.", "completion":"(kissingcat) STOP"}
+{"prompt":"The time is up!", "completion":"(hourglassdone) STOP"}
+{"prompt":"I need a new desk chair.", "completion":"(chair) STOP"}
+{"prompt":"I'm visiting Tokyo next month.", "completion":"(tokyotower) STOP"}
+{"prompt":"I love New York style bagels.", "completion":"(bagel) STOP"}
+{"prompt":"I have a question.", "completion":"(womanraisinghand) STOP"}
+{"prompt":"Taking a stroll in the park.", "completion":"(manwalking) STOP"}
+{"prompt":"Saw a cute chipmunk in the garden.", "completion":"(chipmunk) STOP"}
+{"prompt":"Listening to my favorite radio station.", "completion":"(radio) STOP"}
+{"prompt":"I'm so tired today.", "completion":"(yawningface) STOP"}
+{"prompt":"Getting ready for the Halloween party.", "completion":"(dracula) STOP"}
+{"prompt":"Waiting for my luggage at the airport.", "completion":"(baggageclaim) STOP"}
+{"prompt":"Starting a new gardening project.", "completion":"(seedling) STOP"}
+{"prompt":"I received a letter today.", "completion":"(closedmailboxwithflag) STOP"}
+{"prompt":"My dad was awarded a military medal.", "completion":"(militarymedal) STOP"}
+{"prompt":"I love penguins, they're so cute!", "completion":"(penguinkiss) STOP"}
+{"prompt":"Watching a curling match.", "completion":"(curlingstone) STOP"}
+{"prompt":"Can you taste the food?", "completion":"(mouth) STOP"}
+{"prompt":"I just bought a new purse.", "completion":"(handbag) STOP"}
+{"prompt":"I'm going for a tram ride in the mountains.", "completion":"(aerialtramway) STOP"}
+{"prompt":"My best friend is getting married.", "completion":"(personwithveil) STOP"}
+{"prompt":"The moon looks beautiful tonight.", "completion":"(lastquartermoonsymbol) STOP"}
+{"prompt":"I aced the exam!", "completion":"(cool) STOP"}
+{"prompt":"I'm feeling really sick.", "completion":"(vomit) STOP"}
+{"prompt":"I think I'm catching a cold.", "completion":"(sneezingface) STOP"}
+{"prompt":"It's way too hot outside.", "completion":"(hotface) STOP"}
+{"prompt":"I'm freezing!", "completion":"(shivering) STOP"}
+{"prompt":"I drank too much last night.", "completion":"(hungover) STOP"}
+{"prompt":"I feel so dizzy.", "completion":"(dizzyface) STOP"}
+{"prompt":"I'm so confused right now.", "completion":"(facewithspiraleyes) STOP"}
+{"prompt":"My mind is blown!", "completion":"(explodinghead) STOP"}
+{"prompt":"This has gone totally off the rails", "completion":"(cowboyhatface) STOP"}
+{"prompt":"I'm really mad right now.", "completion":"(angry) STOP"}
+{"prompt":"I can't believe he did that!", "completion":"(swear) STOP"}
+{"prompt":"He's acting like a real devil.", "completion":"(devil) STOP"}
+{"prompt":"I'm really angry about this.", "completion":"(angryfacewithhorns) STOP"}
+{"prompt":"I'm dead tired.", "completion":"(skull) STOP"}
+{"prompt":"I'm feeling like a grumpy ogre today.", "completion":"(ogre) STOP"}
+{"prompt":"He's acting sneaky like a goblin.", "completion":"(goblin) STOP"}
+{"prompt":"I'm feeling spooky.", "completion":"(ghost) STOP"}
+{"prompt":"I feel out of this world.", "completion":"(alien) STOP"}
+{"prompt":"I'm ready for a sci-fi movie night.", "completion":"(alienmonster) STOP"}
+{"prompt":"I'm excited about the new tech release.", "completion":"(smilerobot) STOP"}
+{"prompt":"That's a cute cat video.", "completion":"(smilecat) STOP"}
+{"prompt":"That cat meme is hilarious.", "completion":"(laughcat) STOP"}
+{"prompt":"That's the funniest cat video I've ever seen!", "completion":"(catwithtearsofjoy) STOP"}
+{"prompt":"I absolutely love cats.", "completion":"(hearteyescat) STOP"}
+{"prompt":"That cat has a smug look.", "completion":"(catwithwrysmile) STOP"}
+{"prompt":"That cat is adorable!", "completion":"(kissingcat) STOP"}
+{"prompt":"My cat looks so tired.", "completion":"(wearycat) STOP"}
+{"prompt":"My dog looks so sad today.", "completion":"(saddog) STOP"}
+{"prompt":"I feel as sad as a monkey without bananas.", "completion":"(sadmonkey) STOP"}
+{"prompt":"I'm not having a good day.", "completion":"(sadrobot) STOP"}
+{"prompt":"I'm feeling as tired as a koala.", "completion":"(sadkoala) STOP"}
+{"prompt":"I had the weirdest dream last night.", "completion":"(dream) STOP"}
+{"prompt":"I'm so frustrated!", "completion":"(banghead) STOP"}
+{"prompt":"I'm listening to my favorite music.", "completion":"(headphones) STOP"}
+{"prompt":"I'm ready for the Christmas party.", "completion":"(crazyxmas) STOP"}
+{"prompt":"I just had a great idea!", "completion":"(idea) STOP"}
+{"prompt":"I'm ready for a workout.", "completion":"(punch) STOP"}
+{"prompt":"I'm feeling quite cheerful today.", "completion":"(rainbowsmile) STOP"}
+{"prompt":"I'm so tired.", "completion":"(yawn) STOP"}
+{"prompt":"I didn't do it!", "completion":"(wasntme) STOP"}
+{"prompt":"That was an amazing performance!", "completion":"(applause) STOP"}
+{"prompt":"It's time to party!", "completion":"(celebrate) STOP"}
+{"prompt":"I love this song so much.", "completion":"(hearthands) STOP"}
+{"prompt":"Welcome to the team!", "completion":"(openhands) STOP"}
+{"prompt":"I'm very thankful.", "completion":"(palmsuptogether) STOP"}
+{"prompt":"Let's make a deal.", "completion":"(handshake) STOP"}
+{"prompt":"I'm praying for your wellbeing.", "completion":"(pray) STOP"}
+{"prompt":"I'm writing a letter.", "completion":"(writinghand) STOP"}
+{"prompt":"I'm doing my nails.", "completion":"(nailpolish) STOP"}
+{"prompt":"Let's take a selfie!", "completion":"(selfiehand) STOP"}
+{"prompt":"I'm studying robotic engineering.", "completion":"(mechanicalarm) STOP"}
+{"prompt":"I'm learning about prosthetics.", "completion":"(mechanicalleg) STOP"}
+{"prompt":"I injured my leg.", "completion":"(leg) STOP"}
+{"prompt":"I stepped on a lego.", "completion":"(foot) STOP"}
+{"prompt":"I'm listening to music.", "completion":"(ear) STOP"}
+{"prompt":"I just got a hearing aid.", "completion":"(earwithhearingaid) STOP"}
+{"prompt":"I smell something good.", "completion":"(nose) STOP"}
+{"prompt":"I'm studying for a neuroscience exam.", "completion":"(brain) STOP"}
+{"prompt":"I'm learning about the cardiovascular system.", "completion":"(anatomicalheart) STOP"}
+{"prompt":"I'm studying the respiratory system.", "completion":"(lungs) STOP"}
+{"prompt":"I have a dentist appointment.", "completion":"(tooth) STOP"}
+{"prompt":"I'm learning about the skeletal system.", "completion":"(bone) STOP"}
+{"prompt":"I just got new glasses.", "completion":"(eyes) STOP"}
+{"prompt":"Our baby is so cute when he smiles.", "completion":"(smilebaby) STOP"}
+{"prompt":"I'm taking my child to the park today.", "completion":"(child) STOP"}
+{"prompt":"My son has a beautiful smile.", "completion":"(smileboy) STOP"}
+{"prompt":"My daughter is so happy today.", "completion":"(smilegirl) STOP"}
+{"prompt":"I'm just an ordinary person.", "completion":"(person) STOP"}
+{"prompt":"I dyed my hair blonde.", "completion":"(blondehairedperson) STOP"}
+{"prompt":"My dad is always smiling.", "completion":"(smileman) STOP"}
+{"prompt":"I just grew a beard.", "completion":"(beardedperson) STOP"}
+{"prompt":"My husband has a nice beard.", "completion":"(manbeard) STOP"}
+{"prompt":"I decided to try something new and grew a beard.", "completion":"(womanbeard) STOP"}
+{"prompt":"I can't believe I forgot my keys again.", "completion":"(womanfacepalming) STOP"}
+{"prompt":"I don't know what happened.", "completion":"(shrug) STOP"}
+{"prompt":"I have no idea what to do.", "completion":"(manshrug) STOP"}
+{"prompt":"I don't know how to solve this problem.", "completion":"(womanshrug) STOP"}
+{"prompt":"I'm working in the healthcare industry.", "completion":"(personhealthworker) STOP"}
+{"prompt":"I'm a doctor.", "completion":"(manhealthworker) STOP"}
+{"prompt":"I'm a judge.", "completion":"(personjudge) STOP"}
+{"prompt":"My dad is a judge.", "completion":"(manjudge) STOP"}
+{"prompt":"My mom is a judge.", "completion":"(womanjudge) STOP"}
+{"prompt":"I'm a farmer.", "completion":"(personfarmer) STOP"}
+{"prompt":"My brother is a farmer.", "completion":"(manfarmer) STOP"}
+{"prompt":"My sister is a farmer.", "completion":"(womanfarmer) STOP"}
+{"prompt":"I'm a chef.", "completion":"(personchef) STOP"}
+{"prompt":"My uncle is a chef.", "completion":"(manchef) STOP"}
+{"prompt":"My aunt is a chef.", "completion":"(womanchef) STOP"}
+{"prompt":"I'm having a salad for lunch.", "completion":"(lettuce) STOP"}
+{"prompt":"I'm making a stir-fry tonight.", "completion":"(broccoli) STOP"}
+{"prompt":"I'm cooking with lots of flavors tonight.", "completion":"(garlic) STOP"}
+{"prompt":"I'm making a soup.", "completion":"(onion) STOP"}
+{"prompt":"I'm making a pizza from scratch.", "completion":"(mushroom) STOP"}
+{"prompt":"I'm making a pizza tonight.", "completion":"(flatbread) STOP"}
+{"prompt":"I'm craving some snacks.", "completion":"(pretzel) STOP"}
+{"prompt":"I'm having breakfast on the go.", "completion":"(bagel) STOP"}
+{"prompt":"I'm making a sweet breakfast.", "completion":"(pancake) STOP"}
+{"prompt":"I'm having brunch at home.", "completion":"(waffle) STOP"}
+{"prompt":"Welcome to the team, Alicia", "completion":"(wave) STOP"}
+{"prompt":"hello!", "completion":"(wave) STOP"}
+{"prompt":"Nice to meet you", "completion":"(wave) STOP"}
+{"prompt":"are you paying attention?", "completion":"(wave) STOP"}
+{"prompt":"It's been a while!", "completion":"(wave) STOP"}
+{"prompt":"PTAL", "completion":"(eyes) STOP"}
+{"prompt":"you there?", "completion":"(eyes) STOP"}
+{"prompt":"heres the doc", "completion":"(eyes) STOP"}
+{"prompt":"have you read this yet", "completion":"(eyes) STOP"}
+{"prompt":"look at this!", "completion":"(eyes) STOP"}
+{"prompt":"I can't believe what just happened", "completion":"(vomit) STOP"}
+{"prompt":"That food was disgusting", "completion":"(vomit) STOP"}
+{"prompt":"I'm feeling so sick right now", "completion":"(vomit) STOP"}
+{"prompt":"That movie scene was too gory for me", "completion":"(vomit) STOP"}
+{"prompt":"This place smells awful", "completion":"(vomit) STOP"}
+{"prompt":"I'm so excited for the weekend", "completion":"(beamingfacewithbigeyes) STOP"}  
+{"prompt":"That's amazing news!", "completion":"(beamingfacewithbigeyes) STOP"}  
+{"prompt":"I just won the lottery!", "completion":"(beamingfacewithbigeyes) STOP"}  
+{"prompt":"I can't believe we're going on vacation", "completion":"(beamingfacewithbigeyes) STOP"}  
+{"prompt":"I just got a promotion at work", "completion":"(beamingfacewithbigeyes) STOP"}
+{"prompt":"That joke was hilarious", "completion":"(rofl) STOP"}  
+{"prompt":"I can't stop laughing at that video", "completion":"(rofl) STOP"}  
+{"prompt":"Your humor is on point today", "completion":"(rofl) STOP"}  
+{"prompt":"That was the funniest thing I've heard in a while", "completion":"(rofl) STOP"}  
+{"prompt":"You always know how to make me laugh", "completion":"(rofl) STOP"}
+{"prompt":"I'm having a rough day", "completion":"(frowning) STOP"}  
+{"prompt":"I just got some bad news", "completion":"(frowning) STOP"}  
+{"prompt":"I'm not feeling well today", "completion":"(frowning) STOP"}  
+{"prompt":"That didn't go as planned", "completion":"(frowning) STOP"}  
+{"prompt":"I'm disappointed with the results", "completion":"(frowning) STOP"}
+{"prompt":"Feeling fabulous today", "completion":"(princess) STOP"}  
+{"prompt":"I just got pampered at the spa", "completion":"(princess) STOP"}  
+{"prompt":"I'm the queen of my own castle", "completion":"(princess) STOP"}  
+{"prompt":"All dressed up for a fancy event", "completion":"(princess) STOP"}  
+{"prompt":"You're the fairest of them all", "completion":"(princess) STOP"}
+{"prompt":"Sending love your way", "completion":"(kiss) STOP"}  
+{"prompt":"Goodnight, sweet dreams", "completion":"(kiss) STOP"}  
+{"prompt":"Miss you, hope to see you soon", "completion":"(kiss) STOP"}  
+{"prompt":"Thank you for everything", "completion":"(kiss) STOP"}  
+{"prompt":"I love you", "completion":"(kiss) STOP"}
+{"prompt":"Sending you a big virtual hug", "completion":"(hearthands) STOP"}  
+{"prompt":"I appreciate you so much", "completion":"(hearthands) STOP"}  
+{"prompt":"You are loved and cared for", "completion":"(hearthands) STOP"}  
+{"prompt":"Thank you for being there for me", "completion":"(hearthands) STOP"}  
+{"prompt":"Just a little reminder that you're amazing", "completion":"(hearthands) STOP"}
+{"prompt":"If you need any assistance, just let me know", "completion":"(womantippinghand) STOP"}  
+{"prompt":"Here's some helpful advice for you", "completion":"(womantippinghand) STOP"}  
+{"prompt":"I'm your go-to person for this task", "completion":"(womantippinghand) STOP"}  
+{"prompt":"Allow me to guide you through this process", "completion":"(womantippinghand) STOP"}  
+{"prompt":"I'll be more than happy to help you out", "completion":"(womantippinghand) STOP"}
+{"prompt":"Let's look at things from a different perspective", "completion":"(upsidedownface) STOP"}  
+{"prompt":"I guess I'll just go with the flow", "completion":"(upsidedownface) STOP"}  
+{"prompt":"Well, that's one way to do it", "completion":"(upsidedownface) STOP"}  
+{"prompt":"Sometimes you just have to laugh at the situation", "completion":"(upsidedownface) STOP"}  
+{"prompt":"Life can be pretty unpredictable", "completion":"(upsidedownface) STOP"}
+{"prompt":"You did an amazing job", "completion":"(sparkles) STOP"}  
+{"prompt":"Wishing you a magical day", "completion":"(sparkles) STOP"}  
+{"prompt":"That outfit looks stunning on you", "completion":"(sparkles) STOP"}  
+{"prompt":"Congratulations on your success", "completion":"(sparkles) STOP"}  
+{"prompt":"Let's celebrate this special moment", "completion":"(sparkles) STOP"}
+{"prompt":"I'm so grateful for our friendship", "completion":"(sparklingheart) STOP"}  
+{"prompt":"You light up my life", "completion":"(sparklingheart) STOP"}  
+{"prompt":"I can't wait to see you again", "completion":"(sparklingheart) STOP"}  
+{"prompt":"You mean the world to me", "completion":"(sparklingheart) STOP"}  
+{"prompt":"Sending you good vibes and love", "completion":"(sparklingheart) STOP"}
+{"prompt":"I can't believe you just said that", "completion":"(unamused) STOP"}  
+{"prompt":"That joke wasn't funny", "completion":"(unamused) STOP"}  
+{"prompt":"I'm not impressed with this situation", "completion":"(unamused) STOP"}  
+{"prompt":"You're not taking this seriously", "completion":"(unamused) STOP"}  
+{"prompt":"This is getting old", "completion":"(unamused) STOP"}
+{"prompt":"I'm feeling a bit down today", "completion":"(sad) STOP"}  
+{"prompt":"I just got some bad news", "completion":"(sad) STOP"}  
+{"prompt":"It's been a tough day", "completion":"(sad) STOP"}  
+{"prompt":"I miss you so much", "completion":"(sad) STOP"}  
+{"prompt":"I wish things were different", "completion":"(sad) STOP"}
+{"prompt":"I just got a bonus at work", "completion":"(moneymouthface) STOP"}  
+{"prompt":"Payday is finally here", "completion":"(moneymouthface) STOP"}  
+{"prompt":"I won a bet with my friend", "completion":"(moneymouthface) STOP"}  
+{"prompt":"I found a great deal on that item I wanted", "completion":"(moneymouthface) STOP"}  
+{"prompt":"My investment just paid off", "completion":"(moneymouthface) STOP"}
+{"prompt":"That was a close call", "completion":"(sweatgrinning) STOP"}  
+{"prompt":"Phew, I barely made it on time", "completion":"(sweatgrinning) STOP"}  
+{"prompt":"I just finished a tough workout", "completion":"(sweatgrinning) STOP"}  
+{"prompt":"Just got caught in the rain, but I'm okay", "completion":"(sweatgrinning) STOP"}  
+{"prompt":"I survived my first day at the new job", "completion":"(sweatgrinning) STOP"}
+{"prompt":"Staying up late studying", "completion":"(owl) STOP"}  
+{"prompt":"Night owl mode activated", "completion":"(owl) STOP"}  
+{"prompt":"Wise like an owl", "completion":"(owl) STOP"}  
+{"prompt":"Quiet as an owl", "completion":"(owl) STOP"}  
+{"prompt":"Feeling nocturnal today", "completion":"(owl) STOP"}
+{"prompt":"Happy St. Patrick's Day!", "completion":"(shamrock) STOP"}  
+{"prompt":"Feeling lucky today", "completion":"(shamrock) STOP"}  
+{"prompt":"Luck of the Irish", "completion":"(shamrock) STOP"}  
+{"prompt":"Found a four-leaf clover", "completion":"(shamrock) STOP"}  
+{"prompt":"Wishing you good luck", "completion":"(shamrock) STOP"}
+{"prompt":"This meal is delicious", "completion":"(yum) STOP"}  
+{"prompt":"Can't wait to dig in", "completion":"(yum) STOP"}  
+{"prompt":"Mouth-watering food", "completion":"(yum) STOP"}  
+{"prompt":"Taste buds are tingling", "completion":"(yum) STOP"}  
+{"prompt":"That dessert looks amazing", "completion":"(yum) STOP"}
+{"prompt":"Baking some fresh bread today", "completion":"(bread) STOP"}  
+{"prompt":"Let's get this bread", "completion":"(bread) STOP"}  
+{"prompt":"Craving a warm loaf of bread", "completion":"(bread) STOP"}  
+{"prompt":"Bread makes everything better", "completion":"(bread) STOP"}  
+{"prompt":"I love a good sandwich", "completion":"(bread) STOP"}
+{"prompt":"Time to wake up!", "completion":"(alarmclock) STOP"}  
+{"prompt":"Don't forget to set your alarm", "completion":"(alarmclock) STOP"}  
+{"prompt":"Early bird gets the worm", "completion":"(alarmclock) STOP"}  
+{"prompt":"Rise and shine", "completion":"(alarmclock) STOP"}  
+{"prompt":"It's a brand new day", "completion":"(alarmclock) STOP"}
+{"prompt":"Let's hit the beach", "completion":"(waterwave) STOP"}  
+{"prompt":"Surf's up!", "completion":"(waterwave) STOP"}  
+{"prompt":"Life's better by the ocean", "completion":"(waterwave) STOP"}  
+{"prompt":"Riding the waves", "completion":"(waterwave) STOP"}  
+{"prompt":"Enjoying a day at the seaside", "completion":"(waterwave) STOP"}
+{"prompt":"Unlocking the secrets of life", "completion":"(dna) STOP"}  
+{"prompt":"Exploring genetics", "completion":"(dna) STOP"}  
+{"prompt":"The building blocks of life", "completion":"(dna) STOP"}  
+{"prompt":"Discovering our ancestry", "completion":"(dna) STOP"}  
+{"prompt":"Advancements in genetic research", "completion":"(dna) STOP"}
+{"prompt":"Feeling like crap today", "completion":"(poop) STOP"}  
+{"prompt":"Well, that's a crappy situation", "completion":"(poop) STOP"}  
+{"prompt":"When things don't go as planned", "completion":"(poop) STOP"}  
+{"prompt":"Sh*t happens", "completion":"(poop) STOP"}  
+{"prompt":"Trying to make the best out of a bad situation", "completion":"(poop) STOP"}
+{"prompt":"Great job!", "completion":"(thumbsup) STOP"}  
+{"prompt":"I approve", "completion":"(thumbsup) STOP"}  
+{"prompt":"Keep up the good work", "completion":"(thumbsup) STOP"}  
+{"prompt":"You got this", "completion":"(thumbsup) STOP"}  
+{"prompt":"Nice going", "completion":"(thumbsup) STOP"}
+{"prompt":"I'm feeling a bit down today", "completion":"(sadkoala) STOP"}  
+{"prompt":"Missing my eucalyptus tree", "completion":"(sadkoala) STOP"}  
+{"prompt":"Homesick for the land down under", "completion":"(sadkoala) STOP"}  
+{"prompt":"Not feeling like my cuddly self", "completion":"(sadkoala) STOP"}  
+{"prompt":"When life gets a little too tough", "completion":"(sadkoala) STOP"}
+{"prompt":"Feeling on top of the world", "completion":"(coolcat) STOP"}  
+{"prompt":"Too cool for school", "completion":"(coolcat) STOP"}  
+{"prompt":"Living the good life", "completion":"(coolcat) STOP"}  
+{"prompt":"Smooth operator", "completion":"(coolcat) STOP"}  
+{"prompt":"Just chilling like a boss", "completion":"(coolcat) STOP"}
+{"prompt":"That joke killed me", "completion":"(skull) STOP"}  
+{"prompt":"Dead tired after a long day", "completion":"(skull) STOP"}  
+{"prompt":"Spooky season is upon us", "completion":"(skull) STOP"}  
+{"prompt":"Feeling a bit lifeless today", "completion":"(skull) STOP"}  
+{"prompt":"Bare bones kind of day", "completion":"(skull) STOP"}
+{"prompt":"Just kidding!", "completion":"(winktongueout) STOP"}  
+{"prompt":"Gotcha!", "completion":"(winktongueout) STOP"}  
+{"prompt":"Feeling cheeky today", "completion":"(winktongueout) STOP"}  
+{"prompt":"I'm just teasing you", "completion":"(winktongueout) STOP"}  
+{"prompt":"I know something you don't", "completion":"(winktongueout) STOP"}
+{"prompt":"That joke was hilarious", "completion":"(lol) STOP"}  
+{"prompt":"You always make me laugh", "completion":"(lol) STOP"}  
+{"prompt":"I can't stop laughing at that", "completion":"(lol) STOP"}  
+{"prompt":"This meme is so funny", "completion":"(lol) STOP"}  
+{"prompt":"Did that really just happen", "completion":"(lol) STOP"}
+{"prompt":"I hope I get the job", "completion":"(crossedfingers) STOP"}  
+{"prompt":"Fingers crossed for good luck", "completion":"(crossedfingers) STOP"}  
+{"prompt":"Wishing you the best on your exam", "completion":"(crossedfingers) STOP"}  
+{"prompt":"Let's hope the weather stays nice", "completion":"(crossedfingers) STOP"}  
+{"prompt":"I'm hoping for a positive outcome", "completion":"(crossedfingers) STOP"}
+{"prompt":"Check out my new beard style", "completion":"(manbeard) STOP"}  
+{"prompt":"No shave November, here I come", "completion":"(manbeard) STOP"}  
+{"prompt":"I feel more distinguished with this beard", "completion":"(manbeard) STOP"}  
+{"prompt":"Embracing the lumberjack look", "completion":"(manbeard) STOP"}  
+{"prompt":"I'm growing out my beard for charity", "completion":"(manbeard) STOP"}
+{"prompt":"I approve of your idea", "completion":"(mangesturingok) STOP"}  
+{"prompt":"Everything is going smoothly", "completion":"(mangesturingok) STOP"}  
+{"prompt":"No worries, I've got it under control", "completion":"(mangesturingok) STOP"}  
+{"prompt":"This plan sounds perfect", "completion":"(mangesturingok) STOP"}  
+{"prompt":"You did a great job on the project", "completion":"(mangesturingok) STOP"}
+{"prompt":"My grandma always gives the best advice", "completion":"(oldwoman) STOP"}  
+{"prompt":"Spending quality time with my elderly neighbor", "completion":"(oldwoman) STOP"}  
+{"prompt":"She's a wise and experienced woman", "completion":"(oldwoman) STOP"}  
+{"prompt":"I love listening to her stories from the past", "completion":"(oldwoman) STOP"}  
+{"prompt":"Celebrating my great aunt's 90th birthday", "completion":"(oldwoman) STOP"}
+{"prompt":"I don't know the answer", "completion":"(womanshrug) STOP"}  
+{"prompt":"Not sure what to do in this situation", "completion":"(womanshrug) STOP"}  
+{"prompt":"It's anyone's guess at this point", "completion":"(womanshrug) STOP"}  
+{"prompt":"I'm just as confused as you are", "completion":"(womanshrug) STOP"}  
+{"prompt":"Who knows what will happen next", "completion":"(womanshrug) STOP"}
+{"prompt":"I'm late, gotta run", "completion":"(running) STOP"}  
+{"prompt":"Just finished a 5k race", "completion":"(running) STOP"}  
+{"prompt":"Trying to catch the bus", "completion":"(running) STOP"}  
+{"prompt":"Working on my fitness goals", "completion":"(running) STOP"}  
+{"prompt":"Rushing to the meeting", "completion":"(running) STOP"}
+{"prompt":"I'm so tired, I feel like a zombie", "completion":"(zombie) STOP"}  
+{"prompt":"Watching a scary movie marathon", "completion":"(zombie) STOP"}  
+{"prompt":"Walking Dead fan for life", "completion":"(zombie) STOP"}  
+{"prompt":"Halloween costume idea: undead", "completion":"(zombie) STOP"}  
+{"prompt":"Late-night studying turned me into a creature of the night", "completion":"(zombie) STOP"}
+{"prompt":"Visited the wildlife sanctuary and saw majestic elephants", "completion":"(elephant) STOP"}  
+{"prompt":"Let's address the elephant in the room", "completion":"(elephant) STOP"}  
+{"prompt":"I love collecting elephant figurines", "completion":"(elephant) STOP"}  
+{"prompt":"Did you know elephants have incredible memory?", "completion":"(elephant) STOP"}  
+{"prompt":"Watching a documentary on elephant conservation", "completion":"(elephant) STOP"}
+{"prompt":"Feeling lazy today", "completion":"(sloth) STOP"}  
+{"prompt":"Sundays are for relaxing and doing nothing", "completion":"(sloth) STOP"}  
+{"prompt":"I wish I could be as carefree as a sloth", "completion":"(sloth) STOP"}  
+{"prompt":"Visited the zoo and saw the cutest sloths", "completion":"(sloth) STOP"}  
+{"prompt":"Sometimes I need a break from the fast-paced world", "completion":"(sloth) STOP"}
+{"prompt":"Taking public transportation to work today", "completion":"(metro) STOP"}  
+{"prompt":"Heading to the city center via metro", "completion":"(metro) STOP"}  
+{"prompt":"Exploring a new city with their subway system", "completion":"(metro) STOP"}  
+{"prompt":"Avoiding traffic jams by using the underground", "completion":"(metro) STOP"}  
+{"prompt":"I love the convenience of living near a metro station", "completion":"(metro) STOP"}
+{"prompt":"Winter is coming", "completion":"(snowflake) STOP"}  
+{"prompt":"Dreaming of a white Christmas", "completion":"(snowflake) STOP"}  
+{"prompt":"It's snowing outside", "completion":"(snowflake) STOP"}  
+{"prompt":"Let's go skiing this weekend", "completion":"(snowflake) STOP"}  
+{"prompt":"Hot cocoa and cozy blankets for this snowy day", "completion":"(snowflake) STOP"}
+{"prompt":"Feeling cool and confident today", "completion":"(sunglasses) STOP"}  
+{"prompt":"Ready for a sunny beach vacation", "completion":"(sunglasses) STOP"}  
+{"prompt":"Don't forget to protect your eyes from the sun", "completion":"(sunglasses) STOP"}  
+{"prompt":"Rocking my new shades", "completion":"(sunglasses) STOP"}  
+{"prompt":"Sunglasses: the perfect accessory for a sunny day", "completion":"(sunglasses) STOP"}
+{"prompt":"Don't forget to take your medication", "completion":"(pill) STOP"}  
+{"prompt":"Time for my daily vitamins", "completion":"(pill) STOP"}  
+{"prompt":"This headache needs some relief", "completion":"(pill) STOP"}  
+{"prompt":"I need to pick up my prescription", "completion":"(pill) STOP"}  
+{"prompt":"The doctor prescribed me this medicine", "completion":"(pill) STOP"}
+{"prompt":"Happy Birthday!", "completion":"(partypopper) STOP"}  
+{"prompt":"Congratulations on the promotion!", "completion":"(partypopper) STOP"}  
+{"prompt":"Let's celebrate our success!", "completion":"(partypopper) STOP"}  
+{"prompt":"We did it, time to party!", "completion":"(partypopper) STOP"}  
+{"prompt":"Cheers to the new year!", "completion":"(partypopper) STOP"}
+{"prompt":"Save the date!", "completion":"(calendar) STOP"}  
+{"prompt":"Let's schedule a meeting", "completion":"(calendar) STOP"}  
+{"prompt":"What's your availability?", "completion":"(calendar) STOP"}  
+{"prompt":"Mark your calendars for the event", "completion":"(calendar) STOP"}  
+{"prompt":"Don't forget our appointment", "completion":"(calendar) STOP"}
+{"prompt":"Let's get some seafood tonight!", "completion":"(friedshrimp) STOP"}  
+{"prompt":"Who's up for shrimp tempura?", "completion":"(friedshrimp) STOP"}  
+{"prompt":"I'm craving shrimp right now", "completion":"(friedshrimp) STOP"}  
+{"prompt":"This restaurant has the best fried shrimp", "completion":"(friedshrimp) STOP"}  
+{"prompt":"Fried shrimp is my guilty pleasure", "completion":"(friedshrimp) STOP"}
+{"prompt":"Great idea!", "completion":"(bulb) STOP"}  
+{"prompt":"I just had a thought", "completion":"(bulb) STOP"}  
+{"prompt":"Eureka!", "completion":"(bulb) STOP"}  
+{"prompt":"That's a bright idea", "completion":"(bulb) STOP"}  
+{"prompt":"Let's try this new approach", "completion":"(bulb) STOP"}
+{"prompt":"Not bad, I'm okay", "completion":"(slightlysmiling) STOP"}  
+{"prompt":"could be worse", "completion":"(slightlysmiling) STOP"}  
+{"prompt":"halfway there", "completion":"(slightlysmiling) STOP"}  
+{"prompt":"not too shabby", "completion":"(slightlysmiling) STOP"}  
+{"prompt":"I'm alright, thanks for asking", "completion":"(slightlysmiling) STOP"}
+{"prompt":"Sending thoughts and prayers", "completion":"(pray) STOP"}  
+{"prompt":"Keep them in your prayers", "completion":"(pray) STOP"}  
+{"prompt":"I'm praying for your recovery", "completion":"(pray) STOP"}  
+{"prompt":"Praying for strength and guidance", "completion":"(pray) STOP"}  
+{"prompt":"Let's take a moment of silence", "completion":"(pray) STOP"}
+{"prompt":"Just kidding!", "completion":"(upsidedownface) STOP"}
