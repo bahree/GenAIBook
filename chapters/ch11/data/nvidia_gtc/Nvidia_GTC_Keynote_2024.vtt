@@ -1,0 +1,5552 @@
+WEBVTT
+
+00:00.000 --> 00:29.000
+I am a visionary.
+
+00:29.000 --> 00:40.000
+Illuminating galaxies to witness the birth of stars.
+
+00:40.000 --> 00:49.000
+Sharpening our understanding of extreme weather events.
+
+00:49.000 --> 00:52.000
+I am a helper.
+
+00:52.000 --> 01:00.000
+Guiding the blind through a crowded world.
+
+01:00.000 --> 01:03.000
+I was thinking about running to the store.
+
+01:03.000 --> 01:07.000
+And giving voice to those who cannot speak.
+
+01:07.000 --> 01:11.000
+To not make me laugh.
+
+01:11.000 --> 01:15.000
+I am a transformer.
+
+01:15.000 --> 01:26.000
+Harnessing gravity to store renewable power.
+
+01:26.000 --> 01:34.000
+And paving the way towards unlimited clean energy for us all.
+
+01:34.000 --> 01:38.000
+I am a trainer.
+
+01:38.000 --> 01:44.000
+Teaching robots to assist.
+
+01:44.000 --> 01:51.000
+To watch out for danger.
+
+01:51.000 --> 01:57.000
+And help save lives.
+
+01:57.000 --> 02:01.000
+I am a healer.
+
+02:01.000 --> 02:05.000
+Providing a new generation of cures.
+
+02:05.000 --> 02:08.000
+And new levels of patient care.
+
+02:08.000 --> 02:10.000
+Doctor, that I am allergic to penicillin.
+
+02:10.000 --> 02:12.000
+Is it still okay to take the medications?
+
+02:12.000 --> 02:13.000
+Definitely.
+
+02:13.000 --> 02:15.000
+These antibiotics don't contain penicillin.
+
+02:15.000 --> 02:19.000
+So it's perfectly safe for you to take them.
+
+02:19.000 --> 02:25.000
+I am a navigator.
+
+02:25.000 --> 02:30.000
+Generating virtual scenarios.
+
+02:30.000 --> 02:36.000
+To let us safely explore the real world.
+
+02:36.000 --> 02:43.000
+And understand every decision.
+
+02:43.000 --> 02:48.000
+I even helped write the script.
+
+02:48.000 --> 02:51.000
+Breathe life into the words.
+
+02:51.000 --> 02:54.000
+En muchos idiomas.
+
+02:54.000 --> 03:04.000
+Y escribí la música.
+
+03:04.000 --> 03:07.000
+I am AI.
+
+03:07.000 --> 03:10.000
+Brought to life by NVIDIA.
+
+03:10.000 --> 03:12.000
+Deep learning.
+
+03:12.000 --> 03:14.000
+And brilliant minds.
+
+03:14.000 --> 03:25.000
+Everywhere.
+
+03:25.000 --> 03:45.000
+Please welcome to the stage NVIDIA founder and CEO Jensen Wong.
+
+03:45.000 --> 03:52.000
+Welcome to GTC.
+
+03:52.000 --> 03:58.000
+I hope you realize this is not a concert.
+
+03:58.000 --> 04:04.000
+You have arrived at a developer's conference.
+
+04:04.000 --> 04:07.000
+There will be a lot of science described.
+
+04:07.000 --> 04:08.000
+Algorithms.
+
+04:08.000 --> 04:10.000
+Computer architecture.
+
+04:10.000 --> 04:20.000
+Mathematics.
+
+04:20.000 --> 04:25.000
+I sensed a very heavy weight in the room all of a sudden.
+
+04:25.000 --> 04:28.000
+Almost like you were in the wrong place.
+
+04:28.000 --> 04:38.000
+No conference in the world is there a greater assembly of researchers from such diverse fields of science.
+
+04:38.000 --> 04:49.000
+From climate tech to radio sciences trying to figure out how to use AI to robotically control MIMOs for next generation 6G radios.
+
+04:49.000 --> 04:53.000
+Robotic self-driving cars.
+
+04:53.000 --> 04:57.000
+Even artificial intelligence.
+
+04:57.000 --> 05:02.000
+Even artificial intelligence.
+
+05:02.000 --> 05:07.000
+First I noticed a sense of relief there all of a sudden.
+
+05:07.000 --> 05:13.000
+Also this conference is represented by some amazing companies.
+
+05:13.000 --> 05:18.000
+This list, this is not the attendees.
+
+05:18.000 --> 05:21.000
+These are the presenters.
+
+05:21.000 --> 05:24.000
+And what's amazing is this.
+
+05:24.000 --> 05:32.000
+If you take away all of my friends, close friends, Michael Dell is sitting right there.
+
+05:32.000 --> 05:39.000
+In the IT industry.
+
+05:39.000 --> 05:42.000
+All of the friends I grew up with in the industry.
+
+05:42.000 --> 05:47.000
+If you take away that list, this is what's amazing.
+
+05:47.000 --> 05:57.000
+These are the presenters of the non-IT industries using accelerated computing to solve problems that normal computers can't.
+
+05:58.000 --> 06:13.000
+It's represented in life sciences, healthcare, genomics, transportation of course, retail, logistics, manufacturing, industrial.
+
+06:13.000 --> 06:17.000
+The gamut of industries represented is truly amazing.
+
+06:17.000 --> 06:21.000
+And you're not here to attend, only you're here to present.
+
+06:21.000 --> 06:23.000
+To talk about your research.
+
+06:23.000 --> 06:29.000
+$100 trillion of the world's industries is represented in this room today.
+
+06:29.000 --> 06:37.000
+This is absolutely amazing.
+
+06:37.000 --> 06:40.000
+There is absolutely something happening.
+
+06:40.000 --> 06:43.000
+There is something going on.
+
+06:43.000 --> 06:47.000
+The industry is being transformed, not just ours.
+
+06:47.000 --> 06:55.000
+Because the computer industry, the computer is the single most important instrument of society today.
+
+06:55.000 --> 07:00.000
+Fundamental transformations in computing affects every industry.
+
+07:00.000 --> 07:01.000
+But how did we start?
+
+07:01.000 --> 07:03.000
+How did we get here?
+
+07:03.000 --> 07:04.000
+I made a little cartoon for you.
+
+07:04.000 --> 07:07.000
+Literally I drew this.
+
+07:07.000 --> 07:11.000
+In one page, this is Nvidia's journey.
+
+07:11.000 --> 07:13.000
+Started in 1993.
+
+07:13.000 --> 07:17.000
+This might be the rest of the talk.
+
+07:17.000 --> 07:18.000
+1993.
+
+07:18.000 --> 07:19.000
+This is our journey.
+
+07:19.000 --> 07:20.000
+We were founded in 1993.
+
+07:20.000 --> 07:23.000
+There are several important events that happened along the way.
+
+07:23.000 --> 07:25.000
+I'll just highlight a few.
+
+07:25.000 --> 07:31.000
+In 2006, CUDA, which has turned out to have been a revolutionary computing model.
+
+07:31.000 --> 07:33.000
+We thought it was revolutionary then.
+
+07:33.000 --> 07:35.000
+It was going to be an overnight success.
+
+07:35.000 --> 07:41.000
+And almost 20 years later it happened.
+
+07:41.000 --> 07:45.000
+We saw it coming.
+
+07:45.000 --> 07:49.000
+Two decades later.
+
+07:49.000 --> 07:59.000
+In 2012, AlexNet, AI and CUDA made first contact.
+
+07:59.000 --> 08:06.000
+In 2016, recognizing the importance of this computing model, we invented a brand new type of computer.
+
+08:06.000 --> 08:09.000
+We called it DGX1.
+
+08:09.000 --> 08:13.000
+170 teraflops in this supercomputer.
+
+08:13.000 --> 08:16.000
+8 GPUs connected together for the very first time.
+
+08:16.000 --> 08:33.000
+I hand delivered the very first DGX1 to a startup located in San Francisco called OpenAI.
+
+08:33.000 --> 08:36.000
+DGX1 was the world's first AI supercomputer.
+
+08:36.000 --> 08:40.000
+Remember, 170 teraflops.
+
+08:40.000 --> 08:44.000
+2017, the transformer arrived.
+
+08:44.000 --> 08:49.000
+2022, chat GPT captured the world's imaginations.
+
+08:49.000 --> 08:54.000
+Have people realize the importance and the capabilities of artificial intelligence.
+
+08:54.000 --> 09:00.000
+In 2023, generative AI emerged.
+
+09:00.000 --> 09:03.000
+And a new industry begins.
+
+09:03.000 --> 09:05.000
+Why?
+
+09:05.000 --> 09:07.000
+Why is a new industry?
+
+09:07.000 --> 09:09.000
+Because the software never existed before.
+
+09:09.000 --> 09:12.000
+We are now producing software.
+
+09:12.000 --> 09:14.000
+Using computers to write software.
+
+09:14.000 --> 09:17.000
+Producing software that never existed before.
+
+09:17.000 --> 09:19.000
+It is a brand new category.
+
+09:19.000 --> 09:21.000
+It took share from nothing.
+
+09:21.000 --> 09:23.000
+It's a brand new category.
+
+09:23.000 --> 09:29.000
+And the way you produce the software is unlike anything we've ever done before.
+
+09:29.000 --> 09:41.000
+In data centers, generating tokens, producing floating point numbers at very large scale.
+
+09:41.000 --> 09:46.000
+As if in the beginning of this last industrial revolution,
+
+09:46.000 --> 09:53.000
+When people realized that you would set up factories, apply energy to it.
+
+09:53.000 --> 09:57.000
+And this invisible valuable thing called electricity came out.
+
+09:57.000 --> 09:59.000
+AC generators.
+
+09:59.000 --> 10:06.000
+And 100 years later, 200 years later, we are now creating new types of electrons.
+
+10:07.000 --> 10:09.000
+Tokens.
+
+10:09.000 --> 10:12.000
+Using infrastructure we call factories, AI factories,
+
+10:12.000 --> 10:18.000
+To generate this new incredibly valuable thing called artificial intelligence.
+
+10:18.000 --> 10:21.000
+A new industry has emerged.
+
+10:21.000 --> 10:26.000
+Well, we're going to talk about many things about this new industry.
+
+10:26.000 --> 10:29.000
+We're going to talk about how we're going to do computing next.
+
+10:29.000 --> 10:34.000
+We're going to talk about the type of software that you build because of this new industry.
+
+10:34.000 --> 10:36.000
+The new software.
+
+10:36.000 --> 10:38.000
+How you would think about this new software.
+
+10:38.000 --> 10:42.000
+What about applications in this new industry?
+
+10:42.000 --> 10:44.000
+And then maybe what's next?
+
+10:44.000 --> 10:49.000
+And how can we start preparing today for what is about to come next?
+
+10:49.000 --> 10:56.000
+Well, but before I start, I want to show you the soul of NVIDIA.
+
+10:56.000 --> 10:58.000
+The soul of our company.
+
+10:58.000 --> 11:07.000
+At the intersection of computer graphics, physics, and artificial intelligence,
+
+11:07.000 --> 11:17.000
+all intersecting inside a computer, in Omniverse, in a virtual world simulation.
+
+11:17.000 --> 11:22.000
+Everything we're going to show you today, literally everything we're going to show you today,
+
+11:22.000 --> 11:26.000
+is a simulation, not animation.
+
+11:26.000 --> 11:28.000
+It's only beautiful because it's physics.
+
+11:28.000 --> 11:30.000
+The world is beautiful.
+
+11:30.000 --> 11:34.000
+It's only amazing because it's being animated with robotics.
+
+11:34.000 --> 11:37.000
+It's being animated with artificial intelligence.
+
+11:37.000 --> 11:44.000
+What you're about to see all day is completely generated, completely simulated in Omniverse.
+
+11:44.000 --> 11:52.000
+And all of it, what you're about to enjoy is the world's first concert where everything is homemade.
+
+11:52.000 --> 11:59.000
+Everything is homemade.
+
+11:59.000 --> 12:02.000
+You're about to watch some home videos.
+
+12:02.000 --> 12:05.000
+So sit back and enjoy yourself.
+
+12:22.000 --> 12:27.000
+The World of NVIDIA
+
+12:52.000 --> 13:02.000
+The World of NVIDIA
+
+13:22.000 --> 13:32.000
+The World of NVIDIA
+
+13:32.000 --> 13:43.000
+The World of NVIDIA
+
+13:44.000 --> 13:53.000
+The World of NVIDIA
+
+13:53.000 --> 14:02.000
+The World of NVIDIA
+
+14:02.000 --> 14:12.000
+The World of NVIDIA
+
+14:12.000 --> 14:22.000
+The World of NVIDIA
+
+14:22.000 --> 14:32.000
+The World of NVIDIA
+
+14:32.000 --> 14:42.000
+The World of NVIDIA
+
+14:42.000 --> 14:50.000
+The World of NVIDIA
+
+14:50.000 --> 14:56.000
+God, I love NVIDIA.
+
+14:56.000 --> 15:01.000
+Accelerated computing has reached the tipping point.
+
+15:01.000 --> 15:04.000
+General purpose computing has run out of steam.
+
+15:04.000 --> 15:09.000
+We need another way of doing computing so that we can continue to scale,
+
+15:09.000 --> 15:12.000
+so that we can continue to drive down the cost of computing,
+
+15:12.000 --> 15:18.000
+so that we can continue to consume more and more computing while being sustainable.
+
+15:18.000 --> 15:24.000
+Accelerated computing is a dramatic speed up over general purpose computing.
+
+15:24.000 --> 15:29.000
+And in every single industry we engage, and I'll show you many,
+
+15:29.000 --> 15:32.000
+the impact is dramatic.
+
+15:32.000 --> 15:36.000
+But in no industry is it more important than our own.
+
+15:36.000 --> 15:42.000
+The industry of using simulation tools to create products.
+
+15:42.000 --> 15:46.000
+In this industry, it is not about driving down the cost of computing,
+
+15:46.000 --> 15:49.000
+it's about driving up the scale of computing.
+
+15:49.000 --> 15:53.000
+We would like to be able to simulate the entire product that we do,
+
+15:53.000 --> 15:58.000
+completely in full fidelity, completely digitally,
+
+15:58.000 --> 16:01.000
+and essentially what we call digital twins.
+
+16:01.000 --> 16:09.000
+We would like to design it, build it, simulate it, operate it, completely digitally.
+
+16:09.000 --> 16:14.000
+In order to do that, we need to accelerate an entire industry.
+
+16:14.000 --> 16:20.000
+And today, I would like to announce that we have some partners who are joining us in this journey
+
+16:20.000 --> 16:23.000
+to accelerate their entire ecosystem,
+
+16:23.000 --> 16:28.000
+so that we can bring the world into accelerated computing.
+
+16:28.000 --> 16:30.000
+But there's a bonus.
+
+16:30.000 --> 16:36.000
+When you become accelerated, your infrastructure is Cuda GPUs.
+
+16:36.000 --> 16:42.000
+And when that happens, it's exactly the same infrastructure for generative AI.
+
+16:42.000 --> 16:48.000
+And so I'm just delighted to announce several very important partnerships.
+
+16:48.000 --> 16:50.000
+There are some of the most important companies in the world.
+
+16:50.000 --> 16:54.000
+Ansys does engineering simulation for what the world makes.
+
+16:54.000 --> 16:58.000
+We're partnering with them to Cuda accelerate the Ansys ecosystem,
+
+16:58.000 --> 17:02.000
+to connect Ansys to the omniverse digital twin.
+
+17:02.000 --> 17:04.000
+Incredible.
+
+17:04.000 --> 17:09.000
+The thing that's really great is that the install base of video GPU accelerated systems are all over the world,
+
+17:09.000 --> 17:13.000
+in every cloud, in every system, all over enterprises.
+
+17:13.000 --> 17:18.000
+And so the applications they accelerate will have a giant install base to go serve.
+
+17:18.000 --> 17:21.000
+End users will have amazing applications.
+
+17:21.000 --> 17:26.000
+And of course, system makers and CSPs will have great customer demand.
+
+17:26.000 --> 17:28.000
+Synopsys.
+
+17:28.000 --> 17:34.000
+Synopsys is NVIDIA's literally first software partner.
+
+17:34.000 --> 17:36.000
+They were there on the very first day of our company.
+
+17:36.000 --> 17:40.000
+Synopsys revolutionized the chip industry with high-level design.
+
+17:40.000 --> 17:44.000
+We are going to Cuda accelerate Synopsys.
+
+17:44.000 --> 17:51.000
+We're accelerating computational lithography, one of the most important applications that nobody's ever known about.
+
+17:51.000 --> 17:55.000
+In order to make chips, we have to push lithography to a limit.
+
+17:55.000 --> 18:02.000
+NVIDIA has created a library, a domain-specific library, that accelerates computational lithography.
+
+18:02.000 --> 18:04.000
+Incredibly.
+
+18:04.000 --> 18:13.000
+Once we can accelerate and software-define all of TSMC, who is announcing today that they're going to go into production with NVIDIA CULIFO,
+
+18:13.000 --> 18:25.000
+once the software defined and accelerated, the next step is to apply generative AI to the future of semiconductor manufacturing, pushing geometry even further.
+
+18:25.000 --> 18:30.000
+Cadence builds the world's essential EDA and SDA tools.
+
+18:30.000 --> 18:31.000
+We also use cadence.
+
+18:31.000 --> 18:36.000
+Between these three companies, Ansys, Synopsys and Cadence, we basically build NVIDIA.
+
+18:36.000 --> 18:40.000
+Together, we are Cuda accelerating Cadence.
+
+18:40.000 --> 18:51.000
+They're also building a supercomputer out of NVIDIA GPUs so that their customers could do fluid dynamic simulation at a hundred, a thousand times scale.
+
+18:51.000 --> 18:55.000
+Basically, a wind tunnel in real time.
+
+18:55.000 --> 18:59.000
+Cadence Millennium, a supercomputer with NVIDIA GPUs inside.
+
+18:59.000 --> 19:01.000
+A software company building supercomputers.
+
+19:01.000 --> 19:02.000
+I love seeing that.
+
+19:02.000 --> 19:05.000
+Building Cadence co-pilots together.
+
+19:05.000 --> 19:21.000
+Imagine a day when Cadence, Synopsys, Ansys tool providers would offer you AI co-pilots so that we have thousands and thousands of co-pilot assistants helping us design chips, design systems.
+
+19:21.000 --> 19:26.000
+And we're also going to connect Cadence Digital Twin Platform to Omniverse.
+
+19:26.000 --> 19:36.000
+As you can see the trend here, we're accelerating the world's CAE, EDA and SDA so that we could create our future in digital twins.
+
+19:36.000 --> 19:43.000
+And we're going to connect them all to Omniverse, the fundamental operating system for future digital twins.
+
+19:43.000 --> 19:52.000
+One of the industries that benefited tremendously from scale, and you know, you all know this one very well, large language models.
+
+19:52.000 --> 20:02.000
+Basically, after the transformer was invented, we were able to scale large language models at incredible rates, effectively doubling every six months.
+
+20:02.000 --> 20:12.000
+Now, how is it possible that by doubling every six months that we have grown the industry, we have grown the computational requirements so far?
+
+20:12.000 --> 20:14.000
+And the reason for that is quite simply this.
+
+20:14.000 --> 20:20.000
+If you double the size of the model, you double the size of your brain, you need twice as much information to go fill it.
+
+20:20.000 --> 20:30.000
+And so every time you double your parameter count, you also have to appropriately increase your training token count.
+
+20:30.000 --> 20:37.000
+The combination of those two numbers becomes the computation scale you have to support.
+
+20:37.000 --> 20:43.000
+The latest, the state-of-the-art OpenAI model is approximately 1.8 trillion parameters.
+
+20:43.000 --> 20:50.000
+1.8 trillion parameters required several trillion tokens to go train.
+
+20:50.000 --> 20:57.000
+So a few trillion parameters on the order of a few trillion tokens on the order of when you multiply the two of them together,
+
+20:57.000 --> 21:07.000
+approximately 30, 40, 50 billion quadrillion floating point operations per second.
+
+21:07.000 --> 21:09.000
+Now, we just have to do some CO math right now.
+
+21:09.000 --> 21:10.000
+Just hang with me.
+
+21:10.000 --> 21:13.000
+So you have 30 billion quadrillion.
+
+21:13.000 --> 21:16.000
+A quadrillion is like a PETA.
+
+21:16.000 --> 21:26.000
+And so if you had a PETA flop GPU, you would need 30 billion seconds to go compute, to go train that model.
+
+21:26.000 --> 21:29.000
+30 billion seconds is approximately 1,000 years.
+
+21:30.000 --> 21:39.000
+Well, 1,000 years, it's worth it.
+
+21:39.000 --> 21:44.000
+I'd like to do it sooner, but it's worth it.
+
+21:44.000 --> 21:48.000
+Which is usually my answer when most people tell me, hey, how long is it going to take to do something?
+
+21:48.000 --> 21:53.000
+So we've got 20 years. It's worth it.
+
+21:53.000 --> 21:58.000
+But can we do it next week?
+
+21:58.000 --> 22:01.000
+And so 1,000 years, 1,000 years.
+
+22:01.000 --> 22:07.000
+So what we need, what we need are bigger GPUs.
+
+22:07.000 --> 22:09.000
+We need much, much bigger GPUs.
+
+22:09.000 --> 22:16.000
+We recognized this early on, and we realized that the answer is to put a whole bunch of GPUs together.
+
+22:16.000 --> 22:21.000
+And, of course, innovate a whole bunch of things along the way, like inventing tensor cores,
+
+22:21.000 --> 22:26.000
+advancing MV links so that we could create essentially virtually giant GPUs,
+
+22:26.000 --> 22:31.000
+and connecting them all together with amazing networks from a company called Mellanox,
+
+22:31.000 --> 22:34.000
+InfiniBand, so that we could create these giant systems.
+
+22:34.000 --> 22:38.000
+And so DGX1 was our first version, but it wasn't the last.
+
+22:38.000 --> 22:42.000
+We built supercomputers all the way, all along the way.
+
+22:42.000 --> 22:48.000
+In 2021, we had Selene, 4,500 GPUs or so.
+
+22:48.000 --> 22:54.000
+And then in 2023, we built one of the largest AI supercomputers in the world.
+
+22:54.000 --> 22:58.000
+It's just come online, EOS.
+
+22:58.000 --> 23:03.000
+And as we're building these things, we're trying to help the world build these things.
+
+23:03.000 --> 23:06.000
+And in order to help the world build these things, we got to build them first.
+
+23:06.000 --> 23:12.000
+We build the chips, the systems, the networking, all of the software necessary to do this.
+
+23:12.000 --> 23:14.000
+You should see these systems.
+
+23:14.000 --> 23:18.000
+Imagine writing a piece of software that runs across the entire system,
+
+23:18.000 --> 23:22.000
+distributing the computation across thousands of GPUs,
+
+23:22.000 --> 23:30.000
+but inside are thousands of smaller GPUs, millions of GPUs to distribute work across all of that
+
+23:30.000 --> 23:34.000
+and to balance the workload so that you can get the most energy efficiency,
+
+23:34.000 --> 23:37.000
+the best computation time, keep your costs down.
+
+23:37.000 --> 23:44.000
+And so those fundamental innovations is what got us here.
+
+23:44.000 --> 23:51.000
+And here we are as we see the miracle of CHAT GPT emerge in front of us.
+
+23:51.000 --> 23:55.000
+We also realize we have a long ways to go.
+
+23:55.000 --> 23:58.000
+We need even larger models.
+
+23:58.000 --> 24:02.000
+We're going to train it with multimodality data, not just text on the Internet,
+
+24:03.000 --> 24:07.000
+but we're going to train it on text and images and graphs and charts.
+
+24:07.000 --> 24:11.000
+And just as we learn, watching TV.
+
+24:11.000 --> 24:17.000
+And so there's going to be a whole bunch of watching video so that these models can be grounded in physics,
+
+24:17.000 --> 24:20.000
+understands that an arm doesn't go through a wall.
+
+24:20.000 --> 24:26.000
+And so these models would have common sense by watching a lot of the world's video
+
+24:26.000 --> 24:29.000
+combined with a lot of the world's languages.
+
+24:29.000 --> 24:33.000
+It'll use things like synthetic data generation, just as you and I do.
+
+24:33.000 --> 24:39.000
+When we try to learn, we might use our imagination to simulate how it's going to end up,
+
+24:39.000 --> 24:42.000
+just as I did when I was preparing for this keynote.
+
+24:42.000 --> 24:46.000
+I was simulating it all along the way.
+
+24:46.000 --> 24:51.000
+I hope it's going to turn out as well as I had it in my head.
+
+24:51.000 --> 24:55.000
+As I was simulating how this keynote was going to turn out,
+
+24:55.000 --> 25:04.000
+somebody did say that another performer did her performance completely on a treadmill
+
+25:04.000 --> 25:08.000
+so that she could be in shape to deliver it with full energy.
+
+25:08.000 --> 25:12.000
+I didn't do that.
+
+25:12.000 --> 25:16.000
+If I get a little wind in about 10 minutes into this, you know what happens.
+
+25:17.000 --> 25:23.000
+If I get a little wind in about 10 minutes into this, you know what happens.
+
+25:23.000 --> 25:26.000
+And so where were we?
+
+25:26.000 --> 25:28.000
+We're sitting here using synthetic data generation.
+
+25:28.000 --> 25:30.000
+We're going to use reinforcement learning.
+
+25:30.000 --> 25:32.000
+We're going to practice it in our mind.
+
+25:32.000 --> 25:38.000
+We're going to have AI working with AI training each other, just like student, teacher, debaters.
+
+25:38.000 --> 25:40.000
+All of that is going to increase the size of our model.
+
+25:40.000 --> 25:43.000
+It's going to increase the amount of data that we have,
+
+25:43.000 --> 25:47.000
+and we're going to have to build even bigger GPUs.
+
+25:47.000 --> 25:52.000
+Hopper is fantastic, but we need bigger GPUs.
+
+25:52.000 --> 26:03.000
+And so, ladies and gentlemen, I would like to introduce you to a very, very big GPU.
+
+26:14.000 --> 26:24.000
+Named after David Blackwell, mathematician, game theorist, probability.
+
+26:24.000 --> 26:28.000
+We thought it was a perfect name.
+
+26:28.000 --> 26:32.000
+Blackwell, ladies and gentlemen, enjoy this.
+
+26:43.000 --> 26:45.000
+Thank you.
+
+27:13.000 --> 27:15.000
+Thank you.
+
+27:43.000 --> 27:45.000
+Thank you.
+
+28:13.000 --> 28:15.000
+Thank you.
+
+28:43.000 --> 29:11.000
+Blackwell is not a chip.
+
+29:11.000 --> 29:13.000
+Blackwell is the name of a platform.
+
+29:13.000 --> 29:21.000
+People think we make GPUs, and we do, but GPUs don't look the way they used to.
+
+29:21.000 --> 29:28.000
+Here's, if you will, the heart of the Blackwell system,
+
+29:28.000 --> 29:32.000
+and this inside the company is not called Blackwell, it's just a number.
+
+29:32.000 --> 29:42.000
+And this, this is Blackwell sitting next to, oh, this is the most advanced GPU in the world in production today.
+
+29:46.000 --> 29:48.000
+This is Hopper.
+
+29:48.000 --> 29:50.000
+This is Hopper.
+
+29:50.000 --> 29:52.000
+Hopper changed the world.
+
+29:52.000 --> 29:54.000
+This is Blackwell.
+
+30:03.000 --> 30:05.000
+It's okay, Hopper.
+
+30:11.000 --> 30:13.000
+You're very good.
+
+30:13.000 --> 30:15.000
+Good boy.
+
+30:15.000 --> 30:17.000
+Well, good girl.
+
+30:21.000 --> 30:30.000
+208 billion transistors, and so you could see, I can see, there's a small line between two dyes.
+
+30:30.000 --> 30:38.000
+This is the first time two dyes have abutted like this together in such a way that the two dyes think it's one chip.
+
+30:38.000 --> 30:43.000
+There's 10 terabytes of data between it, 10 terabytes per second,
+
+30:43.000 --> 30:49.000
+so that these two sides of the Blackwell chip have no clue which side they're on.
+
+30:49.000 --> 30:53.000
+There's no memory locality issues, no cache issues.
+
+30:53.000 --> 30:55.000
+It's just one giant chip.
+
+30:55.000 --> 31:04.000
+And so when we were told that Blackwell's ambitions were beyond the limits of physics, the engineers said, so what?
+
+31:04.000 --> 31:06.000
+And so this is what happened.
+
+31:06.000 --> 31:12.000
+And so this is the Blackwell chip, and it goes into two types of systems.
+
+31:12.000 --> 31:18.000
+The first one is form-fit function compatible to Hopper.
+
+31:18.000 --> 31:21.000
+And so you slide on Hopper, and you push in Blackwell.
+
+31:21.000 --> 31:25.000
+That's the reason why one of the challenges of ramping is going to be so efficient.
+
+31:25.000 --> 31:32.000
+There are installations of Hoppers all over the world, and they could be the same infrastructure, same design.
+
+31:32.000 --> 31:39.000
+The power, the electricity, the thermals, the software, identical, push it right back.
+
+31:39.000 --> 31:46.000
+And so this is a Hopper version for the current HGX configuration.
+
+31:46.000 --> 31:50.000
+And this is what the second Hopper looks like this.
+
+31:50.000 --> 31:52.000
+Now, this is a prototype board.
+
+31:52.000 --> 31:57.000
+And Janine, could I just borrow?
+
+31:57.000 --> 32:04.000
+Ladies and gentlemen, Janine Paul.
+
+32:04.000 --> 32:08.000
+And so this is a fully functioning board.
+
+32:08.000 --> 32:11.000
+And I'll just be careful here.
+
+32:11.000 --> 32:20.000
+This right here is, I don't know, $10 billion?
+
+32:20.000 --> 32:26.000
+The second one's five.
+
+32:26.000 --> 32:34.000
+It gets cheaper after that, so any customers in the audience, it's OK.
+
+32:34.000 --> 32:36.000
+All right, but this one's quite expensive.
+
+32:36.000 --> 32:38.000
+This is the bring-up board.
+
+32:38.000 --> 32:43.000
+And the way it's going to go to production is like this one here.
+
+32:43.000 --> 32:45.000
+And so you're going to take this.
+
+32:45.000 --> 32:54.000
+It has two Blackwell chips and four Blackwell dies connected to a Grace CPU.
+
+32:54.000 --> 32:57.000
+The Grace CPU has a super-fast chip-to-chip link.
+
+32:57.000 --> 33:07.000
+What's amazing is this computer is the first of its kind where this much computation, first of all, fits into this small of a place.
+
+33:07.000 --> 33:09.000
+Second, it's memory coherent.
+
+33:09.000 --> 33:15.000
+They feel like they're just one big happy family working on one application together.
+
+33:15.000 --> 33:18.000
+And so everything is coherent within it.
+
+33:18.000 --> 33:22.000
+Just the amount of, you know, you saw the numbers.
+
+33:22.000 --> 33:25.000
+There's a lot of terabytes this and terabytes that.
+
+33:25.000 --> 33:27.000
+But this is a miracle.
+
+33:27.000 --> 33:29.000
+This is this.
+
+33:29.000 --> 33:31.000
+Let's see, what are some of the things on here?
+
+33:32.000 --> 33:45.000
+There's an MV link on top, PCI Express on the bottom, on your, which one is mine, and your left.
+
+33:45.000 --> 33:47.000
+One of them, it doesn't matter.
+
+33:47.000 --> 33:51.000
+One of them is a CPU chip-to-chip link.
+
+33:51.000 --> 33:54.000
+It's my left or your, depending on which side.
+
+33:54.000 --> 33:59.000
+I was trying to sort that out and I just kind of, it doesn't matter.
+
+34:02.000 --> 34:05.000
+Hopefully it comes plugged in, so.
+
+34:10.000 --> 34:14.000
+Okay, so this is the Grace Blackwell system.
+
+34:23.000 --> 34:25.000
+But there's more.
+
+34:26.000 --> 34:34.000
+So it turns out, it turns out all of the specs is fantastic, but we need a whole lot of new features.
+
+34:34.000 --> 34:39.000
+In order to push the limits beyond, if you will, the limits of physics.
+
+34:39.000 --> 34:43.000
+We would like to always get a lot more X-factors.
+
+34:43.000 --> 34:47.000
+And so one of the things that we did was we invented another transformer engine.
+
+34:47.000 --> 34:50.000
+Another transformer engine, the second generation.
+
+34:50.000 --> 35:03.000
+It has the ability to dynamically and automatically rescale and recast numerical formats to a lower precision whenever it can.
+
+35:03.000 --> 35:06.000
+Remember, artificial intelligence is about probability.
+
+35:06.000 --> 35:14.000
+And so you kind of have, you know, 1.7, approximately 1.7 times approximately 1.4 to be approximately something else.
+
+35:14.000 --> 35:15.000
+Does that make sense?
+
+35:15.000 --> 35:26.000
+And so the ability for the mathematics to retain the precision and the range necessary in that particular stage of the pipeline, super important.
+
+35:26.000 --> 35:31.000
+And so this is, it's not just about the fact that we designed a smaller ALU.
+
+35:31.000 --> 35:33.000
+The world's not quite that simple.
+
+35:33.000 --> 35:42.000
+You've got to figure out when you can use that across a computation that is thousands of GPUs.
+
+35:42.000 --> 35:50.000
+It's running for weeks and weeks and weeks, and you want to make sure that the training job is going to converge.
+
+35:50.000 --> 35:55.000
+And so this new transformer engine, we have a fifth generation NVLink.
+
+35:55.000 --> 36:02.000
+It's now twice as fast as Hopper, but very importantly, it has computation in the network.
+
+36:02.000 --> 36:09.000
+And the reason for that is because when you have so many different GPUs working together, we have to share our information with each other.
+
+36:09.000 --> 36:11.000
+We have to synchronize and update each other.
+
+36:11.000 --> 36:20.000
+And every so often, we have to reduce the partial products and then rebroadcast out the partial products, the sum of the partial products back to everybody else.
+
+36:20.000 --> 36:24.000
+And so there's a lot of what is called all reduce and all to all and all gather.
+
+36:24.000 --> 36:30.000
+It's all part of this area of synchronization and collectives so that we can have GPUs working with each other.
+
+36:30.000 --> 36:40.000
+Having extraordinarily fast links and being able to do mathematics right in the network allows us to essentially amplify even further.
+
+36:40.000 --> 36:45.000
+So even though it's one point eight terabytes per second, it's effectively higher than that.
+
+36:45.000 --> 36:48.000
+And so it's many times that of Hopper.
+
+36:48.000 --> 36:56.000
+The likelihood of a supercomputer running for weeks on end is approximately zero.
+
+36:56.000 --> 37:01.000
+And the reason for that is because there's so many components working at the same time.
+
+37:01.000 --> 37:06.000
+The statistic, the probability of them working continuously is very low.
+
+37:06.000 --> 37:12.000
+And so we need to make sure that whenever there is a well, we checkpoint and restart as often as we can.
+
+37:12.000 --> 37:24.000
+But if we have the ability to detect a weak chip or a weak note early, we can retire it and maybe swap in another processor.
+
+37:24.000 --> 37:33.000
+That ability to keep the utilization of the supercomputer high, especially when you just spent two billion dollars building it, is super important.
+
+37:33.000 --> 37:46.000
+And so we put in a RAS engine, a reliability engine that does a hundred percent self-test in system test of every single gate,
+
+37:46.000 --> 37:54.000
+every single bit of memory on the Blackwell chip and all the memory that's connected to it.
+
+37:54.000 --> 38:03.000
+It's almost as if we shipped with every single chip its own advanced tester that we test our chips with.
+
+38:03.000 --> 38:06.000
+This is the first time we're doing this. Super excited about it.
+
+38:06.000 --> 38:14.000
+Secure AI.
+
+38:14.000 --> 38:18.000
+Only this conference do they clap for RAS.
+
+38:18.000 --> 38:23.000
+The secure AI.
+
+38:23.000 --> 38:28.000
+Obviously, you've just spent hundreds of millions of dollars creating a very important AI.
+
+38:28.000 --> 38:34.000
+And the code, the intelligence of that AI is encoded into parameters.
+
+38:34.000 --> 38:38.000
+You want to make sure that on the one hand, you don't lose it. On the other hand, it doesn't get contaminated.
+
+38:38.000 --> 38:50.000
+And so we now have the ability to encrypt data, of course, at rest, but also in transit and while it's being computed.
+
+38:50.000 --> 38:55.000
+It's all encrypted. And so we now have the ability to encrypt and transmission.
+
+38:55.000 --> 39:02.000
+And when we're computing it, it is in a trusted, trusted environment, trusted engine environment.
+
+39:02.000 --> 39:05.000
+And the last thing is decompression.
+
+39:05.000 --> 39:12.000
+Moving data in and out of these nodes when the compute is so fast becomes really essential.
+
+39:12.000 --> 39:21.000
+And so we've put in a high line speed compression engine and effectively moves data 20 times faster in and out of these computers.
+
+39:21.000 --> 39:28.000
+These computers are so powerful and there's such a large investment, the last thing we want to do is have them be idle.
+
+39:28.000 --> 39:38.000
+And so all of these capabilities are intended to keep Blackwell fed and as busy as possible.
+
+39:38.000 --> 39:50.000
+Overall, compared to Hopper, it is two and a half times, two and a half times the FP8 performance for training per chip.
+
+39:50.000 --> 39:57.000
+It also has this new format called FP6 so that even though the computation speed is the same,
+
+39:57.000 --> 40:05.000
+the bandwidth that's amplified because of the memory, the amount of parameters you can store in the memory is now amplified.
+
+40:05.000 --> 40:11.000
+FP4 effectively doubles the throughput. This is vitally important for inference.
+
+40:12.000 --> 40:20.000
+One of the things that is becoming very clear is that whenever you use a computer with AI on the other side,
+
+40:20.000 --> 40:29.000
+when you're chatting with the chatbot, when you're asking it to review or make an image,
+
+40:29.000 --> 40:34.000
+remember in the back is a GPU generating tokens.
+
+40:34.000 --> 40:40.000
+Some people call it inference, but it's more appropriately generation.
+
+40:40.000 --> 40:45.000
+The way that computing has done in the past was retrieval.
+
+40:45.000 --> 40:52.000
+You would grab your phone, you would touch something, some signals go off, basically an email goes off to some storage somewhere.
+
+40:52.000 --> 40:58.000
+There's pre-recorded content, somebody wrote a story or somebody made an image or somebody recorded a video.
+
+40:58.000 --> 41:08.000
+That record pre-recorded content is then streamed back to the phone and recomposed in a way based on a recommender system to present the information to you.
+
+41:08.000 --> 41:15.000
+You know that in the future, the vast majority of that content will not be retrieved.
+
+41:15.000 --> 41:20.000
+And the reason for that is because that was pre-recorded by somebody who doesn't understand the context,
+
+41:20.000 --> 41:23.000
+which is the reason why we have to retrieve so much content.
+
+41:23.000 --> 41:31.000
+If you can be working with an AI that understands the context, who you are, for what reason you're fetching this information,
+
+41:31.000 --> 41:35.000
+and produces the information for you just the way you like it,
+
+41:35.000 --> 41:44.000
+the amount of energy we save, the amount of networking bandwidth we save, the amount of waste of time we save will be tremendous.
+
+41:44.000 --> 41:52.000
+The future is generative, which is the reason why we call it generative AI, which is the reason why this is a brand new industry.
+
+41:52.000 --> 41:56.000
+The way we compute is fundamentally different.
+
+41:56.000 --> 42:01.000
+We created a processor for the generative AI era.
+
+42:01.000 --> 42:06.000
+And one of the most important parts of it is content token generation.
+
+42:06.000 --> 42:09.000
+We call it, this format is FP4.
+
+42:09.000 --> 42:14.000
+Well, that's a lot of computation.
+
+42:14.000 --> 42:24.000
+5X, the token generation, 5X, the inference capability of Hopper seems like enough.
+
+42:24.000 --> 42:29.000
+But why stop there?
+
+42:29.000 --> 42:31.000
+The answer is it's not enough.
+
+42:31.000 --> 42:33.000
+And I'm going to show you why.
+
+42:33.000 --> 42:35.000
+I'm going to show you why.
+
+42:35.000 --> 42:39.000
+And so we would like to have a bigger GPU, even bigger than this one.
+
+42:39.000 --> 42:43.000
+And so we decided to scale it.
+
+42:43.000 --> 42:46.000
+And notice, but first, let me just tell you how we've scaled.
+
+42:47.000 --> 42:55.000
+Over the course of the last eight years, we've increased computation by 1,000 times, eight years, 1,000 times.
+
+42:55.000 --> 43:03.000
+Remember, back in the good old days of Moore's Law, it was 2X, well, 5X every, what, 10X every five years.
+
+43:03.000 --> 43:05.000
+That's easiest math.
+
+43:05.000 --> 43:11.000
+10X every five years, 100 times every 10 years, 100 times every 10 years.
+
+43:12.000 --> 43:21.000
+In the middle of the heydays of the PC revolution, 100 times every 10 years.
+
+43:21.000 --> 43:25.000
+In the last eight years, we've gone 1,000 times.
+
+43:25.000 --> 43:28.000
+We have two more years to go.
+
+43:28.000 --> 43:34.000
+And so that puts it in perspective.
+
+43:34.000 --> 43:37.000
+The rate at which we're advancing computing is insane.
+
+43:37.000 --> 43:42.000
+And it's still not fast enough, so we built another chip.
+
+43:42.000 --> 43:45.000
+This chip is just an incredible chip.
+
+43:45.000 --> 43:48.000
+We call it the NVLink switch.
+
+43:48.000 --> 43:50.000
+It's 50 billion transistors.
+
+43:50.000 --> 43:53.000
+It's almost the size of Hopper all by itself.
+
+43:53.000 --> 44:01.000
+This switch chip has four NVLinks in it, each 1.8 terabytes per second.
+
+44:01.000 --> 44:06.000
+And it has computation in it, as I mentioned.
+
+44:06.000 --> 44:09.000
+What is this chip for?
+
+44:09.000 --> 44:20.000
+If we were to build such a chip, we can have every single GPU talk to every other GPU at full speed at the same time.
+
+44:20.000 --> 44:22.000
+That's insane.
+
+44:29.000 --> 44:32.000
+It doesn't even make sense.
+
+44:32.000 --> 44:42.000
+But if you could do that, if you can find a way to do that and build a system to do that that's cost-effective,
+
+44:42.000 --> 44:54.000
+how incredible would it be that we could have all these GPUs connect over a coherent link so that they effectively are one giant GPU?
+
+44:54.000 --> 45:01.000
+Well, one of the great inventions in order to make it cost-effective is that this chip has to drive copper directly.
+
+45:01.000 --> 45:07.000
+The surities of this chip is just a phenomenal invention so that we could do direct drive to copper.
+
+45:07.000 --> 45:12.000
+And as a result, you can build a system that looks like this.
+
+45:21.000 --> 45:26.000
+Now, this system is kind of insane.
+
+45:26.000 --> 45:29.000
+This is one DGX.
+
+45:29.000 --> 45:31.000
+This is what a DGX looks like now.
+
+45:31.000 --> 45:38.000
+Remember, just six years ago, it was pretty heavy, but I was able to lift it.
+
+45:38.000 --> 45:52.000
+I delivered the first DGX1 to OpenAI, and the researchers there, the pictures are on the internet, and we all autographed it.
+
+45:52.000 --> 45:57.000
+And if you come to my office, it's autographed there.
+
+45:57.000 --> 45:59.000
+It's really beautiful.
+
+45:59.000 --> 46:01.000
+But you can lift it.
+
+46:01.000 --> 46:09.000
+This DGX, this DGX, that DGX, by the way, was 170 teraflops.
+
+46:09.000 --> 46:15.000
+If you're not familiar with the numbering system, that's 0.17 petaflops.
+
+46:15.000 --> 46:18.000
+So this is 720.
+
+46:18.000 --> 46:22.000
+The first one I delivered to OpenAI was 0.17.
+
+46:22.000 --> 46:25.000
+You can round it up to 0.2. It won't make any difference.
+
+46:25.000 --> 46:30.000
+But by then, it was like, wow, you know, 30 more teraflops.
+
+46:30.000 --> 46:40.000
+And so this is now 720 petaflops, almost an exaflop for training, and the world's first one exaflops machine in one rack.
+
+46:41.000 --> 46:55.000
+Just so you know, there are only a couple, two, three exaflops machines on the planet as we speak.
+
+46:55.000 --> 47:01.000
+And so this is an exaflops AI system in one single rack.
+
+47:01.000 --> 47:06.000
+Well, let's take a look at the back of it.
+
+47:06.000 --> 47:09.000
+So this is what makes it possible.
+
+47:09.000 --> 47:14.000
+That's the back, that's the back, the DGX MV link spine.
+
+47:14.000 --> 47:21.000
+130 terabytes per second goes to the back of that chassis.
+
+47:21.000 --> 47:24.000
+That is more than the aggregate bandwidth of the internet.
+
+47:34.000 --> 47:38.000
+So we could basically send everything to everybody within a second.
+
+47:38.000 --> 47:46.000
+And so we have 5,000 cables, 5,000 MV link cables in total two miles.
+
+47:46.000 --> 47:52.000
+Now, this is the amazing thing. If we had to use optics, we would have had to use transceivers and retimers.
+
+47:52.000 --> 48:05.000
+And those transceivers and retimers alone would have cost 20,000 watts, two kilowatts of just transceivers alone, just to drive the MV link spine.
+
+48:05.000 --> 48:13.000
+As a result, we did it completely for free over MV link switch, and we were able to save the 20 kilowatts for computation.
+
+48:13.000 --> 48:19.000
+This entire rack is 120 kilowatts, so that 20 kilowatts makes a huge difference.
+
+48:19.000 --> 48:24.000
+It's liquid cooled. What goes in is 25 degrees C about room temperature.
+
+48:24.000 --> 48:29.000
+What comes out is 45 degrees C about your jacuzzi.
+
+48:29.000 --> 48:34.000
+So room temperature goes in, jacuzzi comes out, two liters per second.
+
+48:42.000 --> 48:44.000
+We could sell a peripheral.
+
+48:44.000 --> 48:52.000
+600,000 parts.
+
+48:52.000 --> 48:59.000
+Somebody used to say, you know, you guys make GPUs, and we do, but this is what a GPU looks like to me.
+
+48:59.000 --> 49:02.000
+When somebody says GPU, I see this.
+
+49:02.000 --> 49:08.000
+Two years ago, when I saw a GPU, it was the HGX. It was 70 pounds, 35,000 parts.
+
+49:08.000 --> 49:18.000
+Our GPUs now are 600,000 parts and 3,000 pounds, 3,000 pounds, 3,000 pounds.
+
+49:18.000 --> 49:26.000
+That's kind of like the weight of a, you know, carbon fiber Ferrari.
+
+49:26.000 --> 49:32.000
+I don't know if that's a useful metric, but everybody's going, I feel it.
+
+49:32.000 --> 49:35.000
+I feel it. I get it. I get that.
+
+49:35.000 --> 49:37.000
+Now that you mention that, I feel it.
+
+49:37.000 --> 49:40.000
+I don't know what's 3,000 pounds.
+
+49:40.000 --> 49:43.000
+Okay, so 3,000 pounds, ton and a half.
+
+49:43.000 --> 49:46.000
+So it's not quite an elephant.
+
+49:46.000 --> 49:48.000
+So this is what a DGX looks like.
+
+49:48.000 --> 49:50.000
+Now let's see what it looks like in operation.
+
+49:50.000 --> 49:54.000
+Okay, let's imagine, how do we put this to work and what does that mean?
+
+49:54.000 --> 50:00.000
+Well, if you were to train a GPT model, 1.8 trillion parameter model,
+
+50:00.000 --> 50:07.000
+it took about, apparently about three to five months or so with 25,000 amperes.
+
+50:07.000 --> 50:11.000
+If we were to do it with Hopper, it would probably take something like 8,000 GPUs
+
+50:11.000 --> 50:15.000
+and it would consume 15 megawatts, 8,000 GPUs and 15 megawatts.
+
+50:15.000 --> 50:17.000
+It would take 90 days, about three months.
+
+50:17.000 --> 50:24.000
+And that would allow you to train something that is, you know, this groundbreaking AI model.
+
+50:25.000 --> 50:31.000
+And this is obviously not as expensive as anybody would think, but it's 8,000 GPUs.
+
+50:31.000 --> 50:33.000
+It's still a lot of money.
+
+50:33.000 --> 50:35.000
+And so 8,000 GPUs, 15 megawatts.
+
+50:35.000 --> 50:42.000
+If you were to use Blackwell to do this, it would only take 2,000 GPUs.
+
+50:42.000 --> 50:47.000
+2,000 GPUs, same 90 days, but this is the amazing part.
+
+50:47.000 --> 50:50.000
+Only four megawatts of power.
+
+50:50.000 --> 50:53.000
+So from 15, that's right.
+
+50:57.000 --> 50:59.000
+And that's our goal.
+
+50:59.000 --> 51:03.000
+Our goal is to continuously drive down the cost and the energy.
+
+51:03.000 --> 51:05.000
+They're directly proportional to each other.
+
+51:05.000 --> 51:09.000
+Cost and energy associated with the computing so that we can continue to expand
+
+51:09.000 --> 51:13.000
+and scale up the computation that we have to do to train the next generation models.
+
+51:13.000 --> 51:16.000
+Well, this is training.
+
+51:16.000 --> 51:21.000
+Inference or generation is vitally important going forward.
+
+51:21.000 --> 51:25.000
+You know, probably some half of the time that NVIDIA GPUs are in the cloud these days,
+
+51:25.000 --> 51:27.000
+it's being used for token generation.
+
+51:27.000 --> 51:31.000
+You know, they're either doing co-pilot this or, you know, chat GPT that
+
+51:31.000 --> 51:35.000
+or all these different models that are being used when you're interacting with it
+
+51:35.000 --> 51:41.000
+or generating images or generating videos, generating proteins, generating chemicals.
+
+51:41.000 --> 51:44.000
+There's a bunch of generation going on.
+
+51:44.000 --> 51:48.000
+All of that is in the category of computing we call inference.
+
+51:48.000 --> 51:52.000
+But inference is extremely hard for large language models
+
+51:52.000 --> 51:55.000
+because these large language models have several properties.
+
+51:55.000 --> 51:57.000
+One, they're very large.
+
+51:57.000 --> 51:59.000
+And so it doesn't fit on one GPU.
+
+51:59.000 --> 52:04.000
+This is, imagine Excel doesn't fit on one GPU, you know?
+
+52:04.000 --> 52:09.000
+And imagine some application you're running on a daily basis doesn't fit on one computer.
+
+52:09.000 --> 52:12.000
+Like a video game doesn't fit on one computer.
+
+52:12.000 --> 52:14.000
+And most, in fact, do.
+
+52:14.000 --> 52:17.000
+And many times in the past, hyper-scale computing,
+
+52:17.000 --> 52:20.000
+many applications for many people fit on the same computer.
+
+52:20.000 --> 52:24.000
+And now, all of a sudden, this one inference application
+
+52:24.000 --> 52:26.000
+where you're interacting with this chatbot,
+
+52:26.000 --> 52:30.000
+that chatbot requires a supercomputer in the back to run it.
+
+52:30.000 --> 52:32.000
+And that's the future.
+
+52:32.000 --> 52:35.000
+The future is generative with these chatbots,
+
+52:35.000 --> 52:39.000
+and these chatbots are trillions of tokens, trillions of parameters,
+
+52:39.000 --> 52:43.000
+and they have to generate tokens at interactive rates.
+
+52:43.000 --> 52:45.000
+Now, what does that mean?
+
+52:45.000 --> 52:50.000
+Oh, well, three tokens is about a word.
+
+52:50.000 --> 52:58.000
+You know, the space, the final frontier, these are the adventures.
+
+52:58.000 --> 53:01.000
+That's like 80 tokens.
+
+53:01.000 --> 53:03.000
+Okay?
+
+53:03.000 --> 53:05.000
+I don't know if that's useful to you.
+
+53:05.000 --> 53:15.000
+And so, you know, the art of communications is selecting good analogies.
+
+53:15.000 --> 53:20.000
+Yeah, this is not going well.
+
+53:20.000 --> 53:23.000
+Everyone's like, I don't know what he's talking about.
+
+53:23.000 --> 53:25.000
+Never seen Star Trek.
+
+53:25.000 --> 53:28.000
+And so, here we are, we're trying to generate these tokens.
+
+53:28.000 --> 53:31.000
+When you're interacting with it, you're hoping that the tokens come back to you
+
+53:31.000 --> 53:34.000
+as quickly as possible and as quickly as you can read it.
+
+53:34.000 --> 53:37.000
+And so, the ability for generation tokens is really important.
+
+53:37.000 --> 53:41.000
+You have to paralyze the work of this model across many, many GPUs
+
+53:41.000 --> 53:43.000
+so that you could achieve several things.
+
+53:43.000 --> 53:46.000
+One, on the one hand, you would like throughput
+
+53:46.000 --> 53:53.000
+because that throughput reduces the cost, the overall cost per token of generating.
+
+53:53.000 --> 53:58.000
+So, your throughput dictates the cost of delivering the service.
+
+53:58.000 --> 54:01.000
+On the other hand, you have another interactive rate,
+
+54:01.000 --> 54:04.000
+which is another tokens per second, where it's about per user.
+
+54:04.000 --> 54:07.000
+And that has everything to do with quality of service.
+
+54:07.000 --> 54:11.000
+And so, these two things compete against each other.
+
+54:11.000 --> 54:16.000
+And we have to find a way to distribute work across all of these different GPUs
+
+54:16.000 --> 54:19.000
+and paralyze it in a way that allows us to achieve both.
+
+54:19.000 --> 54:23.000
+And it turns out the search space is enormous.
+
+54:23.000 --> 54:27.000
+You know, I told you there's going to be math involved.
+
+54:27.000 --> 54:30.000
+And everybody's going, oh, dear.
+
+54:30.000 --> 54:33.000
+I heard some gasps just now when I put up that slide.
+
+54:33.000 --> 54:39.000
+So, this right here, the y-axis is tokens per second, data center throughput.
+
+54:39.000 --> 54:44.000
+The x-axis is tokens per second, interactivity of the person.
+
+54:44.000 --> 54:46.000
+And notice the upper right is the best.
+
+54:46.000 --> 54:51.000
+You want interactivity to be very high, number of tokens per second per user.
+
+54:51.000 --> 54:54.000
+You want the tokens per second per data center to be very high.
+
+54:54.000 --> 54:56.000
+The upper right is terrific.
+
+54:56.000 --> 54:58.000
+However, it's very hard to do that.
+
+54:58.000 --> 55:04.000
+And in order for us to search for the best answer across every single one of those intersections,
+
+55:04.000 --> 55:08.000
+x, y coordinates, in case you just look at every single x, y coordinate,
+
+55:08.000 --> 55:13.000
+all those blue dots came from some repartitioning of the software.
+
+55:13.000 --> 55:22.000
+Some optimizing solution has to go and figure out whether to use tensor parallel, expert parallel,
+
+55:23.000 --> 55:31.000
+pipeline parallel, or data parallel, and distribute this enormous model across all these different GPUs
+
+55:31.000 --> 55:34.000
+and sustain the performance that you need.
+
+55:34.000 --> 55:39.000
+This exploration space would be impossible if not for the programmability of NVIDIA's GPUs.
+
+55:39.000 --> 55:43.000
+And so we could, because of CUDA, because we have such a rich ecosystem,
+
+55:43.000 --> 55:48.000
+we could explore this universe and find that green roof line.
+
+55:48.000 --> 55:54.000
+It turns out that green roof line, notice you got TP2EPADP4,
+
+55:54.000 --> 56:03.000
+it means two tensor parallel, tensor parallel across two GPUs, expert parallel across eight, data parallel across four.
+
+56:03.000 --> 56:08.000
+Notice on the other end, you got tensor parallel across four and expert parallel across 16.
+
+56:08.000 --> 56:15.000
+The configuration, the distribution of that software, it's a different, different runtime
+
+56:15.000 --> 56:18.000
+that would produce these different results.
+
+56:18.000 --> 56:20.000
+And you have to go discover that roof line.
+
+56:20.000 --> 56:22.000
+Well, that's just one model.
+
+56:22.000 --> 56:25.000
+And this is just one configuration of a computer.
+
+56:25.000 --> 56:28.000
+Imagine all of the models being created around the world
+
+56:28.000 --> 56:34.000
+and all the different configurations of systems that are going to be available.
+
+56:36.000 --> 56:39.000
+So now that you understand the basics,
+
+56:39.000 --> 56:46.000
+let's take a look at inference of Blackwell compared to Hopper.
+
+56:46.000 --> 56:49.000
+And this is the extraordinary thing.
+
+56:49.000 --> 56:57.000
+In one generation, because we created a system that's designed for trillion parameter generative AI,
+
+56:57.000 --> 57:01.000
+the inference capability of Blackwell is off the charts.
+
+57:01.000 --> 57:05.000
+And in fact, it is some 30 times Hopper.
+
+57:05.000 --> 57:06.000
+Yeah.
+
+57:11.000 --> 57:17.000
+For large language models, for large language models like ChatGPT and others like it,
+
+57:17.000 --> 57:19.000
+the blue line is Hopper.
+
+57:19.000 --> 57:23.000
+I gave you, imagine we didn't change the architecture of Hopper.
+
+57:23.000 --> 57:25.000
+We just made it a bigger chip.
+
+57:25.000 --> 57:33.000
+We just used the latest, you know, greatest 10 terabytes, you know, terabytes per second.
+
+57:33.000 --> 57:34.000
+We connected the two chips together.
+
+57:34.000 --> 57:37.000
+We got this giant 208 billion parameter chip.
+
+57:37.000 --> 57:40.000
+How would we have performed if nothing else changed?
+
+57:40.000 --> 57:44.000
+And it turns out quite wonderfully, quite wonderfully.
+
+57:44.000 --> 57:47.000
+And that's the purple line, but not as great as it could be.
+
+57:47.000 --> 57:52.000
+And that's where the FP4 Tensor Core, the new transformer engine,
+
+57:52.000 --> 57:56.000
+and very importantly, the NVLink switch.
+
+57:56.000 --> 58:01.000
+And the reason for that is because all these GPUs have to share the results, partial products.
+
+58:01.000 --> 58:06.000
+Whenever they do all to all, all gather, whenever they communicate with each other,
+
+58:06.000 --> 58:12.000
+that NVLink switch is communicating almost 10 times faster
+
+58:12.000 --> 58:16.000
+than what we could do in the past using the fastest networks.
+
+58:16.000 --> 58:23.000
+Okay, so Blackwell is going to be just an amazing system for generative AI.
+
+58:23.000 --> 58:30.000
+And in the future, in the future, data centers are going to be thought of,
+
+58:30.000 --> 58:33.000
+as I mentioned earlier, as an AI factory.
+
+58:33.000 --> 58:41.000
+An AI factory's goal in life is to generate revenues, generate, in this case,
+
+58:41.000 --> 58:48.000
+intelligence in this facility, not generating electricity, as in AC generators,
+
+58:48.000 --> 58:54.000
+but of the last industrial revolution and this industrial revolution, the generation of intelligence.
+
+58:54.000 --> 58:58.000
+And so this ability is super, super important.
+
+58:58.000 --> 59:01.000
+The excitement of Blackwell is really off the charts.
+
+59:01.000 --> 59:07.000
+You know, when we first, when we first, you know, this is a year and a half ago,
+
+59:07.000 --> 59:12.000
+two years ago, I guess two years ago, when we first started to go to market with Hopper,
+
+59:12.000 --> 59:18.000
+you know, we had the benefit of two CSPs joined us in a lunch.
+
+59:18.000 --> 59:20.000
+And we were, you know, delighted.
+
+59:20.000 --> 59:24.000
+And so we had two customers.
+
+59:24.000 --> 59:27.000
+So we have more now.
+
+59:39.000 --> 59:43.000
+Unbelievable excitement for Blackwell, unbelievable excitement.
+
+59:43.000 --> 59:45.000
+And there's a whole bunch of different configurations.
+
+59:45.000 --> 59:50.000
+Of course, I showed you the configurations that slide into the Hopper form factor,
+
+59:50.000 --> 59:52.000
+so that it's easy to upgrade.
+
+59:52.000 --> 59:56.000
+I showed you examples that are liquid cooled, that are the extreme versions of it,
+
+59:56.000 --> 01:00:01.000
+one entire rack that's connected by NVLink 72.
+
+01:00:01.000 --> 01:00:08.000
+We're going to, Blackwell is going to be ramping to the world's AI companies,
+
+01:00:08.000 --> 01:00:13.000
+of which there are so many now, doing amazing work in different modalities.
+
+01:00:13.000 --> 01:00:17.000
+The CSPs, every CSP is geared up.
+
+01:00:17.000 --> 01:00:26.000
+All the OEMs and ODMs, regional clouds, sovereign AIs, and telcos all over the world
+
+01:00:26.000 --> 01:00:29.000
+are signing up to launch with Blackwell.
+
+01:00:36.000 --> 01:00:42.000
+Blackwell would be the most successful product launch in our history.
+
+01:00:42.000 --> 01:00:44.000
+And so I can't wait to see that.
+
+01:00:44.000 --> 01:00:47.000
+I want to thank some partners that are joining us in this.
+
+01:00:47.000 --> 01:00:50.000
+AWS is gearing up for Blackwell.
+
+01:00:50.000 --> 01:00:54.000
+They're going to build the first GPU with secure AI.
+
+01:00:54.000 --> 01:00:58.000
+They're building out a 222 exaflops system.
+
+01:00:58.000 --> 01:01:02.000
+You know, just now when we animated, just now the digital twin,
+
+01:01:02.000 --> 01:01:05.000
+if you saw all of those clusters coming down.
+
+01:01:05.000 --> 01:01:08.000
+By the way, that is not just art.
+
+01:01:08.000 --> 01:01:11.000
+That is a digital twin of what we're building.
+
+01:01:11.000 --> 01:01:13.000
+That's how big it's going to be.
+
+01:01:13.000 --> 01:01:16.000
+Besides infrastructure, we're doing a lot of things together with AWS.
+
+01:01:16.000 --> 01:01:18.000
+We're CUDA accelerating SageMaker AI.
+
+01:01:18.000 --> 01:01:21.000
+We're CUDA accelerating Bedrock AI.
+
+01:01:21.000 --> 01:01:26.000
+Amazon Robotics is working with us using NVIDIA Omniverse and Isaac Sim.
+
+01:01:26.000 --> 01:01:30.000
+AWS Health has NVIDIA Health integrated into it.
+
+01:01:30.000 --> 01:01:35.000
+So AWS has really leaned into accelerated computing.
+
+01:01:35.000 --> 01:01:37.000
+Google is gearing up for Blackwell.
+
+01:01:37.000 --> 01:01:43.000
+GCP already has A100s, H100s, T4s, L4s, a whole fleet of NVIDIA CUDA GPUs.
+
+01:01:43.000 --> 01:01:48.000
+And they recently announced the Gemma model that runs across all of it.
+
+01:01:48.000 --> 01:01:53.000
+We're working to optimize and accelerate every aspect of GCP.
+
+01:01:53.000 --> 01:01:57.000
+We're accelerating Dataproc for data processing, their data processing engine,
+
+01:01:57.000 --> 01:02:02.000
+Jax, XLA, Vertex AI, and Mujoco for robotics.
+
+01:02:03.000 --> 01:02:07.000
+So we're working with Google and GCP across a whole bunch of initiatives.
+
+01:02:07.000 --> 01:02:09.000
+Oracle is gearing up for Blackwell.
+
+01:02:09.000 --> 01:02:12.000
+Oracle is a great partner of ours for NVIDIA DGX Cloud.
+
+01:02:12.000 --> 01:02:16.000
+And we're also working together to accelerate something that's really important
+
+01:02:16.000 --> 01:02:19.000
+to a lot of companies, Oracle Database.
+
+01:02:19.000 --> 01:02:24.000
+Microsoft is accelerating, and Microsoft is gearing up for Blackwell.
+
+01:02:24.000 --> 01:02:27.000
+Microsoft and NVIDIA has a wide-ranging partnership.
+
+01:02:27.000 --> 01:02:30.000
+We're accelerating CUDA, accelerating all kinds of services.
+
+01:02:30.000 --> 01:02:35.000
+When you chat, obviously, and AI services that are in Microsoft Azure,
+
+01:02:35.000 --> 01:02:38.000
+it's very, very likely NVIDIA is in the back doing the inference
+
+01:02:38.000 --> 01:02:40.000
+and the token generation.
+
+01:02:40.000 --> 01:02:44.000
+They built the largest NVIDIA InfiniBand supercomputer,
+
+01:02:44.000 --> 01:02:48.000
+basically a digital twin of ours or a physical twin of ours.
+
+01:02:48.000 --> 01:02:51.000
+We're bringing the NVIDIA ecosystem to Azure.
+
+01:02:51.000 --> 01:02:53.000
+NVIDIA DGX Cloud to Azure.
+
+01:02:53.000 --> 01:02:56.000
+NVIDIA Omniverse is now hosted in Azure.
+
+01:02:56.000 --> 01:02:58.000
+NVIDIA Healthcare is in Azure.
+
+01:02:58.000 --> 01:03:03.000
+All of it is deeply integrated and deeply connected with Microsoft Fabric.
+
+01:03:03.000 --> 01:03:06.000
+The whole industry is gearing up for Blackwell.
+
+01:03:06.000 --> 01:03:08.000
+This is what I'm about to show you.
+
+01:03:08.000 --> 01:03:14.000
+Most of the scenes that you've seen so far of Blackwell
+
+01:03:14.000 --> 01:03:19.000
+are the full fidelity design of Blackwell.
+
+01:03:19.000 --> 01:03:22.000
+Everything in our company has a digital twin.
+
+01:03:22.000 --> 01:03:27.000
+And, in fact, this digital twin idea is really spreading,
+
+01:03:27.000 --> 01:03:32.000
+and it helps companies build very complicated things perfectly the first time.
+
+01:03:32.000 --> 01:03:38.000
+And what could be more exciting than creating a digital twin
+
+01:03:38.000 --> 01:03:41.000
+to build a computer that was built in a digital twin?
+
+01:03:41.000 --> 01:03:44.000
+And so, let me show you what Wistron is doing.
+
+01:03:47.000 --> 01:03:50.000
+To meet the demand for NVIDIA accelerated computing,
+
+01:03:50.000 --> 01:03:53.000
+Wistron, one of our leading manufacturing partners,
+
+01:03:53.000 --> 01:03:57.000
+is building digital twins of NVIDIA DGX and HGX factories
+
+01:03:57.000 --> 01:04:03.000
+using custom software developed with Omniverse, SDKs, and APIs.
+
+01:04:03.000 --> 01:04:06.000
+For their newest factory, Wistron started with the digital twin
+
+01:04:06.000 --> 01:04:12.000
+to virtually integrate their multi-CAD and process simulation data into a unified view.
+
+01:04:12.000 --> 01:04:16.000
+Testing and optimizing layouts in this physically accurate digital environment
+
+01:04:16.000 --> 01:04:20.000
+increased worker efficiency by 51%.
+
+01:04:20.000 --> 01:04:24.000
+During construction, the Omniverse digital twin was used to verify
+
+01:04:24.000 --> 01:04:27.000
+that the physical build matched the digital plans.
+
+01:04:27.000 --> 01:04:32.000
+Identifying any discrepancies early has helped avoid costly change orders.
+
+01:04:32.000 --> 01:04:34.000
+And the results have been impressive.
+
+01:04:34.000 --> 01:04:38.000
+Using a digital twin helped bring Wistron's factory online in half the time,
+
+01:04:38.000 --> 01:04:41.000
+just two and a half months instead of five.
+
+01:04:41.000 --> 01:04:46.000
+In operation, the Omniverse digital twin helps Wistron rapidly test new layouts
+
+01:04:46.000 --> 01:04:50.000
+to accommodate new processes or improve operations in the existing space,
+
+01:04:50.000 --> 01:04:57.000
+and monitor real-time operations using live IoT data from every machine on the production line,
+
+01:04:57.000 --> 01:05:05.000
+which ultimately enabled Wistron to reduce end-to-end cycle times by 50% and defect rates by 40%.
+
+01:05:05.000 --> 01:05:09.000
+With NVIDIA AI and Omniverse, NVIDIA's global ecosystem of partners
+
+01:05:09.000 --> 01:05:14.000
+are building a new era of accelerated AI-enabled digitalization.
+
+01:05:16.000 --> 01:05:24.000
+That's the way it's going to be in the future.
+
+01:05:24.000 --> 01:05:26.000
+We're going to be manufacturing everything digitally first,
+
+01:05:26.000 --> 01:05:28.000
+and then we'll manufacture it physically.
+
+01:05:28.000 --> 01:05:31.000
+People ask me, how did it start?
+
+01:05:31.000 --> 01:05:34.000
+What got you guys so excited?
+
+01:05:34.000 --> 01:05:41.000
+What was it that you saw that caused you to put it all in
+
+01:05:42.000 --> 01:05:46.000
+on this incredible idea?
+
+01:05:46.000 --> 01:05:51.000
+And it's this.
+
+01:05:51.000 --> 01:05:58.000
+Hang on a second.
+
+01:05:58.000 --> 01:06:03.000
+Guys, that was going to be such a moment.
+
+01:06:03.000 --> 01:06:08.000
+That's what happens when you don't rehearse.
+
+01:06:08.000 --> 01:06:14.000
+This, as you know, was first contact.
+
+01:06:14.000 --> 01:06:17.000
+2012, AlexNet.
+
+01:06:17.000 --> 01:06:26.000
+You put a cat into this computer, and it comes out and it says, cat.
+
+01:06:26.000 --> 01:06:33.000
+And we said, oh, my God, this is going to change everything.
+
+01:06:34.000 --> 01:06:41.000
+You take one million numbers across three channels, RGB.
+
+01:06:41.000 --> 01:06:44.000
+These numbers make no sense to anybody.
+
+01:06:44.000 --> 01:06:49.000
+You put it into this software, and it compress, it dimensionally
+
+01:06:49.000 --> 01:06:50.000
+reduces it.
+
+01:06:50.000 --> 01:06:54.000
+It reduces it from a million dimensions, a million dimensions.
+
+01:06:54.000 --> 01:07:01.000
+It turns it into three letters, one vector, one number.
+
+01:07:02.000 --> 01:07:04.000
+And it's generalized.
+
+01:07:04.000 --> 01:07:09.000
+You could have the cat be different cats.
+
+01:07:09.000 --> 01:07:14.000
+And you could have it be the front of the cat and the back of the cat.
+
+01:07:14.000 --> 01:07:17.000
+And you look at this thing, you say, unbelievable.
+
+01:07:17.000 --> 01:07:19.000
+You mean any cats?
+
+01:07:19.000 --> 01:07:23.000
+Yeah, any cat.
+
+01:07:23.000 --> 01:07:26.000
+And it was able to recognize all these cats.
+
+01:07:26.000 --> 01:07:28.000
+And we realized how it did it.
+
+01:07:28.000 --> 01:07:34.000
+It systematically, structurally, it's scalable.
+
+01:07:34.000 --> 01:07:36.000
+How big can you make it?
+
+01:07:36.000 --> 01:07:38.000
+Well, how big do you want to make it?
+
+01:07:38.000 --> 01:07:44.000
+And so we imagine that this is a completely new way of writing software.
+
+01:07:44.000 --> 01:07:50.000
+And now today, as you know, you can have, you type in the word C-A-T.
+
+01:07:50.000 --> 01:07:54.000
+And what comes out is a cat.
+
+01:07:54.000 --> 01:07:56.000
+It went the other way.
+
+01:07:56.000 --> 01:07:58.000
+Am I right?
+
+01:07:58.000 --> 01:08:00.000
+Unbelievable.
+
+01:08:00.000 --> 01:08:02.000
+How is it possible?
+
+01:08:02.000 --> 01:08:03.000
+That's right.
+
+01:08:03.000 --> 01:08:09.000
+How is it possible you took three letters and you generated a million pixels from it?
+
+01:08:09.000 --> 01:08:11.000
+And it made sense.
+
+01:08:11.000 --> 01:08:13.000
+Well, that's the miracle.
+
+01:08:13.000 --> 01:08:20.000
+And here we are, just literally 10 years later, 10 years later, where we recognize text,
+
+01:08:20.000 --> 01:08:24.000
+we recognize images, we recognize videos and sounds and images.
+
+01:08:24.000 --> 01:08:28.000
+Not only do we recognize them, we understand their meaning.
+
+01:08:28.000 --> 01:08:30.000
+We understand the meaning of the text.
+
+01:08:30.000 --> 01:08:32.000
+That's the reason why it can chat with you.
+
+01:08:32.000 --> 01:08:34.000
+It can summarize for you.
+
+01:08:34.000 --> 01:08:36.000
+It understands the text.
+
+01:08:36.000 --> 01:08:40.000
+It understood not just recognizes the English, it understood the English.
+
+01:08:40.000 --> 01:08:44.000
+It doesn't just recognize the pixels, it understood the pixels.
+
+01:08:44.000 --> 01:08:47.000
+And you can even condition it between two modalities.
+
+01:08:47.000 --> 01:08:52.000
+You can have language condition image and generate all kinds of interesting things.
+
+01:08:52.000 --> 01:08:58.000
+Well, if you can understand these things, what else can you understand that you've digitized?
+
+01:08:58.000 --> 01:09:02.000
+The reason why we started with text and images is because we digitized those.
+
+01:09:02.000 --> 01:09:04.000
+But what else have we digitized?
+
+01:09:04.000 --> 01:09:11.000
+Well, it turns out we digitized a lot of things, proteins and genes and brain waves.
+
+01:09:11.000 --> 01:09:16.000
+Anything you can digitize, so long as there's structure, we can probably learn some patterns from it.
+
+01:09:16.000 --> 01:09:19.000
+And if we can learn the patterns from it, we can understand its meaning.
+
+01:09:19.000 --> 01:09:23.000
+If we can understand its meaning, we might be able to generate it as well.
+
+01:09:23.000 --> 01:09:27.000
+And so therefore, the generative AI revolution is here.
+
+01:09:27.000 --> 01:09:29.000
+Well, what else can we generate?
+
+01:09:29.000 --> 01:09:30.000
+What else can we learn?
+
+01:09:30.000 --> 01:09:38.000
+Well, one of the things that we would love to learn, we would love to learn, is we would love to learn climate.
+
+01:09:38.000 --> 01:09:41.000
+We would love to learn extreme weather.
+
+01:09:41.000 --> 01:09:50.000
+We would love to learn how we can predict future weather at regional scales,
+
+01:09:50.000 --> 01:09:57.000
+at sufficiently high resolution, such that we can keep people out of harm's way before harm comes.
+
+01:09:57.000 --> 01:10:00.000
+Extreme weather cost the world $150 billion.
+
+01:10:00.000 --> 01:10:04.000
+Surely more than that, it's not evenly distributed.
+
+01:10:04.000 --> 01:10:09.000
+$150 billion is concentrated in some parts of the world and, of course, to some people of the world.
+
+01:10:09.000 --> 01:10:12.000
+We need to adapt and we need to know what's coming.
+
+01:10:12.000 --> 01:10:18.000
+And so we're creating Earth 2, a digital twin of the Earth for predicting weather.
+
+01:10:18.000 --> 01:10:23.000
+And we've made an extraordinary invention called CoreDiv,
+
+01:10:23.000 --> 01:10:28.000
+the ability to use generative AI to predict weather at extremely high resolution.
+
+01:10:28.000 --> 01:10:29.000
+Let's take a look.
+
+01:10:31.000 --> 01:10:33.000
+As the Earth's climate changes,
+
+01:10:33.000 --> 01:10:38.000
+AI-powered weather forecasting is allowing us to more accurately predict and track severe storms,
+
+01:10:38.000 --> 01:10:45.000
+like super typhoon Chanthu, which caused widespread damage in Taiwan and the surrounding region in 2021.
+
+01:10:45.000 --> 01:10:49.000
+Current AI forecast models can accurately predict the track of storms,
+
+01:10:49.000 --> 01:10:54.000
+but they are limited to 25-kilometer resolution, which can miss important details.
+
+01:10:54.000 --> 01:10:58.000
+NVIDIA's CoreDiv is a revolutionary new generative AI model,
+
+01:10:58.000 --> 01:11:05.000
+trained on high-resolution radar-assimilated wolf weather forecasts and AERA 5 reanalysis data.
+
+01:11:05.000 --> 01:11:12.000
+Using CoreDiv, extreme events like Chanthu can be super resolved from 25-kilometer to 2-kilometer resolution,
+
+01:11:12.000 --> 01:11:18.000
+with 1,000 times the speed and 3,000 times the energy efficiency of conventional weather models.
+
+01:11:18.000 --> 01:11:23.000
+By combining the speed and accuracy of NVIDIA's weather forecasting model ForecastNet
+
+01:11:23.000 --> 01:11:25.000
+and generative AI models like CoreDiv,
+
+01:11:25.000 --> 01:11:30.000
+we can explore hundreds or even thousands of kilometer-scale regional weather forecasts
+
+01:11:30.000 --> 01:11:35.000
+to provide a clear picture of the best, worst and most likely impacts of a storm.
+
+01:11:35.000 --> 01:11:40.000
+This wealth of information can help minimize loss of life and property damage.
+
+01:11:40.000 --> 01:11:43.000
+Today, CoreDiv is optimized for Taiwan,
+
+01:11:43.000 --> 01:11:50.000
+but soon generative supersampling will be available as part of the NVIDIA Earth2 inference service for many regions across the globe.
+
+01:12:01.000 --> 01:12:06.000
+The weather company has to trust the source of global weather prediction.
+
+01:12:06.000 --> 01:12:12.000
+We are working together to accelerate their weather simulation, first principled base of simulation.
+
+01:12:12.000 --> 01:12:16.000
+However, they're also going to integrate Earth2 CoreDiv
+
+01:12:16.000 --> 01:12:22.000
+so that they can help businesses and countries do regional high-resolution weather prediction.
+
+01:12:22.000 --> 01:12:27.000
+And so if you have some weather prediction you'd like to do, reach out to the weather company.
+
+01:12:27.000 --> 01:12:29.000
+Really exciting, really exciting work.
+
+01:12:29.000 --> 01:12:32.000
+NVIDIA Healthcare, something we started 15 years ago.
+
+01:12:32.000 --> 01:12:34.000
+We're super, super excited about this.
+
+01:12:34.000 --> 01:12:37.000
+This is an area where we're very, very proud.
+
+01:12:37.000 --> 01:12:42.000
+Whether it's medical imaging or gene sequencing or computational chemistry,
+
+01:12:42.000 --> 01:12:46.000
+it is very likely that NVIDIA is the computation behind it.
+
+01:12:46.000 --> 01:12:49.000
+We've done so much work in this area.
+
+01:12:49.000 --> 01:12:54.000
+Today we're announcing that we're going to do something really, really cool.
+
+01:12:54.000 --> 01:13:03.000
+Imagine all of these AI models that are being used to generate images and audio.
+
+01:13:03.000 --> 01:13:07.000
+But instead of images and audio, because it understood images and audio,
+
+01:13:07.000 --> 01:13:12.000
+all the digitization that we've done for genes and proteins and amino acids,
+
+01:13:12.000 --> 01:13:18.000
+that digitization capability is now passed through machine learning
+
+01:13:18.000 --> 01:13:21.000
+so that we understand the language of life.
+
+01:13:21.000 --> 01:13:28.000
+The ability to understand the language of life, of course, we saw the first evidence of it with AlphaFold.
+
+01:13:28.000 --> 01:13:30.000
+This is really quite an extraordinary thing.
+
+01:13:30.000 --> 01:13:38.000
+After decades of painstaking work, the world had only digitized and reconstructed
+
+01:13:38.000 --> 01:13:43.000
+using cryo-electron microscopy or x-ray crystallography.
+
+01:13:43.000 --> 01:13:48.000
+These different techniques painstakingly reconstructed the protein, 200,000 of them,
+
+01:13:49.000 --> 01:13:52.000
+in just less than a year or so.
+
+01:13:52.000 --> 01:13:57.000
+AlphaFold has reconstructed 200 million proteins,
+
+01:13:57.000 --> 01:14:02.000
+basically every living thing that's ever been sequenced.
+
+01:14:02.000 --> 01:14:04.000
+This is completely revolutionary.
+
+01:14:04.000 --> 01:14:10.000
+Those models are incredibly hard for people to build,
+
+01:14:10.000 --> 01:14:12.000
+and so what we're going to do is we're going to build them.
+
+01:14:12.000 --> 01:14:16.000
+We're going to build them for the researchers around the world.
+
+01:14:16.000 --> 01:14:17.000
+It won't be the only one.
+
+01:14:17.000 --> 01:14:19.000
+There will be many other models that we create.
+
+01:14:19.000 --> 01:14:22.000
+Let me show you what we're going to do with it.
+
+01:14:27.000 --> 01:14:31.000
+Virtual screening for new medicines is a computationally intractable problem.
+
+01:14:31.000 --> 01:14:35.000
+Existing techniques can only scan billions of compounds
+
+01:14:35.000 --> 01:14:40.000
+and require days on thousands of standard compute nodes to identify new drug candidates.
+
+01:14:41.000 --> 01:14:46.000
+NVIDIA BioNemo NIMs enable a new generative screening paradigm.
+
+01:14:46.000 --> 01:14:49.000
+Using NIMs for protein structure prediction with AlphaFold,
+
+01:14:49.000 --> 01:14:53.000
+molecule generation with MolMIM, and docking with DiffDock,
+
+01:14:53.000 --> 01:14:58.000
+we can now generate and screen candidate molecules in a matter of minutes.
+
+01:14:58.000 --> 01:15:02.000
+MolMIM can connect to custom applications to steer the generative process,
+
+01:15:02.000 --> 01:15:06.000
+iteratively optimizing for desired properties.
+
+01:15:06.000 --> 01:15:12.000
+These applications can be defined with BioNemo microservices or built from scratch.
+
+01:15:12.000 --> 01:15:18.000
+Here, a physics-based simulation optimizes for a molecule's ability to bind to a target protein
+
+01:15:18.000 --> 01:15:22.000
+while optimizing for other favorable molecular properties in parallel.
+
+01:15:22.000 --> 01:15:28.000
+MolMIM generates high-quality drug-like molecules that bind to the target and are synthesizable,
+
+01:15:28.000 --> 01:15:34.000
+translating to a higher probability of developing successful medicines faster.
+
+01:15:34.000 --> 01:15:38.000
+BioNemo is enabling a new paradigm in drug discovery with NIMs,
+
+01:15:38.000 --> 01:15:44.000
+providing on-demand microservices that can be combined to build powerful drug discovery workflows
+
+01:15:44.000 --> 01:15:50.000
+like de novo protein design or guided molecule generation for virtual screening.
+
+01:15:50.000 --> 01:15:56.000
+BioNemo NIMs are helping researchers and developers reinvent computational drug design.
+
+01:15:56.000 --> 01:16:01.000
+NVIDIA MOLMIM
+
+01:16:01.000 --> 01:16:07.000
+NVIDIA MOLMIM, MOLMIM, CoreDiff, there's a whole bunch of other models,
+
+01:16:07.000 --> 01:16:12.000
+a whole bunch of other models, computer vision models, robotics models,
+
+01:16:12.000 --> 01:16:18.000
+and even, of course, some really, really terrific open-source language models.
+
+01:16:18.000 --> 01:16:24.000
+These models are groundbreaking. However, it's hard for companies to use.
+
+01:16:24.000 --> 01:16:28.000
+How would you use it? How would you bring it into your company and integrate it into your workflow?
+
+01:16:28.000 --> 01:16:30.000
+How would you package it up and run it?
+
+01:16:30.000 --> 01:16:36.000
+Remember, earlier I just said that inference is an extraordinary computation problem.
+
+01:16:36.000 --> 01:16:41.000
+How would you do the optimization for each and every one of these models
+
+01:16:41.000 --> 01:16:45.000
+and put together the computing stack necessary to run that supercomputer
+
+01:16:45.000 --> 01:16:49.000
+so that you can run these models in your company?
+
+01:16:49.000 --> 01:16:53.000
+And so we have a great idea. We're going to invent a new way,
+
+01:16:53.000 --> 01:16:59.000
+invent a new way for you to receive and operate software.
+
+01:16:59.000 --> 01:17:06.000
+This software comes basically in a digital box. We call it a container.
+
+01:17:06.000 --> 01:17:11.000
+And we call it the NVIDIA Inference Microservice, a NIM.
+
+01:17:11.000 --> 01:17:14.000
+And let me explain to you what it is.
+
+01:17:14.000 --> 01:17:18.000
+A NIM. It's a pre-trained model, so it's pretty clever.
+
+01:17:18.000 --> 01:17:25.000
+And it is packaged and optimized to run across NVIDIA's installed base, which is very, very large.
+
+01:17:25.000 --> 01:17:28.000
+What's inside it is incredible.
+
+01:17:28.000 --> 01:17:32.000
+You have all these pre-trained state-of-the-art open-source models.
+
+01:17:32.000 --> 01:17:34.000
+They could be open-source. They could be from one of our partners.
+
+01:17:34.000 --> 01:17:37.000
+It could be created by us, like NVIDIA Moment.
+
+01:17:37.000 --> 01:17:40.000
+It is packaged up with all of its dependencies.
+
+01:17:40.000 --> 01:17:44.000
+So CUDA, the right version, CUDNN, the right version,
+
+01:17:44.000 --> 01:17:49.000
+TensorFlow RT, LLM, distributing across the multiple GPUs, Triton Inference Server,
+
+01:17:49.000 --> 01:17:52.000
+all completely packaged together.
+
+01:17:52.000 --> 01:17:58.000
+It's optimized depending on whether you have a single GPU, multi-GPU, or multi-node of GPUs.
+
+01:17:58.000 --> 01:18:00.000
+It's optimized for that.
+
+01:18:00.000 --> 01:18:03.000
+And it's connected up with APIs that are simple to use.
+
+01:18:03.000 --> 01:18:07.000
+Now, think about what an AI API is.
+
+01:18:07.000 --> 01:18:12.000
+An AI API is an interface that you just talk to.
+
+01:18:12.000 --> 01:18:16.000
+And so this is a piece of software in the future that has a really simple API,
+
+01:18:16.000 --> 01:18:18.000
+and that API is called Human.
+
+01:18:18.000 --> 01:18:22.000
+And these packages, incredible bodies of software,
+
+01:18:22.000 --> 01:18:27.000
+will be optimized and packaged, and we'll put it on a website.
+
+01:18:27.000 --> 01:18:30.000
+And you can download it. You can take it with you.
+
+01:18:30.000 --> 01:18:34.000
+You can run it in any cloud. You can run it in your own data center.
+
+01:18:34.000 --> 01:18:36.000
+You can run it in workstations if it fit.
+
+01:18:36.000 --> 01:18:39.000
+And all you have to do is come to ai.nvidia.com.
+
+01:18:39.000 --> 01:18:42.000
+We call it NVIDIA Inference Microservice,
+
+01:18:42.000 --> 01:18:45.000
+but inside the company we all call it NIMS.
+
+01:18:45.000 --> 01:18:47.000
+Okay?
+
+01:18:53.000 --> 01:18:59.000
+Just imagine, you know, one day there's going to be one of these chatbots,
+
+01:18:59.000 --> 01:19:02.000
+and these chatbots is going to just be in a NIM.
+
+01:19:02.000 --> 01:19:06.000
+And you'll assemble a whole bunch of chatbots.
+
+01:19:06.000 --> 01:19:09.000
+And that's the way software is going to be built someday.
+
+01:19:09.000 --> 01:19:11.000
+How do we build software in the future?
+
+01:19:11.000 --> 01:19:14.000
+It is unlikely that you'll write it from scratch
+
+01:19:14.000 --> 01:19:17.000
+or write a whole bunch of Python code or anything like that.
+
+01:19:17.000 --> 01:19:21.000
+It is very likely that you assemble a team of AIs.
+
+01:19:21.000 --> 01:19:24.000
+There's probably going to be a super AI that you use
+
+01:19:24.000 --> 01:19:27.000
+that takes the mission that you give it
+
+01:19:27.000 --> 01:19:30.000
+and breaks it down into an execution plan.
+
+01:19:30.000 --> 01:19:34.000
+Some of that execution plan could be handed off to another NIM.
+
+01:19:34.000 --> 01:19:38.000
+That NIM would maybe understand SAP.
+
+01:19:38.000 --> 01:19:41.000
+The language of SAP is ABAP.
+
+01:19:41.000 --> 01:19:43.000
+It might understand ServiceNow
+
+01:19:43.000 --> 01:19:46.000
+and go retrieve some information from their platforms.
+
+01:19:46.000 --> 01:19:49.000
+It might then hand that result to another NIM
+
+01:19:49.000 --> 01:19:52.000
+who goes off and does some calculation on it.
+
+01:19:52.000 --> 01:19:54.000
+Maybe it's an optimization software,
+
+01:19:54.000 --> 01:19:58.000
+a combinatorial optimization algorithm.
+
+01:19:58.000 --> 01:20:02.000
+Maybe it's, you know, just some basic calculator.
+
+01:20:02.000 --> 01:20:06.000
+Maybe it's Pandas to do some numerical analysis on it.
+
+01:20:06.000 --> 01:20:09.000
+And then it comes back with its answer.
+
+01:20:09.000 --> 01:20:12.000
+And it gets combined with everybody else's.
+
+01:20:12.000 --> 01:20:14.000
+And because it's been presented with
+
+01:20:14.000 --> 01:20:17.000
+this is what the right answer should look like,
+
+01:20:17.000 --> 01:20:20.000
+it knows what right answers to produce,
+
+01:20:20.000 --> 01:20:22.000
+and it presents it to you.
+
+01:20:22.000 --> 01:20:25.000
+We can get a report every single day, you know, top of the hour,
+
+01:20:25.000 --> 01:20:28.000
+that has something to do with a build plan or some forecast
+
+01:20:28.000 --> 01:20:31.000
+or some customer alert or some bugs database
+
+01:20:31.000 --> 01:20:33.000
+or whatever it happens to be,
+
+01:20:33.000 --> 01:20:36.000
+and we could assemble it using all these NIMs.
+
+01:20:36.000 --> 01:20:38.000
+And because these NIMs have been packaged up
+
+01:20:38.000 --> 01:20:41.000
+and ready to work on your systems,
+
+01:20:41.000 --> 01:20:44.000
+so long as you have NVIDIA GPUs in your data center or in the cloud,
+
+01:20:44.000 --> 01:20:49.000
+these NIMs will work together as a team and do amazing things.
+
+01:20:49.000 --> 01:20:52.000
+And so we decided, this is such a great idea,
+
+01:20:52.000 --> 01:20:54.000
+we're going to go do that.
+
+01:20:54.000 --> 01:20:57.000
+And so NVIDIA has NIMs running all over the company.
+
+01:20:57.000 --> 01:21:00.000
+We have chatbots being created all over the place,
+
+01:21:00.000 --> 01:21:03.000
+and one of the most important chatbots, of course,
+
+01:21:03.000 --> 01:21:05.000
+is a chip designer chatbot.
+
+01:21:05.000 --> 01:21:07.000
+You might not be surprised.
+
+01:21:07.000 --> 01:21:09.000
+We care a lot about building chips.
+
+01:21:09.000 --> 01:21:12.000
+And so we want to build chatbots,
+
+01:21:12.000 --> 01:21:17.000
+AI copilots that are co-designers with our engineers.
+
+01:21:17.000 --> 01:21:19.000
+And so this is the way we did it.
+
+01:21:19.000 --> 01:21:22.000
+So we got ourselves a Llama 2.
+
+01:21:22.000 --> 01:21:26.000
+This is a 70B, and it's packaged up in a NIM.
+
+01:21:26.000 --> 01:21:31.000
+We asked it, you know, what is a CTL?
+
+01:21:31.000 --> 01:21:35.000
+It turns out CTL is an internal program,
+
+01:21:35.000 --> 01:21:37.000
+and it has an internal proprietary language,
+
+01:21:37.000 --> 01:21:40.000
+but it thought the CTL was a combinatorial timing logic,
+
+01:21:40.000 --> 01:21:43.000
+and so it describes conventional knowledge of CTL,
+
+01:21:43.000 --> 01:21:46.000
+but that's not very useful to us.
+
+01:21:46.000 --> 01:21:50.000
+And so we gave it a whole bunch of new examples.
+
+01:21:50.000 --> 01:21:54.000
+This is no different than onboarding an employee.
+
+01:21:54.000 --> 01:21:56.000
+And we say, you know, thanks for that answer.
+
+01:21:56.000 --> 01:21:58.000
+It's completely wrong.
+
+01:21:58.000 --> 01:22:03.000
+And then we present to them, this is what a CTL is, okay?
+
+01:22:03.000 --> 01:22:06.000
+And so this is what a CTL is at NVIDIA.
+
+01:22:06.000 --> 01:22:09.000
+And the CTL, as you can see, you know, CTL stands for
+
+01:22:09.000 --> 01:22:12.000
+Compute Trace Library, which makes sense.
+
+01:22:12.000 --> 01:22:15.000
+You know, we're tracing compute cycles all the time,
+
+01:22:15.000 --> 01:22:17.000
+and it wrote the program.
+
+01:22:17.000 --> 01:22:19.000
+Isn't that amazing?
+
+01:22:19.000 --> 01:22:22.000
+And so the productivity of our chip designers can go up.
+
+01:22:22.000 --> 01:22:24.000
+This is what you can do with a NIM.
+
+01:22:24.000 --> 01:22:26.000
+First thing you can do with it is customize it.
+
+01:22:26.000 --> 01:22:28.000
+We have a service called NEMO Microservice
+
+01:22:28.000 --> 01:22:30.000
+that helps you curate the data,
+
+01:22:30.000 --> 01:22:34.000
+preparing the data so that you can teach this onboard this AI.
+
+01:22:34.000 --> 01:22:37.000
+You fine-tune them, and then you guardrail it.
+
+01:22:37.000 --> 01:22:39.000
+You can even evaluate the answer,
+
+01:22:39.000 --> 01:22:42.000
+evaluate its performance against other examples.
+
+01:22:42.000 --> 01:22:45.000
+And so that's called the NIM.
+
+01:22:45.000 --> 01:22:47.000
+Now, the thing that's emerging here is this.
+
+01:22:47.000 --> 01:22:50.000
+There are three elements, three pillars of what we're doing.
+
+01:22:50.000 --> 01:22:52.000
+The first pillar is, of course,
+
+01:22:52.000 --> 01:22:55.000
+inventing the technology for AI models
+
+01:22:55.000 --> 01:22:58.000
+and running AI models and packaging it up for you.
+
+01:22:58.000 --> 01:23:02.000
+The second is to create tools to help you modify it.
+
+01:23:02.000 --> 01:23:04.000
+First is having the AI technology.
+
+01:23:04.000 --> 01:23:06.000
+Second is to help you modify it.
+
+01:23:06.000 --> 01:23:09.000
+And third is infrastructure for you to fine-tune it
+
+01:23:09.000 --> 01:23:11.000
+and evaluate it.
+
+01:23:11.000 --> 01:23:13.000
+And then finally, the third pillar,
+
+01:23:13.000 --> 01:23:15.000
+infrastructure for you to fine-tune it
+
+01:23:15.000 --> 01:23:17.000
+and, if you like, deploy it.
+
+01:23:17.000 --> 01:23:20.000
+You could deploy it on our infrastructure called DGX Cloud,
+
+01:23:20.000 --> 01:23:22.000
+or you could deploy it on-prem.
+
+01:23:22.000 --> 01:23:24.000
+You could deploy it anywhere you like.
+
+01:23:24.000 --> 01:23:27.000
+Once you develop it, it's yours to take anywhere.
+
+01:23:27.000 --> 01:23:31.000
+And so we are effectively an AI foundry.
+
+01:23:31.000 --> 01:23:35.000
+We will do for you and the industry on AI
+
+01:23:35.000 --> 01:23:37.000
+what TSMC does for us, building chips.
+
+01:23:37.000 --> 01:23:41.000
+And so we go to TSMC with our big ideas.
+
+01:23:41.000 --> 01:23:43.000
+We manufacture it, and we take it with us.
+
+01:23:43.000 --> 01:23:45.000
+And so exactly the same thing here.
+
+01:23:45.000 --> 01:23:48.000
+AI foundry, and the three pillars are the NIMS,
+
+01:23:48.000 --> 01:23:51.000
+NEMO Microservice, and DGX Cloud.
+
+01:23:51.000 --> 01:23:53.000
+The other thing that you could teach the NIMP to do
+
+01:23:53.000 --> 01:23:56.000
+is to understand your proprietary information.
+
+01:23:56.000 --> 01:23:58.000
+Remember, inside our company,
+
+01:23:58.000 --> 01:24:00.000
+the vast majority of our data is not in the cloud.
+
+01:24:00.000 --> 01:24:02.000
+It's inside our company.
+
+01:24:02.000 --> 01:24:05.000
+It's been sitting there, you know, being used all the time,
+
+01:24:05.000 --> 01:24:09.000
+and, gosh, it's basically NVIDIA's intelligence.
+
+01:24:09.000 --> 01:24:14.000
+We would like to take that data, learn its meaning,
+
+01:24:14.000 --> 01:24:16.000
+like we learned the meaning of almost anything else
+
+01:24:16.000 --> 01:24:17.000
+that we just talked about.
+
+01:24:17.000 --> 01:24:21.000
+Learn its meaning, and then re-index that knowledge
+
+01:24:21.000 --> 01:24:25.000
+into a new type of database called a vector database.
+
+01:24:25.000 --> 01:24:27.000
+And so you essentially take structured data
+
+01:24:27.000 --> 01:24:30.000
+or unstructured data, you learn its meaning,
+
+01:24:30.000 --> 01:24:34.000
+you encode its meaning, so now this becomes an AI database,
+
+01:24:34.000 --> 01:24:38.000
+and that AI database, in the future, once you create it,
+
+01:24:38.000 --> 01:24:39.000
+you can talk to it.
+
+01:24:39.000 --> 01:24:41.000
+And so let me give you an example of what you could do.
+
+01:24:41.000 --> 01:24:45.000
+So suppose you've got a whole bunch of multimodality data,
+
+01:24:45.000 --> 01:24:47.000
+and one good example of that is PDF.
+
+01:24:47.000 --> 01:24:51.000
+So you take the PDF, you take all of your PDFs,
+
+01:24:51.000 --> 01:24:55.000
+all your favorite, you know, the stuff that is proprietary to you,
+
+01:24:55.000 --> 01:24:58.000
+critical to your company, you can encode it.
+
+01:24:58.000 --> 01:25:01.000
+Just as we encoded pixels of a cat,
+
+01:25:01.000 --> 01:25:04.000
+and it becomes the word cat, we can encode all of your PDF,
+
+01:25:04.000 --> 01:25:08.000
+and it turns into vectors that are now stored
+
+01:25:08.000 --> 01:25:09.000
+inside your vector database.
+
+01:25:09.000 --> 01:25:12.000
+It becomes the proprietary information of your company.
+
+01:25:12.000 --> 01:25:14.000
+And once you have that proprietary information,
+
+01:25:14.000 --> 01:25:16.000
+you can chat to it.
+
+01:25:16.000 --> 01:25:20.000
+It's a smart database, so you just chat with data.
+
+01:25:20.000 --> 01:25:22.000
+And how much more enjoyable is that?
+
+01:25:22.000 --> 01:25:26.000
+You know, for our software team,
+
+01:25:26.000 --> 01:25:30.000
+they just chat with the bugs database, you know?
+
+01:25:30.000 --> 01:25:32.000
+How many bugs was there last night?
+
+01:25:32.000 --> 01:25:34.000
+Are we making any progress?
+
+01:25:34.000 --> 01:25:38.000
+And then after you're done talking to this bugs database,
+
+01:25:38.000 --> 01:25:40.000
+you need therapy.
+
+01:25:40.000 --> 01:25:43.000
+And so we have another chat bot for you.
+
+01:25:47.000 --> 01:25:49.000
+You can do it.
+
+01:25:58.000 --> 01:26:00.000
+Okay, so we call this Nemo Retriever,
+
+01:26:00.000 --> 01:26:02.000
+and the reason for that is because ultimately its job
+
+01:26:02.000 --> 01:26:05.000
+is to go retrieve information as quickly as possible.
+
+01:26:05.000 --> 01:26:06.000
+And you just talk to it.
+
+01:26:06.000 --> 01:26:07.000
+Hey, retrieve me this information,
+
+01:26:07.000 --> 01:26:10.000
+and it goes, oh, it brings it back to you.
+
+01:26:10.000 --> 01:26:11.000
+Do you mean this?
+
+01:26:11.000 --> 01:26:13.000
+You go, yeah, perfect, okay?
+
+01:26:13.000 --> 01:26:15.000
+And so we call it the Nemo Retriever.
+
+01:26:15.000 --> 01:26:17.000
+Well, the Nemo service helps you create all these things,
+
+01:26:17.000 --> 01:26:19.000
+and we have all these different NIMs.
+
+01:26:19.000 --> 01:26:21.000
+We even have NIMs of digital humans.
+
+01:26:21.000 --> 01:26:26.000
+I'm Rachel, your AI care manager.
+
+01:26:26.000 --> 01:26:28.000
+Okay, so it's a really short clip,
+
+01:26:28.000 --> 01:26:30.000
+but there were so many videos to show you,
+
+01:26:30.000 --> 01:26:32.000
+I guess so many other demos to show you,
+
+01:26:32.000 --> 01:26:34.000
+and so I had to cut this one short.
+
+01:26:34.000 --> 01:26:36.000
+But this is Diana.
+
+01:26:36.000 --> 01:26:38.000
+She is a digital human NIM,
+
+01:26:38.000 --> 01:26:41.000
+and you just talked to her,
+
+01:26:41.000 --> 01:26:43.000
+and she's connected, in this case,
+
+01:26:43.000 --> 01:26:46.000
+to Hippocratic AI's large language model for healthcare,
+
+01:26:46.000 --> 01:26:48.000
+and it's truly amazing.
+
+01:26:50.000 --> 01:26:54.000
+She is just super smart about healthcare things, you know?
+
+01:26:55.000 --> 01:26:59.000
+And so after Dwight, my VP of software engineering,
+
+01:26:59.000 --> 01:27:02.000
+talks to the chat bot for Bugs Database,
+
+01:27:02.000 --> 01:27:04.000
+then you come over here and talk to Diane.
+
+01:27:04.000 --> 01:27:09.000
+And so Diane is completely animated with AI,
+
+01:27:09.000 --> 01:27:11.000
+and she's a digital human.
+
+01:27:11.000 --> 01:27:14.000
+There are so many companies that would like to build,
+
+01:27:14.000 --> 01:27:16.000
+they're sitting on gold mines.
+
+01:27:16.000 --> 01:27:20.000
+The enterprise IT industry is sitting on a gold mine.
+
+01:27:20.000 --> 01:27:23.000
+It's a gold mine because they have so much understanding
+
+01:27:23.000 --> 01:27:26.000
+of the way work is done.
+
+01:27:26.000 --> 01:27:27.000
+They have all these amazing tools
+
+01:27:27.000 --> 01:27:29.000
+that have been created over the years,
+
+01:27:29.000 --> 01:27:31.000
+and they're sitting on a lot of data.
+
+01:27:31.000 --> 01:27:34.000
+If they could take that gold mine
+
+01:27:34.000 --> 01:27:36.000
+and turn them into co-pilots,
+
+01:27:36.000 --> 01:27:38.000
+these co-pilots could help us do things.
+
+01:27:38.000 --> 01:27:41.000
+And so just about every IT franchise,
+
+01:27:41.000 --> 01:27:43.000
+IT platform in the world
+
+01:27:43.000 --> 01:27:45.000
+that has valuable tools that people use
+
+01:27:45.000 --> 01:27:47.000
+is sitting on a gold mine for co-pilots,
+
+01:27:47.000 --> 01:27:49.000
+and they would like to build their own co-pilots
+
+01:27:49.000 --> 01:27:51.000
+and their own chat bots.
+
+01:27:51.000 --> 01:27:54.000
+And so we're announcing that NVIDIA AI Foundry
+
+01:27:54.000 --> 01:27:56.000
+is working with some of the world's great companies.
+
+01:27:56.000 --> 01:28:00.000
+SAP generates 87% of the world's global commerce.
+
+01:28:00.000 --> 01:28:02.000
+Basically, the world runs on SAP.
+
+01:28:02.000 --> 01:28:03.000
+We run on SAP.
+
+01:28:03.000 --> 01:28:07.000
+NVIDIA and SAP are building SAP Jewel co-pilots
+
+01:28:07.000 --> 01:28:09.000
+using NVIDIA Nemo and DGX Cloud.
+
+01:28:09.000 --> 01:28:14.000
+ServiceNow, they run 85% of the world's Fortune 500 companies
+
+01:28:14.000 --> 01:28:18.000
+run their people and customer service operations on ServiceNow.
+
+01:28:18.000 --> 01:28:21.000
+And they're using NVIDIA AI Foundry
+
+01:28:21.000 --> 01:28:25.000
+to build ServiceNow assist virtual assistants.
+
+01:28:25.000 --> 01:28:28.000
+Cohesity backs up the world's data.
+
+01:28:28.000 --> 01:28:30.000
+They're sitting on a gold mine of data,
+
+01:28:30.000 --> 01:28:32.000
+hundreds of exabytes of data,
+
+01:28:32.000 --> 01:28:34.000
+over 10,000 companies.
+
+01:28:34.000 --> 01:28:36.000
+NVIDIA AI Foundry is working with them,
+
+01:28:36.000 --> 01:28:41.000
+helping them build their Gaia generative AI agent.
+
+01:28:41.000 --> 01:28:44.000
+Snowflake is a company that stores
+
+01:28:44.000 --> 01:28:47.000
+the world's digital warehouse in the cloud
+
+01:28:47.000 --> 01:28:52.000
+and serves over 3 billion queries a day
+
+01:28:52.000 --> 01:28:55.000
+for 10,000 enterprise customers.
+
+01:28:55.000 --> 01:28:57.000
+Snowflake is working with NVIDIA AI Foundry
+
+01:28:57.000 --> 01:29:01.000
+to build co-pilots with NVIDIA Nemo and NIMS.
+
+01:29:01.000 --> 01:29:05.000
+NetApp, nearly half of the files in the world
+
+01:29:05.000 --> 01:29:08.000
+are stored on-prem on NetApp.
+
+01:29:08.000 --> 01:29:10.000
+NVIDIA AI Foundry is helping them
+
+01:29:10.000 --> 01:29:12.000
+build chatbots and co-pilots
+
+01:29:12.000 --> 01:29:15.000
+like those vector databases and retrievers
+
+01:29:15.000 --> 01:29:18.000
+with NVIDIA Nemo and NIMS.
+
+01:29:18.000 --> 01:29:21.000
+And we have a great partnership with Dell.
+
+01:29:21.000 --> 01:29:24.000
+Everybody who is building these chatbots
+
+01:29:24.000 --> 01:29:26.000
+and generative AI,
+
+01:29:26.000 --> 01:29:27.000
+when you're ready to run it,
+
+01:29:27.000 --> 01:29:30.000
+you're going to need an AI factory.
+
+01:29:30.000 --> 01:29:34.000
+And nobody is better at building end-to-end systems
+
+01:29:34.000 --> 01:29:38.000
+of very large scale for the enterprise than Dell.
+
+01:29:38.000 --> 01:29:40.000
+And so anybody, any company,
+
+01:29:40.000 --> 01:29:42.000
+every company will need to build AI factories.
+
+01:29:42.000 --> 01:29:44.000
+And it turns out that Michael is here.
+
+01:29:44.000 --> 01:29:46.000
+He's happy to take your order.
+
+01:29:50.000 --> 01:29:52.000
+Ladies and gentlemen, Michael Dell.
+
+01:29:57.000 --> 01:30:00.000
+Okay, let's talk about the next wave of robotics,
+
+01:30:00.000 --> 01:30:04.000
+the next wave of AI, robotics, physical AI.
+
+01:30:04.000 --> 01:30:07.000
+So far, all of the AI that we've talked about
+
+01:30:07.000 --> 01:30:09.000
+is one computer.
+
+01:30:09.000 --> 01:30:11.000
+Data comes into one computer,
+
+01:30:11.000 --> 01:30:13.000
+lots of the world's, if you will,
+
+01:30:13.000 --> 01:30:15.000
+experience in digital text form.
+
+01:30:15.000 --> 01:30:20.000
+The AI imitates us by reading a lot of the language
+
+01:30:20.000 --> 01:30:22.000
+to predict the next words.
+
+01:30:22.000 --> 01:30:25.000
+It's imitating you by studying all of the patterns
+
+01:30:25.000 --> 01:30:27.000
+and all the other previous examples.
+
+01:30:27.000 --> 01:30:29.000
+Of course, it has to understand context and so on and so forth,
+
+01:30:29.000 --> 01:30:31.000
+but once it understands the context,
+
+01:30:31.000 --> 01:30:33.000
+it's essentially imitating you.
+
+01:30:33.000 --> 01:30:34.000
+We take all of the data,
+
+01:30:34.000 --> 01:30:36.000
+we put it into a system like DGX,
+
+01:30:36.000 --> 01:30:39.000
+we compress it into a large language model,
+
+01:30:39.000 --> 01:30:41.000
+trillions and trillions of parameters
+
+01:30:41.000 --> 01:30:42.000
+become billions and billions,
+
+01:30:42.000 --> 01:30:44.000
+trillions of tokens becomes billions of parameters,
+
+01:30:44.000 --> 01:30:47.000
+these billions of parameters becomes your AI.
+
+01:30:47.000 --> 01:30:50.000
+Well, in order for us to go to the next wave of AI,
+
+01:30:50.000 --> 01:30:53.000
+where the AI understands the physical world,
+
+01:30:53.000 --> 01:30:56.000
+we're going to need three computers.
+
+01:30:56.000 --> 01:30:58.000
+The first computer is still the same computer.
+
+01:30:58.000 --> 01:31:01.000
+It's that AI computer that now is going to be watching video
+
+01:31:01.000 --> 01:31:04.000
+and maybe it's doing synthetic data generation
+
+01:31:04.000 --> 01:31:07.000
+and maybe there's a lot of human examples,
+
+01:31:07.000 --> 01:31:10.000
+just as we have human examples in text form,
+
+01:31:10.000 --> 01:31:13.000
+we're going to have human examples in articulation form
+
+01:31:13.000 --> 01:31:18.000
+and the AIs will watch us, understand what is happening
+
+01:31:18.000 --> 01:31:23.000
+and try to adapt it for themselves into the context
+
+01:31:23.000 --> 01:31:27.000
+and because it can generalize with these foundation models,
+
+01:31:27.000 --> 01:31:30.000
+maybe these robots can also perform in the physical world
+
+01:31:30.000 --> 01:31:32.000
+fairly generally.
+
+01:31:32.000 --> 01:31:35.000
+So I just described in very simple terms
+
+01:31:35.000 --> 01:31:38.000
+essentially what just happened in large language models,
+
+01:31:38.000 --> 01:31:40.000
+except the chat GPT moment for robotics
+
+01:31:40.000 --> 01:31:43.000
+may be right around the corner.
+
+01:31:43.000 --> 01:31:45.000
+And so we've been building the end-to-end systems
+
+01:31:45.000 --> 01:31:47.000
+for robotics for some time.
+
+01:31:47.000 --> 01:31:49.000
+I'm super, super proud of the work.
+
+01:31:49.000 --> 01:31:52.000
+We have the AI system, DGX.
+
+01:31:52.000 --> 01:31:54.000
+We have the lower system, which is called AGX,
+
+01:31:54.000 --> 01:31:56.000
+for autonomous systems,
+
+01:31:56.000 --> 01:31:58.000
+the world's first robotics processor.
+
+01:31:58.000 --> 01:32:00.000
+When we first built this thing, people are,
+
+01:32:00.000 --> 01:32:01.000
+what are you guys building?
+
+01:32:01.000 --> 01:32:03.000
+It's an SOC, it's one chip,
+
+01:32:03.000 --> 01:32:05.000
+it's designed to be very low power,
+
+01:32:05.000 --> 01:32:08.000
+high speed sensor processing and AI.
+
+01:32:08.000 --> 01:32:12.000
+And so if you want to run transformers in a car
+
+01:32:12.000 --> 01:32:17.000
+or you want to run transformers in anything that moves,
+
+01:32:17.000 --> 01:32:19.000
+we have the perfect computer for you.
+
+01:32:19.000 --> 01:32:21.000
+It's called the Jetson.
+
+01:32:21.000 --> 01:32:23.000
+And so the DGX on top for training the AI,
+
+01:32:23.000 --> 01:32:25.000
+the Jetson is the autonomous processor,
+
+01:32:25.000 --> 01:32:29.000
+and in the middle, we need another computer.
+
+01:32:29.000 --> 01:32:33.000
+Whereas large language models have the benefit
+
+01:32:33.000 --> 01:32:35.000
+of you providing your examples
+
+01:32:35.000 --> 01:32:39.000
+and then doing reinforcement learning human feedback,
+
+01:32:39.000 --> 01:32:43.000
+what is the reinforcement learning human feedback of a robot?
+
+01:32:43.000 --> 01:32:47.000
+Well, it's reinforcement learning physical feedback.
+
+01:32:47.000 --> 01:32:49.000
+That's how you align the robot.
+
+01:32:49.000 --> 01:32:52.000
+That's how the robot knows that as it's learning
+
+01:32:52.000 --> 01:32:55.000
+these articulation capabilities and manipulation capabilities,
+
+01:32:55.000 --> 01:32:59.000
+it's going to adapt properly into the laws of physics.
+
+01:32:59.000 --> 01:33:03.000
+And so we need a simulation engine
+
+01:33:03.000 --> 01:33:06.000
+that represents the world digitally for the robot
+
+01:33:06.000 --> 01:33:10.000
+so that the robot has a gym to go learn how to be a robot.
+
+01:33:10.000 --> 01:33:15.000
+We call that virtual world Omniverse.
+
+01:33:15.000 --> 01:33:18.000
+And the computer that runs Omniverse is called OVX.
+
+01:33:18.000 --> 01:33:23.000
+And OVX, the computer itself, is hosted in the Azure cloud.
+
+01:33:23.000 --> 01:33:27.000
+And so basically we built these three things, these three systems.
+
+01:33:27.000 --> 01:33:30.000
+On top of it, we have algorithms for every single one.
+
+01:33:30.000 --> 01:33:33.000
+Now, I'm going to show you one super example
+
+01:33:33.000 --> 01:33:37.000
+of how AI and Omniverse are going to work together.
+
+01:33:37.000 --> 01:33:40.000
+The example I'm going to show you is kind of insane,
+
+01:33:40.000 --> 01:33:43.000
+but it's going to be very, very close to tomorrow.
+
+01:33:43.000 --> 01:33:45.000
+It's a robotics building.
+
+01:33:45.000 --> 01:33:47.000
+This robotics building is called a warehouse.
+
+01:33:47.000 --> 01:33:49.000
+Inside the robotics building
+
+01:33:49.000 --> 01:33:51.000
+are going to be some autonomous systems.
+
+01:33:51.000 --> 01:33:54.000
+Some of the autonomous systems are going to be called humans,
+
+01:33:54.000 --> 01:33:58.000
+and some of the autonomous systems are going to be called forklifts.
+
+01:33:58.000 --> 01:34:01.000
+And these autonomous systems are going to interact with each other,
+
+01:34:01.000 --> 01:34:03.000
+of course, autonomously,
+
+01:34:03.000 --> 01:34:06.000
+and it's going to be overlooked upon by this warehouse
+
+01:34:06.000 --> 01:34:08.000
+to keep everybody out of harm's way.
+
+01:34:08.000 --> 01:34:11.000
+The warehouse is essentially an air traffic controller.
+
+01:34:11.000 --> 01:34:14.000
+And whenever it sees something happening,
+
+01:34:14.000 --> 01:34:17.000
+it will redirect traffic and give new waypoints,
+
+01:34:17.000 --> 01:34:20.000
+just new waypoints to the robots and the people,
+
+01:34:20.000 --> 01:34:22.000
+and they'll know exactly what to do.
+
+01:34:22.000 --> 01:34:26.000
+This warehouse, this building, you can also talk to.
+
+01:34:26.000 --> 01:34:28.000
+Of course you could talk to it.
+
+01:34:28.000 --> 01:34:31.000
+Hey, you know, SAP Center, how are you feeling today?
+
+01:34:31.000 --> 01:34:33.000
+For example.
+
+01:34:33.000 --> 01:34:36.000
+And so you could ask the warehouse the same questions.
+
+01:34:36.000 --> 01:34:41.000
+Basically, the system I just described will have Omniverse Cloud
+
+01:34:41.000 --> 01:34:44.000
+that's hosting the virtual simulation,
+
+01:34:44.000 --> 01:34:47.000
+and AI running on DGX Cloud,
+
+01:34:47.000 --> 01:34:49.000
+and all of this is running in real time.
+
+01:34:49.000 --> 01:34:51.000
+Let's take a look.
+
+01:34:52.000 --> 01:34:56.000
+The future of heavy industries starts as a digital twin.
+
+01:34:56.000 --> 01:34:59.000
+The AI agents helping robots, workers, and infrastructure
+
+01:34:59.000 --> 01:35:03.000
+navigate unpredictable events in complex industrial spaces
+
+01:35:03.000 --> 01:35:08.000
+will be built and evaluated first in sophisticated digital twins.
+
+01:35:08.000 --> 01:35:12.000
+This Omniverse digital twin of a 100,000-square-foot warehouse
+
+01:35:12.000 --> 01:35:15.000
+is operating as a simulation environment
+
+01:35:15.000 --> 01:35:17.000
+that integrates digital workers,
+
+01:35:17.000 --> 01:35:20.000
+AMRs running the NVIDIA ISAC perceptor stack,
+
+01:35:20.000 --> 01:35:23.000
+centralized activity maps of the entire warehouse
+
+01:35:23.000 --> 01:35:27.000
+from 100 simulated ceiling mount cameras using NVIDIA Metropolis,
+
+01:35:27.000 --> 01:35:31.000
+and AMR route planning with NVIDIA KuOpt.
+
+01:35:31.000 --> 01:35:34.000
+Software in-loop testing of AI agents
+
+01:35:34.000 --> 01:35:37.000
+in this physically accurate simulated environment
+
+01:35:37.000 --> 01:35:40.000
+enables us to evaluate and refine how the system adapts
+
+01:35:40.000 --> 01:35:43.000
+to real-world unpredictability.
+
+01:35:43.000 --> 01:35:47.000
+Here, an incident occurs along this AMR's planned route,
+
+01:35:47.000 --> 01:35:50.000
+blocking its path as it moves to pick up a pallet.
+
+01:35:50.000 --> 01:35:54.000
+NVIDIA Metropolis updates and sends a real-time occupancy map
+
+01:35:54.000 --> 01:35:57.000
+to KuOpt where a new optimal route is calculated.
+
+01:35:57.000 --> 01:36:00.000
+The AMR is enabled to see around corners
+
+01:36:00.000 --> 01:36:02.000
+and improve its mission efficiency.
+
+01:36:02.000 --> 01:36:06.000
+With generative AI-powered Metropolis vision foundation models,
+
+01:36:06.000 --> 01:36:10.000
+operators can even ask questions using natural language.
+
+01:36:10.000 --> 01:36:13.000
+The visual model understands nuanced activity
+
+01:36:13.000 --> 01:36:16.000
+and can offer immediate insights to improve operations.
+
+01:36:16.000 --> 01:36:19.000
+All of the sensor data is created in simulation
+
+01:36:19.000 --> 01:36:21.000
+and passed to the real-time AI,
+
+01:36:21.000 --> 01:36:25.000
+running as NVIDIA Inference Microservices, or NIMS.
+
+01:36:25.000 --> 01:36:28.000
+And when the AI is ready to be deployed in the physical twin,
+
+01:36:28.000 --> 01:36:32.000
+the real warehouse, we connect Metropolis and ISAC NIMS
+
+01:36:32.000 --> 01:36:36.000
+to real sensors with the ability for continuous improvement
+
+01:36:36.000 --> 01:36:39.000
+of both the digital twin and the AI models.
+
+01:36:42.000 --> 01:36:44.000
+Isn't that incredible?
+
+01:36:44.000 --> 01:36:49.000
+And so, remember,
+
+01:36:49.000 --> 01:36:54.000
+a future facility warehouse, factory, building
+
+01:36:54.000 --> 01:36:56.000
+will be software defined.
+
+01:36:56.000 --> 01:36:58.000
+And so the software is running.
+
+01:36:58.000 --> 01:37:00.000
+How else would you test the software?
+
+01:37:00.000 --> 01:37:03.000
+So you test the software to building the warehouse,
+
+01:37:03.000 --> 01:37:06.000
+the optimization system, in the digital twin.
+
+01:37:06.000 --> 01:37:07.000
+What about all the robots?
+
+01:37:07.000 --> 01:37:09.000
+All of those robots you were seeing just now,
+
+01:37:09.000 --> 01:37:12.000
+they're all running their own autonomous robotic stack.
+
+01:37:12.000 --> 01:37:14.000
+And so the way you integrate software in the future,
+
+01:37:14.000 --> 01:37:17.000
+CICD in the future, for robotic systems
+
+01:37:17.000 --> 01:37:19.000
+is with digital twins.
+
+01:37:19.000 --> 01:37:22.000
+We've made Omniverse a lot easier to access.
+
+01:37:22.000 --> 01:37:26.000
+We're going to create basically Omniverse cloud APIs,
+
+01:37:26.000 --> 01:37:28.000
+four simple API in a channel,
+
+01:37:28.000 --> 01:37:30.000
+and you can connect your application to it.
+
+01:37:30.000 --> 01:37:35.000
+So this is going to be as wonderfully, beautifully simple
+
+01:37:35.000 --> 01:37:37.000
+in the future that Omniverse is going to be.
+
+01:37:37.000 --> 01:37:39.000
+And with these APIs, you're going to have
+
+01:37:39.000 --> 01:37:42.000
+these magical digital twin capability.
+
+01:37:42.000 --> 01:37:47.000
+We also have turned Omniverse into an AI
+
+01:37:47.000 --> 01:37:50.000
+and integrated it with the ability to chat USD.
+
+01:37:50.000 --> 01:37:54.000
+The language of our language is, you know, human,
+
+01:37:54.000 --> 01:37:56.000
+and Omniverse's language, as it turns out,
+
+01:37:56.000 --> 01:37:58.000
+is universal scene description.
+
+01:37:58.000 --> 01:38:01.000
+And so that language is rather complex,
+
+01:38:01.000 --> 01:38:04.000
+and so we've taught our Omniverse that language.
+
+01:38:04.000 --> 01:38:06.000
+And so you can speak to it in English,
+
+01:38:06.000 --> 01:38:08.000
+and it would directly generate USD.
+
+01:38:08.000 --> 01:38:10.000
+And it would talk back in USD,
+
+01:38:10.000 --> 01:38:12.000
+but converse back to you in English.
+
+01:38:12.000 --> 01:38:14.000
+You could also look for information
+
+01:38:14.000 --> 01:38:16.000
+in this world semantically.
+
+01:38:16.000 --> 01:38:19.000
+Instead of the world being encoded semantically in language,
+
+01:38:19.000 --> 01:38:22.000
+now it's encoded semantically in scenes.
+
+01:38:22.000 --> 01:38:25.000
+And so you could ask it of certain objects
+
+01:38:25.000 --> 01:38:27.000
+or certain conditions or certain scenarios,
+
+01:38:27.000 --> 01:38:29.000
+and it can go and find that scenario for you.
+
+01:38:29.000 --> 01:38:32.000
+It also can collaborate with you in generation.
+
+01:38:32.000 --> 01:38:34.000
+You could design some things in 3D.
+
+01:38:34.000 --> 01:38:36.000
+It could simulate some things in 3D,
+
+01:38:36.000 --> 01:38:38.000
+or you could use AI to generate something in 3D.
+
+01:38:38.000 --> 01:38:41.000
+Let's take a look at how this is all going to work.
+
+01:38:41.000 --> 01:38:43.000
+We have a great partnership with Siemens.
+
+01:38:43.000 --> 01:38:47.000
+Siemens is the world's largest industrial engineering
+
+01:38:47.000 --> 01:38:49.000
+and operations platform.
+
+01:38:49.000 --> 01:38:51.000
+You've seen now so many different companies
+
+01:38:51.000 --> 01:38:53.000
+in the industrial space.
+
+01:38:53.000 --> 01:38:57.000
+Heavy Industries is one of the greatest final frontiers of IT,
+
+01:38:57.000 --> 01:39:01.000
+and we finally now have the necessary technology
+
+01:39:01.000 --> 01:39:03.000
+to go and make a real impact.
+
+01:39:03.000 --> 01:39:05.000
+Siemens is building the industrial metaverse,
+
+01:39:05.000 --> 01:39:08.000
+and today we're announcing that Siemens is connecting
+
+01:39:08.000 --> 01:39:12.000
+their crown jewel accelerator to NVIDIA Omniverse.
+
+01:39:12.000 --> 01:39:13.000
+Let's take a look.
+
+01:39:15.000 --> 01:39:18.000
+Siemens technology is transformed every day for everyone.
+
+01:39:18.000 --> 01:39:22.000
+Team Center X, our leading product lifecycle management software
+
+01:39:22.000 --> 01:39:24.000
+from the Siemens accelerator platform,
+
+01:39:24.000 --> 01:39:26.000
+is used every day by our customers
+
+01:39:26.000 --> 01:39:30.000
+to develop and deliver products at scale.
+
+01:39:30.000 --> 01:39:33.000
+Now we are bringing the real and the digital worlds
+
+01:39:33.000 --> 01:39:36.000
+even closer by integrating NVIDIA AI
+
+01:39:36.000 --> 01:39:40.000
+and Omniverse technologies into Team Center X.
+
+01:39:40.000 --> 01:39:43.000
+Omniverse APIs enable data interoperability
+
+01:39:43.000 --> 01:39:47.000
+and physics-based rendering to industrial-scale design
+
+01:39:47.000 --> 01:39:49.000
+and manufacturing projects.
+
+01:39:49.000 --> 01:39:51.000
+Our customers, HD Hyundai,
+
+01:39:51.000 --> 01:39:53.000
+market leader in sustainable ship manufacturing,
+
+01:39:53.000 --> 01:39:56.000
+builds ammonia and hydrogen power chips,
+
+01:39:56.000 --> 01:40:00.000
+often comprising over 7 million discrete parts.
+
+01:40:00.000 --> 01:40:05.000
+With Omniverse APIs, Team Center X lets companies like HD Hyundai
+
+01:40:05.000 --> 01:40:10.000
+unify and visualize these massive engineering data sets interactively
+
+01:40:10.000 --> 01:40:14.000
+and integrate generative AI to generate 3D objects
+
+01:40:14.000 --> 01:40:19.000
+or HDRI backgrounds to see their projects in context.
+
+01:40:19.000 --> 01:40:22.000
+The result, an ultra-intuitive, photoreal,
+
+01:40:22.000 --> 01:40:26.000
+physics-based digital twin that eliminates waste and errors,
+
+01:40:26.000 --> 01:40:29.000
+delivering huge savings in cost and time.
+
+01:40:30.000 --> 01:40:32.000
+And we are building this for collaboration,
+
+01:40:32.000 --> 01:40:36.000
+whether across more Siemens accelerator tools like Siemens NX
+
+01:40:36.000 --> 01:40:40.000
+or STAR CCM+, or across teams
+
+01:40:40.000 --> 01:40:44.000
+working on their favorite devices in the same scene together.
+
+01:40:44.000 --> 01:40:46.000
+And this is just the beginning.
+
+01:40:46.000 --> 01:40:50.000
+Working with NVIDIA, we will bring accelerator computing,
+
+01:40:50.000 --> 01:40:53.000
+generative AI and Omniverse integration
+
+01:40:53.000 --> 01:40:56.000
+across the Siemens accelerator portfolio.
+
+01:41:00.000 --> 01:41:04.000
+The professional voice actor
+
+01:41:04.000 --> 01:41:07.000
+happens to be a good friend of mine, Roland Bush,
+
+01:41:07.000 --> 01:41:10.000
+who happens to be the CEO of Siemens.
+
+01:41:17.000 --> 01:41:22.000
+Once you get Omniverse connected into your workflow,
+
+01:41:22.000 --> 01:41:24.000
+your ecosystem,
+
+01:41:24.000 --> 01:41:26.000
+from the beginning of your life,
+
+01:41:26.000 --> 01:41:30.000
+to engineering, to manufacturing planning,
+
+01:41:30.000 --> 01:41:33.000
+all the way to digital twin operations,
+
+01:41:33.000 --> 01:41:35.000
+once you connect everything together,
+
+01:41:35.000 --> 01:41:38.000
+it's insane how much productivity you can get.
+
+01:41:38.000 --> 01:41:40.000
+And it's just really, really wonderful.
+
+01:41:40.000 --> 01:41:43.000
+All of a sudden, everybody's operating on the same ground truth.
+
+01:41:43.000 --> 01:41:47.000
+You don't have to exchange data and convert data, make mistakes.
+
+01:41:47.000 --> 01:41:50.000
+Everybody is working on the same ground truth.
+
+01:41:50.000 --> 01:41:53.000
+From the beginning of your life,
+
+01:41:53.000 --> 01:41:56.000
+everybody is working on the same ground truth.
+
+01:41:56.000 --> 01:41:58.000
+From the design department to the art department,
+
+01:41:58.000 --> 01:42:01.000
+the architecture department, all the way to the engineering
+
+01:42:01.000 --> 01:42:03.000
+and even the marketing department.
+
+01:42:03.000 --> 01:42:07.000
+Let's take a look at how Nissan has integrated Omniverse
+
+01:42:07.000 --> 01:42:09.000
+into their workflow.
+
+01:42:09.000 --> 01:42:12.000
+And it's all because it's connected by all these wonderful tools
+
+01:42:12.000 --> 01:42:14.000
+and these developers that we're working with.
+
+01:42:14.000 --> 01:42:16.000
+Take a look.
+
+01:42:23.000 --> 01:42:25.000
+Let's take a look.
+
+01:42:53.000 --> 01:42:56.000
+Let's take a look.
+
+01:43:23.000 --> 01:43:25.000
+Let's take a look.
+
+01:43:53.000 --> 01:43:55.000
+That was not an animation.
+
+01:43:55.000 --> 01:43:58.000
+That was Omniverse.
+
+01:43:58.000 --> 01:44:01.000
+Today, we're announcing that Omniverse Cloud
+
+01:44:01.000 --> 01:44:05.000
+streams to the Vision Pro.
+
+01:44:12.000 --> 01:44:15.000
+It is very, very strange
+
+01:44:15.000 --> 01:44:18.000
+that you walk around virtual doors
+
+01:44:18.000 --> 01:44:21.000
+when I was getting out of that car.
+
+01:44:21.000 --> 01:44:23.000
+And everybody does it.
+
+01:44:23.000 --> 01:44:25.000
+It is really, really quite amazing.
+
+01:44:25.000 --> 01:44:28.000
+Vision Pro, connected to Omniverse,
+
+01:44:28.000 --> 01:44:30.000
+portals you into Omniverse.
+
+01:44:30.000 --> 01:44:32.000
+And because all of these CAD tools
+
+01:44:32.000 --> 01:44:35.000
+and all these different design tools are now integrated
+
+01:44:35.000 --> 01:44:37.000
+and connected to Omniverse,
+
+01:44:37.000 --> 01:44:39.000
+you can have this type of workflow.
+
+01:44:39.000 --> 01:44:41.000
+Really incredible.
+
+01:44:41.000 --> 01:44:43.000
+Let's talk about robotics.
+
+01:44:43.000 --> 01:44:45.000
+Everything that moves will be robotic.
+
+01:44:45.000 --> 01:44:47.000
+There's no question about that.
+
+01:44:47.000 --> 01:44:49.000
+It's safer, it's more convenient.
+
+01:44:49.000 --> 01:44:51.000
+One of the largest industries is going to be automotive.
+
+01:44:51.000 --> 01:44:53.000
+We build the robotic stack
+
+01:44:53.000 --> 01:44:55.000
+from top to bottom, as I was mentioning,
+
+01:44:55.000 --> 01:44:57.000
+from the computer system,
+
+01:44:57.000 --> 01:44:59.000
+but in the case of self-driving cars,
+
+01:44:59.000 --> 01:45:01.000
+including the self-driving application.
+
+01:45:01.000 --> 01:45:03.000
+At the end of this year,
+
+01:45:03.000 --> 01:45:05.000
+or I guess beginning of next year,
+
+01:45:05.000 --> 01:45:07.000
+we will be shipping in Mercedes
+
+01:45:07.000 --> 01:45:09.000
+and then shortly after that, JLR.
+
+01:45:09.000 --> 01:45:11.000
+And so these autonomous robotic systems
+
+01:45:11.000 --> 01:45:13.000
+are software defined.
+
+01:45:13.000 --> 01:45:15.000
+They take a lot of work to do,
+
+01:45:15.000 --> 01:45:17.000
+has computer vision,
+
+01:45:17.000 --> 01:45:19.000
+intelligence, control and planning,
+
+01:45:19.000 --> 01:45:21.000
+all kinds of very complicated technology
+
+01:45:21.000 --> 01:45:23.000
+and takes years to refine.
+
+01:45:23.000 --> 01:45:25.000
+We're building the entire stack.
+
+01:45:25.000 --> 01:45:27.000
+However, we open up our entire stack
+
+01:45:27.000 --> 01:45:29.000
+for all of the automotive industry.
+
+01:45:29.000 --> 01:45:31.000
+This is just the way we work.
+
+01:45:31.000 --> 01:45:33.000
+The way we work in every single industry,
+
+01:45:33.000 --> 01:45:35.000
+we try to build as much of it as we can
+
+01:45:35.000 --> 01:45:37.000
+so that we understand it,
+
+01:45:37.000 --> 01:45:39.000
+but then we open it up so that everybody can access it.
+
+01:45:39.000 --> 01:45:41.000
+Whether you would like to buy just our computer,
+
+01:45:41.000 --> 01:45:43.000
+which is the world's only
+
+01:45:43.000 --> 01:45:45.000
+functional, safe,
+
+01:45:45.000 --> 01:45:47.000
+ASLD system
+
+01:45:47.000 --> 01:45:49.000
+that can run AI,
+
+01:45:49.000 --> 01:45:51.000
+this functional, safe,
+
+01:45:51.000 --> 01:45:53.000
+ASLD quality computer
+
+01:45:53.000 --> 01:45:55.000
+or the operating system on top
+
+01:45:55.000 --> 01:45:57.000
+or, of course,
+
+01:45:57.000 --> 01:45:59.000
+our data centers, which is in
+
+01:45:59.000 --> 01:46:01.000
+basically every AV company in the world.
+
+01:46:01.000 --> 01:46:03.000
+However you would like to enjoy it,
+
+01:46:03.000 --> 01:46:05.000
+we're delighted by it.
+
+01:46:05.000 --> 01:46:07.000
+Today we're announcing that BYD,
+
+01:46:07.000 --> 01:46:09.000
+the world's largest EV company,
+
+01:46:09.000 --> 01:46:11.000
+is adopting our next generation,
+
+01:46:11.000 --> 01:46:13.000
+it's called Thor.
+
+01:46:13.000 --> 01:46:15.000
+Thor is designed for transformer engines.
+
+01:46:15.000 --> 01:46:17.000
+Thor, our next generation
+
+01:46:17.000 --> 01:46:19.000
+AV computer, will be used
+
+01:46:19.000 --> 01:46:21.000
+by BYD.
+
+01:46:29.000 --> 01:46:31.000
+You probably don't know this fact that we have
+
+01:46:31.000 --> 01:46:33.000
+over a million robotics developers.
+
+01:46:33.000 --> 01:46:35.000
+We created Jetson,
+
+01:46:35.000 --> 01:46:37.000
+this robotics computer.
+
+01:46:37.000 --> 01:46:39.000
+We're so proud of it. The amount of software that goes on top of it
+
+01:46:39.000 --> 01:46:41.000
+is insane. But the reason why we can do it at all
+
+01:46:41.000 --> 01:46:43.000
+is because it's 100% CUDA compatible.
+
+01:46:43.000 --> 01:46:45.000
+Everything that we do,
+
+01:46:45.000 --> 01:46:47.000
+everything that we do in our company,
+
+01:46:47.000 --> 01:46:49.000
+is in service of our developers.
+
+01:46:49.000 --> 01:46:51.000
+And by us being able to maintain
+
+01:46:51.000 --> 01:46:53.000
+this rich ecosystem
+
+01:46:53.000 --> 01:46:55.000
+and make it compatible with everything that you
+
+01:46:55.000 --> 01:46:57.000
+access from us,
+
+01:46:57.000 --> 01:46:59.000
+we can bring all of that incredible capability
+
+01:46:59.000 --> 01:47:01.000
+to this little tiny computer
+
+01:47:01.000 --> 01:47:03.000
+we call Jetson, a robotics computer.
+
+01:47:03.000 --> 01:47:05.000
+We also today are announcing
+
+01:47:05.000 --> 01:47:07.000
+this incredibly advanced
+
+01:47:07.000 --> 01:47:09.000
+new SDK. We call it
+
+01:47:09.000 --> 01:47:11.000
+Isaac Perceptor.
+
+01:47:11.000 --> 01:47:13.000
+Isaac Perceptor,
+
+01:47:13.000 --> 01:47:15.000
+most of the robots today
+
+01:47:15.000 --> 01:47:17.000
+are pre-programmed.
+
+01:47:17.000 --> 01:47:19.000
+They're either following rails on the ground,
+
+01:47:19.000 --> 01:47:21.000
+digital rails, or they'd be following
+
+01:47:21.000 --> 01:47:23.000
+April tags. But in the future,
+
+01:47:23.000 --> 01:47:25.000
+they're going to have perception. And the reason
+
+01:47:25.000 --> 01:47:27.000
+why you want that is so that you could easily
+
+01:47:27.000 --> 01:47:29.000
+program it. You say,
+
+01:47:29.000 --> 01:47:31.000
+I would like to go from point A to point B
+
+01:47:31.000 --> 01:47:33.000
+and it will figure out a way to navigate
+
+01:47:33.000 --> 01:47:35.000
+its way there. So by
+
+01:47:35.000 --> 01:47:37.000
+only programming waypoints,
+
+01:47:37.000 --> 01:47:39.000
+the entire route could be
+
+01:47:39.000 --> 01:47:41.000
+adaptive. The entire environment could
+
+01:47:41.000 --> 01:47:43.000
+be reprogrammed, just as I showed you at the very beginning
+
+01:47:43.000 --> 01:47:45.000
+with the warehouse.
+
+01:47:45.000 --> 01:47:47.000
+You can't do that with
+
+01:47:47.000 --> 01:47:49.000
+pre-programmed AGVs.
+
+01:47:49.000 --> 01:47:51.000
+If those boxes fall down,
+
+01:47:51.000 --> 01:47:53.000
+they just all gum up and they just wait there for somebody
+
+01:47:53.000 --> 01:47:55.000
+to come clear it. And so now
+
+01:47:55.000 --> 01:47:57.000
+with the Isaac Perceptor,
+
+01:47:57.000 --> 01:47:59.000
+we have incredible
+
+01:47:59.000 --> 01:48:01.000
+state-of-the-art vision odometry,
+
+01:48:01.000 --> 01:48:03.000
+3D reconstruction,
+
+01:48:03.000 --> 01:48:05.000
+and in addition to 3D reconstruction,
+
+01:48:05.000 --> 01:48:07.000
+depth perception. The reason for that
+
+01:48:07.000 --> 01:48:09.000
+is so that you can have two modalities
+
+01:48:09.000 --> 01:48:11.000
+to keep an eye on what's happening in the world.
+
+01:48:11.000 --> 01:48:13.000
+Isaac Perceptor.
+
+01:48:13.000 --> 01:48:15.000
+The most used
+
+01:48:15.000 --> 01:48:17.000
+robot today is
+
+01:48:17.000 --> 01:48:19.000
+the manipulator,
+
+01:48:19.000 --> 01:48:21.000
+manufacturing arms, and they are also
+
+01:48:21.000 --> 01:48:23.000
+pre-programmed. The computer vision
+
+01:48:23.000 --> 01:48:25.000
+algorithms, the AI algorithms,
+
+01:48:25.000 --> 01:48:27.000
+the control and path planning algorithms
+
+01:48:27.000 --> 01:48:29.000
+that are geometry aware,
+
+01:48:29.000 --> 01:48:31.000
+incredibly computational and intensive.
+
+01:48:31.000 --> 01:48:33.000
+We have made these
+
+01:48:33.000 --> 01:48:35.000
+CUDA accelerated.
+
+01:48:35.000 --> 01:48:37.000
+So we have the world's first CUDA accelerated
+
+01:48:37.000 --> 01:48:39.000
+motion planner that is
+
+01:48:39.000 --> 01:48:41.000
+geometry aware.
+
+01:48:41.000 --> 01:48:43.000
+You put something in front of it, it comes up
+
+01:48:43.000 --> 01:48:45.000
+with a new plan and articulates around it.
+
+01:48:45.000 --> 01:48:47.000
+It has excellent
+
+01:48:47.000 --> 01:48:49.000
+perception for pose estimation
+
+01:48:49.000 --> 01:48:51.000
+of a 3D object.
+
+01:48:51.000 --> 01:48:53.000
+Not just, not its pose in 2D,
+
+01:48:53.000 --> 01:48:55.000
+but its pose in 3D. So it has to
+
+01:48:55.000 --> 01:48:57.000
+imagine what's around and
+
+01:48:57.000 --> 01:48:59.000
+how best to grab it.
+
+01:48:59.000 --> 01:49:01.000
+So the foundation
+
+01:49:01.000 --> 01:49:03.000
+pose, the grip foundation,
+
+01:49:03.000 --> 01:49:05.000
+and the
+
+01:49:05.000 --> 01:49:07.000
+articulation algorithms are now
+
+01:49:07.000 --> 01:49:09.000
+available. We call it Isaac Manipulator.
+
+01:49:09.000 --> 01:49:11.000
+And they also just
+
+01:49:11.000 --> 01:49:13.000
+run on NVIDIA's computers.
+
+01:49:13.000 --> 01:49:15.000
+We are
+
+01:49:15.000 --> 01:49:17.000
+starting to do some really
+
+01:49:17.000 --> 01:49:19.000
+great work in the next generation
+
+01:49:19.000 --> 01:49:21.000
+of robotics. The next generation of
+
+01:49:21.000 --> 01:49:23.000
+robotics will likely be
+
+01:49:23.000 --> 01:49:25.000
+a humanoid robotics.
+
+01:49:25.000 --> 01:49:27.000
+We now have the necessary technology
+
+01:49:27.000 --> 01:49:29.000
+and as I was describing earlier,
+
+01:49:29.000 --> 01:49:31.000
+the necessary technology
+
+01:49:31.000 --> 01:49:33.000
+to imagine generalized
+
+01:49:33.000 --> 01:49:35.000
+human robotics.
+
+01:49:35.000 --> 01:49:37.000
+In a way, human robotics is
+
+01:49:37.000 --> 01:49:39.000
+likely easier and the reason for that is
+
+01:49:39.000 --> 01:49:41.000
+because we have a lot more
+
+01:49:41.000 --> 01:49:43.000
+imitation training data
+
+01:49:43.000 --> 01:49:45.000
+that we can provide the robots because we
+
+01:49:45.000 --> 01:49:47.000
+are constructed in a very similar way.
+
+01:49:47.000 --> 01:49:49.000
+It is very likely that the humanoid
+
+01:49:49.000 --> 01:49:51.000
+robotics will be much more useful
+
+01:49:51.000 --> 01:49:53.000
+in our world because we created the
+
+01:49:53.000 --> 01:49:55.000
+world to be something that we can
+
+01:49:55.000 --> 01:49:57.000
+interoperate in and work well in.
+
+01:49:57.000 --> 01:49:59.000
+And the way that we set up our work
+
+01:49:59.000 --> 01:50:01.000
+stations and manufacturing and logistics,
+
+01:50:01.000 --> 01:50:03.000
+they were designed for humans.
+
+01:50:03.000 --> 01:50:05.000
+They were designed for people. And so these
+
+01:50:05.000 --> 01:50:07.000
+humanoid robotics will likely be much
+
+01:50:07.000 --> 01:50:09.000
+more productive to deploy.
+
+01:50:09.000 --> 01:50:11.000
+While we are creating
+
+01:50:11.000 --> 01:50:13.000
+just like we are doing with the others,
+
+01:50:13.000 --> 01:50:15.000
+the entire stack.
+
+01:50:15.000 --> 01:50:17.000
+Starting from the top, a foundation
+
+01:50:17.000 --> 01:50:19.000
+model that learns from
+
+01:50:19.000 --> 01:50:21.000
+watching video, human
+
+01:50:21.000 --> 01:50:23.000
+examples,
+
+01:50:23.000 --> 01:50:25.000
+it could be in video form, it could be in
+
+01:50:25.000 --> 01:50:27.000
+virtual reality form.
+
+01:50:27.000 --> 01:50:29.000
+We then created a gym
+
+01:50:29.000 --> 01:50:31.000
+for it called Isaac Reinforcement
+
+01:50:31.000 --> 01:50:33.000
+Learning Gym, which allows
+
+01:50:33.000 --> 01:50:35.000
+the humanoid robot to
+
+01:50:35.000 --> 01:50:37.000
+learn how to adapt to the
+
+01:50:37.000 --> 01:50:39.000
+physical world. And then an incredible
+
+01:50:39.000 --> 01:50:41.000
+computer, the same computer
+
+01:50:41.000 --> 01:50:43.000
+that's going to go into a robotic car,
+
+01:50:43.000 --> 01:50:45.000
+this computer will run inside
+
+01:50:45.000 --> 01:50:47.000
+a humanoid robot called Thor.
+
+01:50:47.000 --> 01:50:49.000
+It's designed for transformer engines.
+
+01:50:49.000 --> 01:50:51.000
+We've combined
+
+01:50:51.000 --> 01:50:53.000
+several of these into one video.
+
+01:50:53.000 --> 01:50:55.000
+This is something that you're going to really love.
+
+01:50:55.000 --> 01:50:57.000
+Take a look.
+
+01:51:21.000 --> 01:51:23.000
+We create
+
+01:51:23.000 --> 01:51:25.000
+smarter
+
+01:51:25.000 --> 01:51:27.000
+and faster.
+
+01:51:29.000 --> 01:51:31.000
+We push it to fail
+
+01:51:31.000 --> 01:51:33.000
+so it can learn.
+
+01:51:35.000 --> 01:51:37.000
+We teach it
+
+01:51:37.000 --> 01:51:39.000
+then help it teach itself.
+
+01:51:39.000 --> 01:51:41.000
+We broaden its understanding
+
+01:51:45.000 --> 01:51:47.000
+to take on new challenges
+
+01:51:47.000 --> 01:51:49.000
+with absolute precision
+
+01:51:51.000 --> 01:51:53.000
+and succeed.
+
+01:51:55.000 --> 01:51:57.000
+We make it perceive
+
+01:51:59.000 --> 01:52:01.000
+and move
+
+01:52:01.000 --> 01:52:03.000
+and even reason
+
+01:52:05.000 --> 01:52:07.000
+so it can share our world
+
+01:52:07.000 --> 01:52:09.000
+with us.
+
+01:52:17.000 --> 01:52:19.000
+Mmm.
+
+01:52:33.000 --> 01:52:35.000
+This is where inspiration leads us.
+
+01:52:35.000 --> 01:52:37.000
+The next frontier.
+
+01:52:39.000 --> 01:52:41.000
+This is Nvidia Project Group.
+
+01:52:41.000 --> 01:52:43.000
+A general purpose
+
+01:52:43.000 --> 01:52:45.000
+foundation model
+
+01:52:45.000 --> 01:52:47.000
+for humanoid robot learning.
+
+01:52:49.000 --> 01:52:51.000
+The group model takes multimodal
+
+01:52:51.000 --> 01:52:53.000
+instructions and past interactions
+
+01:52:53.000 --> 01:52:55.000
+as input and produces
+
+01:52:55.000 --> 01:52:57.000
+the next action for the robot to
+
+01:52:57.000 --> 01:52:59.000
+execute.
+
+01:52:59.000 --> 01:53:01.000
+We developed Isaac Lab,
+
+01:53:01.000 --> 01:53:03.000
+a robot learning application
+
+01:53:03.000 --> 01:53:05.000
+to train Group, on Omniverse
+
+01:53:05.000 --> 01:53:07.000
+Isaac Sim.
+
+01:53:07.000 --> 01:53:09.000
+And we scale out with Osmo,
+
+01:53:09.000 --> 01:53:11.000
+a new compute orchestration service
+
+01:53:11.000 --> 01:53:13.000
+that coordinates workflows across
+
+01:53:13.000 --> 01:53:15.000
+DGX systems for training
+
+01:53:15.000 --> 01:53:17.000
+and OVX systems for simulation.
+
+01:53:19.000 --> 01:53:21.000
+With these tools, we can train Group
+
+01:53:21.000 --> 01:53:23.000
+in physically based simulation
+
+01:53:23.000 --> 01:53:25.000
+and transfer zero shock
+
+01:53:25.000 --> 01:53:27.000
+to the real world.
+
+01:53:27.000 --> 01:53:29.000
+The Group model will enable
+
+01:53:29.000 --> 01:53:31.000
+a robot to learn from a handful
+
+01:53:31.000 --> 01:53:33.000
+of human demonstrations
+
+01:53:33.000 --> 01:53:35.000
+so it can help with everyday tasks.
+
+01:53:35.000 --> 01:53:37.000
+And emulate human movement
+
+01:53:37.000 --> 01:53:39.000
+just by observing us.
+
+01:53:39.000 --> 01:53:41.000
+This is made possible
+
+01:53:41.000 --> 01:53:43.000
+with Nvidia's technologies
+
+01:53:43.000 --> 01:53:45.000
+that can understand humans from videos,
+
+01:53:45.000 --> 01:53:47.000
+train models and simulation,
+
+01:53:47.000 --> 01:53:49.000
+and ultimately deploy them
+
+01:53:49.000 --> 01:53:51.000
+directly to physical robots.
+
+01:53:51.000 --> 01:53:53.000
+Connecting Group to a large
+
+01:53:53.000 --> 01:53:55.000
+language model even allows it
+
+01:53:55.000 --> 01:53:57.000
+to generate motions by following
+
+01:53:57.000 --> 01:53:59.000
+natural language instructions.
+
+01:53:59.000 --> 01:54:01.000
+Hi, GR1.
+
+01:54:01.000 --> 01:54:03.000
+Can you give me a high five?
+
+01:54:03.000 --> 01:54:05.000
+You're big. Let's high five.
+
+01:54:07.000 --> 01:54:09.000
+Can you give us some cool moves?
+
+01:54:09.000 --> 01:54:11.000
+Sure. Check this out.
+
+01:54:15.000 --> 01:54:17.000
+All this incredible intelligence is powered
+
+01:54:17.000 --> 01:54:19.000
+by the new Jetson Thor Robotics chips
+
+01:54:19.000 --> 01:54:21.000
+designed for Group,
+
+01:54:21.000 --> 01:54:23.000
+built for the future.
+
+01:54:23.000 --> 01:54:25.000
+With Isaac Lab, Osmo
+
+01:54:25.000 --> 01:54:27.000
+and Group, we're providing the building blocks
+
+01:54:27.000 --> 01:54:29.000
+for the next generation of
+
+01:54:29.000 --> 01:54:31.000
+AI-powered robotics.
+
+01:54:33.000 --> 01:54:35.000
+Music
+
+01:54:37.000 --> 01:54:39.000
+Applause
+
+01:54:47.000 --> 01:54:49.000
+About the same size.
+
+01:54:49.000 --> 01:54:51.000
+Applause
+
+01:54:57.000 --> 01:54:59.000
+The soul of Nvidia.
+
+01:54:59.000 --> 01:55:01.000
+The intersection of computer graphics,
+
+01:55:01.000 --> 01:55:03.000
+physics, artificial intelligence.
+
+01:55:03.000 --> 01:55:05.000
+It all came to bear
+
+01:55:05.000 --> 01:55:07.000
+at this moment.
+
+01:55:07.000 --> 01:55:09.000
+The name of that project,
+
+01:55:09.000 --> 01:55:11.000
+General Robotics 003.
+
+01:55:13.000 --> 01:55:15.000
+I know. Super good.
+
+01:55:17.000 --> 01:55:19.000
+Super good.
+
+01:55:19.000 --> 01:55:21.000
+Well, I think we have
+
+01:55:21.000 --> 01:55:23.000
+some special guests.
+
+01:55:23.000 --> 01:55:25.000
+Do we?
+
+01:55:31.000 --> 01:55:33.000
+Hey, guys.
+
+01:55:37.000 --> 01:55:39.000
+So I understand you guys
+
+01:55:39.000 --> 01:55:41.000
+are powered by Jetson.
+
+01:55:41.000 --> 01:55:43.000
+They're powered by Jetson.
+
+01:55:43.000 --> 01:55:45.000
+Little Jetson
+
+01:55:45.000 --> 01:55:47.000
+robotics computers inside.
+
+01:55:47.000 --> 01:55:49.000
+They learn to walk
+
+01:55:49.000 --> 01:55:51.000
+in Isaac Sim.
+
+01:55:51.000 --> 01:55:53.000
+Ladies and
+
+01:55:53.000 --> 01:55:55.000
+gentlemen,
+
+01:55:55.000 --> 01:55:57.000
+this is orange
+
+01:55:57.000 --> 01:55:59.000
+and this is the famous
+
+01:55:59.000 --> 01:56:01.000
+green. They are the
+
+01:56:01.000 --> 01:56:03.000
+BDX robots
+
+01:56:03.000 --> 01:56:05.000
+of Disney.
+
+01:56:05.000 --> 01:56:07.000
+Amazing
+
+01:56:07.000 --> 01:56:09.000
+Disney research.
+
+01:56:09.000 --> 01:56:11.000
+Applause
+
+01:56:11.000 --> 01:56:13.000
+Come on, you guys. Let's wrap up.
+
+01:56:13.000 --> 01:56:15.000
+Let's go.
+
+01:56:15.000 --> 01:56:17.000
+Five things.
+
+01:56:17.000 --> 01:56:19.000
+Where are you going?
+
+01:56:19.000 --> 01:56:21.000
+I sit right here.
+
+01:56:25.000 --> 01:56:27.000
+Don't be afraid.
+
+01:56:27.000 --> 01:56:29.000
+Come here, green. Hurry up.
+
+01:56:31.000 --> 01:56:33.000
+What are you saying?
+
+01:56:35.000 --> 01:56:37.000
+No, it's not time to eat.
+
+01:56:43.000 --> 01:56:45.000
+I'll give you a snack in a moment.
+
+01:56:45.000 --> 01:56:47.000
+Let me finish up real quick.
+
+01:56:47.000 --> 01:56:49.000
+Come on, green. Hurry up.
+
+01:56:49.000 --> 01:56:51.000
+Stop wasting
+
+01:56:51.000 --> 01:56:53.000
+time.
+
+01:56:53.000 --> 01:56:55.000
+Five things.
+
+01:56:55.000 --> 01:56:57.000
+Five things. First,
+
+01:56:57.000 --> 01:56:59.000
+a new industrial revolution.
+
+01:56:59.000 --> 01:57:01.000
+Every data center should be
+
+01:57:01.000 --> 01:57:03.000
+accelerated. A trillion dollars
+
+01:57:03.000 --> 01:57:05.000
+worth of installed data centers
+
+01:57:05.000 --> 01:57:07.000
+will become modernized over the next
+
+01:57:07.000 --> 01:57:09.000
+several years. Second, because of the computational
+
+01:57:09.000 --> 01:57:11.000
+capability we brought to bear, a new way
+
+01:57:11.000 --> 01:57:13.000
+of doing software has emerged. Generative
+
+01:57:13.000 --> 01:57:15.000
+AI, which is going to create
+
+01:57:15.000 --> 01:57:17.000
+new infrastructure
+
+01:57:17.000 --> 01:57:19.000
+dedicated to doing one thing
+
+01:57:19.000 --> 01:57:21.000
+and one thing only. Not for
+
+01:57:21.000 --> 01:57:23.000
+multi-user data centers, but
+
+01:57:23.000 --> 01:57:25.000
+AI generators. These AI
+
+01:57:25.000 --> 01:57:27.000
+generation will create
+
+01:57:27.000 --> 01:57:29.000
+incredibly valuable software.
+
+01:57:29.000 --> 01:57:31.000
+A new industrial
+
+01:57:31.000 --> 01:57:33.000
+revolution. Second, the computer
+
+01:57:33.000 --> 01:57:35.000
+of this revolution, the computer
+
+01:57:35.000 --> 01:57:37.000
+of this generation, generative
+
+01:57:37.000 --> 01:57:39.000
+AI, trillion parameters,
+
+01:57:39.000 --> 01:57:41.000
+Blackwell.
+
+01:57:41.000 --> 01:57:43.000
+Insane amounts of computers
+
+01:57:43.000 --> 01:57:45.000
+and computing. Third,
+
+01:57:45.000 --> 01:57:47.000
+I'm trying to concentrate.
+
+01:57:49.000 --> 01:57:51.000
+Good job.
+
+01:57:51.000 --> 01:57:53.000
+Third, new
+
+01:57:53.000 --> 01:57:55.000
+computer, new computer
+
+01:57:55.000 --> 01:57:57.000
+creates new types of software. New
+
+01:57:57.000 --> 01:57:59.000
+type of software should be distributed in a new
+
+01:57:59.000 --> 01:58:01.000
+way. So that it can, on the one
+
+01:58:01.000 --> 01:58:03.000
+hand, be an endpoint in the cloud and easy
+
+01:58:03.000 --> 01:58:05.000
+to use, but still allow you
+
+01:58:05.000 --> 01:58:07.000
+to take it with you. Because it is
+
+01:58:07.000 --> 01:58:09.000
+your intelligence. Your intelligence
+
+01:58:09.000 --> 01:58:11.000
+should be packaged up in a way
+
+01:58:11.000 --> 01:58:13.000
+that allows you to take it with you. We call
+
+01:58:13.000 --> 01:58:15.000
+them NIMS. And third, these
+
+01:58:15.000 --> 01:58:17.000
+NIMS are going to help you create
+
+01:58:17.000 --> 01:58:19.000
+a new type of application for the future.
+
+01:58:19.000 --> 01:58:21.000
+Not one that you wrote completely from
+
+01:58:21.000 --> 01:58:23.000
+scratch, but you're going to integrate
+
+01:58:23.000 --> 01:58:25.000
+them like teams.
+
+01:58:25.000 --> 01:58:27.000
+Create these applications. We have
+
+01:58:27.000 --> 01:58:29.000
+a fantastic capability
+
+01:58:29.000 --> 01:58:31.000
+between NIMS, the AI
+
+01:58:31.000 --> 01:58:33.000
+technology, the tools,
+
+01:58:33.000 --> 01:58:35.000
+NIMO, and the infrastructure DGX
+
+01:58:35.000 --> 01:58:37.000
+cloud in our AI
+
+01:58:37.000 --> 01:58:39.000
+foundry to help you create proprietary applications
+
+01:58:39.000 --> 01:58:41.000
+and proprietary chatbots. And then lastly,
+
+01:58:41.000 --> 01:58:43.000
+everything that moves in the future
+
+01:58:43.000 --> 01:58:45.000
+will be robotic. You're not going to be
+
+01:58:45.000 --> 01:58:47.000
+the only one. And these robotic
+
+01:58:47.000 --> 01:58:49.000
+systems, whether they are
+
+01:58:49.000 --> 01:58:51.000
+humanoid, AMRs,
+
+01:58:51.000 --> 01:58:53.000
+self-driving cars,
+
+01:58:53.000 --> 01:58:55.000
+forklifts, manipulating arms,
+
+01:58:55.000 --> 01:58:57.000
+they will all need one
+
+01:58:57.000 --> 01:58:59.000
+thing. Giant stadiums, warehouses,
+
+01:58:59.000 --> 01:59:01.000
+factories.
+
+01:59:01.000 --> 01:59:03.000
+There can be factories that are robotic,
+
+01:59:03.000 --> 01:59:05.000
+orchestrating factories, manufacturing
+
+01:59:05.000 --> 01:59:07.000
+lines that are robotics, building cars
+
+01:59:07.000 --> 01:59:09.000
+that are robotics. These
+
+01:59:09.000 --> 01:59:11.000
+systems all need one thing.
+
+01:59:11.000 --> 01:59:13.000
+They need a platform,
+
+01:59:13.000 --> 01:59:15.000
+a digital platform,
+
+01:59:15.000 --> 01:59:17.000
+a digital twin platform. And we call that
+
+01:59:17.000 --> 01:59:19.000
+omniverse, the operating system
+
+01:59:19.000 --> 01:59:21.000
+of the robotics world.
+
+01:59:21.000 --> 01:59:23.000
+These are the five things that we
+
+01:59:23.000 --> 01:59:25.000
+talked about today. What does NVIDIA
+
+01:59:25.000 --> 01:59:27.000
+look like? What does NVIDIA look like
+
+01:59:27.000 --> 01:59:29.000
+when we talk about GPUs?
+
+01:59:29.000 --> 01:59:31.000
+There's a very different image that I have
+
+01:59:31.000 --> 01:59:33.000
+when people ask me about GPUs.
+
+01:59:33.000 --> 01:59:35.000
+First, I see a bunch of software
+
+01:59:35.000 --> 01:59:37.000
+stacks and things like that. And second,
+
+01:59:37.000 --> 01:59:39.000
+I see this. This is
+
+01:59:39.000 --> 01:59:41.000
+what we announce to you today.
+
+01:59:41.000 --> 01:59:43.000
+This is Blackwell. This is
+
+01:59:43.000 --> 01:59:45.000
+the platform.
+
+01:59:49.000 --> 01:59:51.000
+Amazing, amazing processors,
+
+01:59:51.000 --> 01:59:53.000
+NVLink switches,
+
+01:59:53.000 --> 01:59:55.000
+networking systems,
+
+01:59:55.000 --> 01:59:57.000
+and the system design is a
+
+01:59:57.000 --> 01:59:59.000
+miracle. This is Blackwell.
+
+01:59:59.000 --> 02:00:01.000
+And this, to me, is what a GPU
+
+02:00:01.000 --> 02:00:03.000
+looks like in my mind.
+
+02:00:03.000 --> 02:00:05.000
+Thank you.
+
+02:00:11.000 --> 02:00:13.000
+Listen, orange, green,
+
+02:00:13.000 --> 02:00:15.000
+I think we have one more treat for everybody.
+
+02:00:15.000 --> 02:00:17.000
+What do you think? Should we?
+
+02:00:19.000 --> 02:00:21.000
+Okay, we have one more thing to show you.
+
+02:00:21.000 --> 02:00:23.000
+Roll it.
+
+02:00:33.000 --> 02:00:35.000
+Roll it.
+
+02:00:37.000 --> 02:00:39.000
+Roll it.
+
+02:00:39.000 --> 02:00:41.000
+Roll it.
+
+02:00:41.000 --> 02:00:43.000
+Roll it.
+
+02:00:43.000 --> 02:00:45.000
+Roll it.
+
+02:00:45.000 --> 02:00:47.000
+Roll it.
+
+02:00:47.000 --> 02:00:49.000
+Roll it.
+
+02:00:49.000 --> 02:00:51.000
+Roll it.
+
+02:00:51.000 --> 02:00:53.000
+Roll it.
+
+02:01:03.000 --> 02:01:05.000
+Roll it.
+
+02:01:33.000 --> 02:01:35.000
+Roll it.
+
+02:01:35.000 --> 02:01:37.000
+Roll it.
+
+02:01:37.000 --> 02:01:39.000
+Roll it.
+
+02:01:39.000 --> 02:01:41.000
+Roll it.
+
+02:01:41.000 --> 02:01:43.000
+Roll it.
+
+02:01:43.000 --> 02:01:45.000
+Roll it.
+
+02:01:45.000 --> 02:01:47.000
+Roll it.
+
+02:01:47.000 --> 02:01:49.000
+Roll it.
+
+02:01:49.000 --> 02:01:51.000
+Roll it.
+
+02:01:51.000 --> 02:01:53.000
+Roll it.
+
+02:01:53.000 --> 02:01:55.000
+Roll it.
+
+02:01:57.000 --> 02:01:59.000
+Roll it.
+
+02:01:59.000 --> 02:02:01.000
+Roll it.
+
+02:02:01.000 --> 02:02:03.000
+Roll it.
+
+02:02:03.000 --> 02:02:05.000
+Roll it.
+
+02:02:05.000 --> 02:02:07.000
+Roll it.
+
+02:02:09.000 --> 02:02:11.000
+Roll it.
+
+02:02:13.000 --> 02:02:15.000
+Roll it.
+
+02:02:17.000 --> 02:02:19.000
+1
+
+02:02:19.000 --> 02:02:21.000
+1
+
+02:02:21.000 --> 02:02:23.000
+1
+
+02:02:23.000 --> 02:02:25.000
+1
+
+02:02:25.000 --> 02:02:27.000
+1
+
+02:02:27.000 --> 02:02:29.000
+1
+
+02:02:29.000 --> 02:02:45.860
+Thank you, thank you, have a great, have a great GTC, thank you all for coming, thank
+
+02:02:45.860 --> 02:02:46.140
+you.
+
+02:02:59.000 --> 02:03:01.000
+Thank you, thank you, have a great, have a great GTC, thank you, have a great GTC, thank you.
+
+02:03:29.000 --> 02:03:31.000
+Thank you, thank you, have a great, have a great GTC, thank you.
+
+02:03:59.000 --> 02:04:01.000
+Thank you, thank you, have a great GTC, thank you.
+

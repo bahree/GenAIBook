@@ -1,0 +1,82 @@
+conda install -c conda-forge mlflow
+pip install mlflow
+
+conda install -c conda-forge prometheus_client
+pip install prometheus_client
+
+docker run -p 9090:9090 prom/prometheus
+
+
+conda install argparse openai tiktoken numpy backoff wonderwords asyncio aiohttp
+conda install numpy backoff aiohttp
+pip install argparse wonderwords asyncio
+
+
+
+python -m benchmark.bench load \
+    --deployment gpt35 \
+    --rate 60 \
+    --retry exponential \
+    https://devinstance2.openai.azure.com/openai/deployments/gpt35/chat/completions?api-version=2024-02-15-preview
+
+
+
+python -m benchmark.bench load --deployment gpt35 --rate 60 --retry exponential https://devinstance2.openai.azure.com
+
+
+
+
+
+
+
+Save your Prometheus data
+Prometheus data is stored in /prometheus dir inside the container, so the data is cleared every time the container gets restarted. To save your data, you need to set up persistent storage (or bind mounts) for your container.
+
+Run Prometheus container with persistent storage:
+
+# Create persistent volume for your data
+docker volume create prometheus-data
+# Start Prometheus container
+docker run \
+    -p 9090:9090 \
+    -v /path/to/prometheus.yml:/etc/prometheus/prometheus.yml \
+    -v prometheus-data:/prometheus \
+    prom/prometheus
+
+
+# Example prometheus.yml
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+
+
+docker compose
+version: '3.8'
+services:
+  mlflow:
+    image: ghcr.io/mlflow/mlflow
+    ports:
+      - "5000:5000"
+    volumes:
+      - mlflow-data:/mlflow
+    environment:
+      - MLFLOW_TRACKING_URI=http://localhost:5000
+
+  prometheus:
+    image: prom/prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - prometheus-data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+
+volumes:
+  mlflow-data:
+  prometheus-data:

@@ -1,0 +1,1851 @@
+start	end	text
+0	29000	I am a visionary.
+29000	40000	Illuminating galaxies to witness the birth of stars.
+40000	49000	Sharpening our understanding of extreme weather events.
+49000	52000	I am a helper.
+52000	60000	Guiding the blind through a crowded world.
+60000	63000	I was thinking about running to the store.
+63000	67000	And giving voice to those who cannot speak.
+67000	71000	To not make me laugh.
+71000	75000	I am a transformer.
+75000	86000	Harnessing gravity to store renewable power.
+86000	94000	And paving the way towards unlimited clean energy for us all.
+94000	98000	I am a trainer.
+98000	104000	Teaching robots to assist.
+104000	111000	To watch out for danger.
+111000	117000	And help save lives.
+117000	121000	I am a healer.
+121000	125000	Providing a new generation of cures.
+125000	128000	And new levels of patient care.
+128000	130000	Doctor, that I am allergic to penicillin.
+130000	132000	Is it still okay to take the medications?
+132000	133000	Definitely.
+133000	135000	These antibiotics don't contain penicillin.
+135000	139000	So it's perfectly safe for you to take them.
+139000	145000	I am a navigator.
+145000	150000	Generating virtual scenarios.
+150000	156000	To let us safely explore the real world.
+156000	163000	And understand every decision.
+163000	168000	I even helped write the script.
+168000	171000	Breathe life into the words.
+171000	174000	En muchos idiomas.
+174000	184000	Y escribí la música.
+184000	187000	I am AI.
+187000	190000	Brought to life by NVIDIA.
+190000	192000	Deep learning.
+192000	194000	And brilliant minds.
+194000	205000	Everywhere.
+205000	225000	Please welcome to the stage NVIDIA founder and CEO Jensen Wong.
+225000	232000	Welcome to GTC.
+232000	238000	I hope you realize this is not a concert.
+238000	244000	You have arrived at a developer's conference.
+244000	247000	There will be a lot of science described.
+247000	248000	Algorithms.
+248000	250000	Computer architecture.
+250000	260000	Mathematics.
+260000	265000	I sensed a very heavy weight in the room all of a sudden.
+265000	268000	Almost like you were in the wrong place.
+268000	278000	No conference in the world is there a greater assembly of researchers from such diverse fields of science.
+278000	289000	From climate tech to radio sciences trying to figure out how to use AI to robotically control MIMOs for next generation 6G radios.
+289000	293000	Robotic self-driving cars.
+293000	297000	Even artificial intelligence.
+297000	302000	Even artificial intelligence.
+302000	307000	First I noticed a sense of relief there all of a sudden.
+307000	313000	Also this conference is represented by some amazing companies.
+313000	318000	This list, this is not the attendees.
+318000	321000	These are the presenters.
+321000	324000	And what's amazing is this.
+324000	332000	If you take away all of my friends, close friends, Michael Dell is sitting right there.
+332000	339000	In the IT industry.
+339000	342000	All of the friends I grew up with in the industry.
+342000	347000	If you take away that list, this is what's amazing.
+347000	357000	These are the presenters of the non-IT industries using accelerated computing to solve problems that normal computers can't.
+358000	373000	It's represented in life sciences, healthcare, genomics, transportation of course, retail, logistics, manufacturing, industrial.
+373000	377000	The gamut of industries represented is truly amazing.
+377000	381000	And you're not here to attend, only you're here to present.
+381000	383000	To talk about your research.
+383000	389000	$100 trillion of the world's industries is represented in this room today.
+389000	397000	This is absolutely amazing.
+397000	400000	There is absolutely something happening.
+400000	403000	There is something going on.
+403000	407000	The industry is being transformed, not just ours.
+407000	415000	Because the computer industry, the computer is the single most important instrument of society today.
+415000	420000	Fundamental transformations in computing affects every industry.
+420000	421000	But how did we start?
+421000	423000	How did we get here?
+423000	424000	I made a little cartoon for you.
+424000	427000	Literally I drew this.
+427000	431000	In one page, this is Nvidia's journey.
+431000	433000	Started in 1993.
+433000	437000	This might be the rest of the talk.
+437000	438000	1993.
+438000	439000	This is our journey.
+439000	440000	We were founded in 1993.
+440000	443000	There are several important events that happened along the way.
+443000	445000	I'll just highlight a few.
+445000	451000	In 2006, CUDA, which has turned out to have been a revolutionary computing model.
+451000	453000	We thought it was revolutionary then.
+453000	455000	It was going to be an overnight success.
+455000	461000	And almost 20 years later it happened.
+461000	465000	We saw it coming.
+465000	469000	Two decades later.
+469000	479000	In 2012, AlexNet, AI and CUDA made first contact.
+479000	486000	In 2016, recognizing the importance of this computing model, we invented a brand new type of computer.
+486000	489000	We called it DGX1.
+489000	493000	170 teraflops in this supercomputer.
+493000	496000	8 GPUs connected together for the very first time.
+496000	513000	I hand delivered the very first DGX1 to a startup located in San Francisco called OpenAI.
+513000	516000	DGX1 was the world's first AI supercomputer.
+516000	520000	Remember, 170 teraflops.
+520000	524000	2017, the transformer arrived.
+524000	529000	2022, chat GPT captured the world's imaginations.
+529000	534000	Have people realize the importance and the capabilities of artificial intelligence.
+534000	540000	In 2023, generative AI emerged.
+540000	543000	And a new industry begins.
+543000	545000	Why?
+545000	547000	Why is a new industry?
+547000	549000	Because the software never existed before.
+549000	552000	We are now producing software.
+552000	554000	Using computers to write software.
+554000	557000	Producing software that never existed before.
+557000	559000	It is a brand new category.
+559000	561000	It took share from nothing.
+561000	563000	It's a brand new category.
+563000	569000	And the way you produce the software is unlike anything we've ever done before.
+569000	581000	In data centers, generating tokens, producing floating point numbers at very large scale.
+581000	586000	As if in the beginning of this last industrial revolution,
+586000	593000	When people realized that you would set up factories, apply energy to it.
+593000	597000	And this invisible valuable thing called electricity came out.
+597000	599000	AC generators.
+599000	606000	And 100 years later, 200 years later, we are now creating new types of electrons.
+607000	609000	Tokens.
+609000	612000	Using infrastructure we call factories, AI factories,
+612000	618000	To generate this new incredibly valuable thing called artificial intelligence.
+618000	621000	A new industry has emerged.
+621000	626000	Well, we're going to talk about many things about this new industry.
+626000	629000	We're going to talk about how we're going to do computing next.
+629000	634000	We're going to talk about the type of software that you build because of this new industry.
+634000	636000	The new software.
+636000	638000	How you would think about this new software.
+638000	642000	What about applications in this new industry?
+642000	644000	And then maybe what's next?
+644000	649000	And how can we start preparing today for what is about to come next?
+649000	656000	Well, but before I start, I want to show you the soul of NVIDIA.
+656000	658000	The soul of our company.
+658000	667000	At the intersection of computer graphics, physics, and artificial intelligence,
+667000	677000	all intersecting inside a computer, in Omniverse, in a virtual world simulation.
+677000	682000	Everything we're going to show you today, literally everything we're going to show you today,
+682000	686000	is a simulation, not animation.
+686000	688000	It's only beautiful because it's physics.
+688000	690000	The world is beautiful.
+690000	694000	It's only amazing because it's being animated with robotics.
+694000	697000	It's being animated with artificial intelligence.
+697000	704000	What you're about to see all day is completely generated, completely simulated in Omniverse.
+704000	712000	And all of it, what you're about to enjoy is the world's first concert where everything is homemade.
+712000	719000	Everything is homemade.
+719000	722000	You're about to watch some home videos.
+722000	725000	So sit back and enjoy yourself.
+742000	747000	The World of NVIDIA
+772000	782000	The World of NVIDIA
+802000	812000	The World of NVIDIA
+812000	823000	The World of NVIDIA
+824000	833000	The World of NVIDIA
+833000	842000	The World of NVIDIA
+842000	852000	The World of NVIDIA
+852000	862000	The World of NVIDIA
+862000	872000	The World of NVIDIA
+872000	882000	The World of NVIDIA
+882000	890000	The World of NVIDIA
+890000	896000	God, I love NVIDIA.
+896000	901000	Accelerated computing has reached the tipping point.
+901000	904000	General purpose computing has run out of steam.
+904000	909000	We need another way of doing computing so that we can continue to scale,
+909000	912000	so that we can continue to drive down the cost of computing,
+912000	918000	so that we can continue to consume more and more computing while being sustainable.
+918000	924000	Accelerated computing is a dramatic speed up over general purpose computing.
+924000	929000	And in every single industry we engage, and I'll show you many,
+929000	932000	the impact is dramatic.
+932000	936000	But in no industry is it more important than our own.
+936000	942000	The industry of using simulation tools to create products.
+942000	946000	In this industry, it is not about driving down the cost of computing,
+946000	949000	it's about driving up the scale of computing.
+949000	953000	We would like to be able to simulate the entire product that we do,
+953000	958000	completely in full fidelity, completely digitally,
+958000	961000	and essentially what we call digital twins.
+961000	969000	We would like to design it, build it, simulate it, operate it, completely digitally.
+969000	974000	In order to do that, we need to accelerate an entire industry.
+974000	980000	And today, I would like to announce that we have some partners who are joining us in this journey
+980000	983000	to accelerate their entire ecosystem,
+983000	988000	so that we can bring the world into accelerated computing.
+988000	990000	But there's a bonus.
+990000	996000	When you become accelerated, your infrastructure is Cuda GPUs.
+996000	1002000	And when that happens, it's exactly the same infrastructure for generative AI.
+1002000	1008000	And so I'm just delighted to announce several very important partnerships.
+1008000	1010000	There are some of the most important companies in the world.
+1010000	1014000	Ansys does engineering simulation for what the world makes.
+1014000	1018000	We're partnering with them to Cuda accelerate the Ansys ecosystem,
+1018000	1022000	to connect Ansys to the omniverse digital twin.
+1022000	1024000	Incredible.
+1024000	1029000	The thing that's really great is that the install base of video GPU accelerated systems are all over the world,
+1029000	1033000	in every cloud, in every system, all over enterprises.
+1033000	1038000	And so the applications they accelerate will have a giant install base to go serve.
+1038000	1041000	End users will have amazing applications.
+1041000	1046000	And of course, system makers and CSPs will have great customer demand.
+1046000	1048000	Synopsys.
+1048000	1054000	Synopsys is NVIDIA's literally first software partner.
+1054000	1056000	They were there on the very first day of our company.
+1056000	1060000	Synopsys revolutionized the chip industry with high-level design.
+1060000	1064000	We are going to Cuda accelerate Synopsys.
+1064000	1071000	We're accelerating computational lithography, one of the most important applications that nobody's ever known about.
+1071000	1075000	In order to make chips, we have to push lithography to a limit.
+1075000	1082000	NVIDIA has created a library, a domain-specific library, that accelerates computational lithography.
+1082000	1084000	Incredibly.
+1084000	1093000	Once we can accelerate and software-define all of TSMC, who is announcing today that they're going to go into production with NVIDIA CULIFO,
+1093000	1105000	once the software defined and accelerated, the next step is to apply generative AI to the future of semiconductor manufacturing, pushing geometry even further.
+1105000	1110000	Cadence builds the world's essential EDA and SDA tools.
+1110000	1111000	We also use cadence.
+1111000	1116000	Between these three companies, Ansys, Synopsys and Cadence, we basically build NVIDIA.
+1116000	1120000	Together, we are Cuda accelerating Cadence.
+1120000	1131000	They're also building a supercomputer out of NVIDIA GPUs so that their customers could do fluid dynamic simulation at a hundred, a thousand times scale.
+1131000	1135000	Basically, a wind tunnel in real time.
+1135000	1139000	Cadence Millennium, a supercomputer with NVIDIA GPUs inside.
+1139000	1141000	A software company building supercomputers.
+1141000	1142000	I love seeing that.
+1142000	1145000	Building Cadence co-pilots together.
+1145000	1161000	Imagine a day when Cadence, Synopsys, Ansys tool providers would offer you AI co-pilots so that we have thousands and thousands of co-pilot assistants helping us design chips, design systems.
+1161000	1166000	And we're also going to connect Cadence Digital Twin Platform to Omniverse.
+1166000	1176000	As you can see the trend here, we're accelerating the world's CAE, EDA and SDA so that we could create our future in digital twins.
+1176000	1183000	And we're going to connect them all to Omniverse, the fundamental operating system for future digital twins.
+1183000	1192000	One of the industries that benefited tremendously from scale, and you know, you all know this one very well, large language models.
+1192000	1202000	Basically, after the transformer was invented, we were able to scale large language models at incredible rates, effectively doubling every six months.
+1202000	1212000	Now, how is it possible that by doubling every six months that we have grown the industry, we have grown the computational requirements so far?
+1212000	1214000	And the reason for that is quite simply this.
+1214000	1220000	If you double the size of the model, you double the size of your brain, you need twice as much information to go fill it.
+1220000	1230000	And so every time you double your parameter count, you also have to appropriately increase your training token count.
+1230000	1237000	The combination of those two numbers becomes the computation scale you have to support.
+1237000	1243000	The latest, the state-of-the-art OpenAI model is approximately 1.8 trillion parameters.
+1243000	1250000	1.8 trillion parameters required several trillion tokens to go train.
+1250000	1257000	So a few trillion parameters on the order of a few trillion tokens on the order of when you multiply the two of them together,
+1257000	1267000	approximately 30, 40, 50 billion quadrillion floating point operations per second.
+1267000	1269000	Now, we just have to do some CO math right now.
+1269000	1270000	Just hang with me.
+1270000	1273000	So you have 30 billion quadrillion.
+1273000	1276000	A quadrillion is like a PETA.
+1276000	1286000	And so if you had a PETA flop GPU, you would need 30 billion seconds to go compute, to go train that model.
+1286000	1289000	30 billion seconds is approximately 1,000 years.
+1290000	1299000	Well, 1,000 years, it's worth it.
+1299000	1304000	I'd like to do it sooner, but it's worth it.
+1304000	1308000	Which is usually my answer when most people tell me, hey, how long is it going to take to do something?
+1308000	1313000	So we've got 20 years. It's worth it.
+1313000	1318000	But can we do it next week?
+1318000	1321000	And so 1,000 years, 1,000 years.
+1321000	1327000	So what we need, what we need are bigger GPUs.
+1327000	1329000	We need much, much bigger GPUs.
+1329000	1336000	We recognized this early on, and we realized that the answer is to put a whole bunch of GPUs together.
+1336000	1341000	And, of course, innovate a whole bunch of things along the way, like inventing tensor cores,
+1341000	1346000	advancing MV links so that we could create essentially virtually giant GPUs,
+1346000	1351000	and connecting them all together with amazing networks from a company called Mellanox,
+1351000	1354000	InfiniBand, so that we could create these giant systems.
+1354000	1358000	And so DGX1 was our first version, but it wasn't the last.
+1358000	1362000	We built supercomputers all the way, all along the way.
+1362000	1368000	In 2021, we had Selene, 4,500 GPUs or so.
+1368000	1374000	And then in 2023, we built one of the largest AI supercomputers in the world.
+1374000	1378000	It's just come online, EOS.
+1378000	1383000	And as we're building these things, we're trying to help the world build these things.
+1383000	1386000	And in order to help the world build these things, we got to build them first.
+1386000	1392000	We build the chips, the systems, the networking, all of the software necessary to do this.
+1392000	1394000	You should see these systems.
+1394000	1398000	Imagine writing a piece of software that runs across the entire system,
+1398000	1402000	distributing the computation across thousands of GPUs,
+1402000	1410000	but inside are thousands of smaller GPUs, millions of GPUs to distribute work across all of that
+1410000	1414000	and to balance the workload so that you can get the most energy efficiency,
+1414000	1417000	the best computation time, keep your costs down.
+1417000	1424000	And so those fundamental innovations is what got us here.
+1424000	1431000	And here we are as we see the miracle of CHAT GPT emerge in front of us.
+1431000	1435000	We also realize we have a long ways to go.
+1435000	1438000	We need even larger models.
+1438000	1442000	We're going to train it with multimodality data, not just text on the Internet,
+1443000	1447000	but we're going to train it on text and images and graphs and charts.
+1447000	1451000	And just as we learn, watching TV.
+1451000	1457000	And so there's going to be a whole bunch of watching video so that these models can be grounded in physics,
+1457000	1460000	understands that an arm doesn't go through a wall.
+1460000	1466000	And so these models would have common sense by watching a lot of the world's video
+1466000	1469000	combined with a lot of the world's languages.
+1469000	1473000	It'll use things like synthetic data generation, just as you and I do.
+1473000	1479000	When we try to learn, we might use our imagination to simulate how it's going to end up,
+1479000	1482000	just as I did when I was preparing for this keynote.
+1482000	1486000	I was simulating it all along the way.
+1486000	1491000	I hope it's going to turn out as well as I had it in my head.
+1491000	1495000	As I was simulating how this keynote was going to turn out,
+1495000	1504000	somebody did say that another performer did her performance completely on a treadmill
+1504000	1508000	so that she could be in shape to deliver it with full energy.
+1508000	1512000	I didn't do that.
+1512000	1516000	If I get a little wind in about 10 minutes into this, you know what happens.
+1517000	1523000	If I get a little wind in about 10 minutes into this, you know what happens.
+1523000	1526000	And so where were we?
+1526000	1528000	We're sitting here using synthetic data generation.
+1528000	1530000	We're going to use reinforcement learning.
+1530000	1532000	We're going to practice it in our mind.
+1532000	1538000	We're going to have AI working with AI training each other, just like student, teacher, debaters.
+1538000	1540000	All of that is going to increase the size of our model.
+1540000	1543000	It's going to increase the amount of data that we have,
+1543000	1547000	and we're going to have to build even bigger GPUs.
+1547000	1552000	Hopper is fantastic, but we need bigger GPUs.
+1552000	1563000	And so, ladies and gentlemen, I would like to introduce you to a very, very big GPU.
+1574000	1584000	Named after David Blackwell, mathematician, game theorist, probability.
+1584000	1588000	We thought it was a perfect name.
+1588000	1592000	Blackwell, ladies and gentlemen, enjoy this.
+1603000	1605000	Thank you.
+1633000	1635000	Thank you.
+1663000	1665000	Thank you.
+1693000	1695000	Thank you.
+1723000	1751000	Blackwell is not a chip.
+1751000	1753000	Blackwell is the name of a platform.
+1753000	1761000	People think we make GPUs, and we do, but GPUs don't look the way they used to.
+1761000	1768000	Here's, if you will, the heart of the Blackwell system,
+1768000	1772000	and this inside the company is not called Blackwell, it's just a number.
+1772000	1782000	And this, this is Blackwell sitting next to, oh, this is the most advanced GPU in the world in production today.
+1786000	1788000	This is Hopper.
+1788000	1790000	This is Hopper.
+1790000	1792000	Hopper changed the world.
+1792000	1794000	This is Blackwell.
+1803000	1805000	It's okay, Hopper.
+1811000	1813000	You're very good.
+1813000	1815000	Good boy.
+1815000	1817000	Well, good girl.
+1821000	1830000	208 billion transistors, and so you could see, I can see, there's a small line between two dyes.
+1830000	1838000	This is the first time two dyes have abutted like this together in such a way that the two dyes think it's one chip.
+1838000	1843000	There's 10 terabytes of data between it, 10 terabytes per second,
+1843000	1849000	so that these two sides of the Blackwell chip have no clue which side they're on.
+1849000	1853000	There's no memory locality issues, no cache issues.
+1853000	1855000	It's just one giant chip.
+1855000	1864000	And so when we were told that Blackwell's ambitions were beyond the limits of physics, the engineers said, so what?
+1864000	1866000	And so this is what happened.
+1866000	1872000	And so this is the Blackwell chip, and it goes into two types of systems.
+1872000	1878000	The first one is form-fit function compatible to Hopper.
+1878000	1881000	And so you slide on Hopper, and you push in Blackwell.
+1881000	1885000	That's the reason why one of the challenges of ramping is going to be so efficient.
+1885000	1892000	There are installations of Hoppers all over the world, and they could be the same infrastructure, same design.
+1892000	1899000	The power, the electricity, the thermals, the software, identical, push it right back.
+1899000	1906000	And so this is a Hopper version for the current HGX configuration.
+1906000	1910000	And this is what the second Hopper looks like this.
+1910000	1912000	Now, this is a prototype board.
+1912000	1917000	And Janine, could I just borrow?
+1917000	1924000	Ladies and gentlemen, Janine Paul.
+1924000	1928000	And so this is a fully functioning board.
+1928000	1931000	And I'll just be careful here.
+1931000	1940000	This right here is, I don't know, $10 billion?
+1940000	1946000	The second one's five.
+1946000	1954000	It gets cheaper after that, so any customers in the audience, it's OK.
+1954000	1956000	All right, but this one's quite expensive.
+1956000	1958000	This is the bring-up board.
+1958000	1963000	And the way it's going to go to production is like this one here.
+1963000	1965000	And so you're going to take this.
+1965000	1974000	It has two Blackwell chips and four Blackwell dies connected to a Grace CPU.
+1974000	1977000	The Grace CPU has a super-fast chip-to-chip link.
+1977000	1987000	What's amazing is this computer is the first of its kind where this much computation, first of all, fits into this small of a place.
+1987000	1989000	Second, it's memory coherent.
+1989000	1995000	They feel like they're just one big happy family working on one application together.
+1995000	1998000	And so everything is coherent within it.
+1998000	2002000	Just the amount of, you know, you saw the numbers.
+2002000	2005000	There's a lot of terabytes this and terabytes that.
+2005000	2007000	But this is a miracle.
+2007000	2009000	This is this.
+2009000	2011000	Let's see, what are some of the things on here?
+2012000	2025000	There's an MV link on top, PCI Express on the bottom, on your, which one is mine, and your left.
+2025000	2027000	One of them, it doesn't matter.
+2027000	2031000	One of them is a CPU chip-to-chip link.
+2031000	2034000	It's my left or your, depending on which side.
+2034000	2039000	I was trying to sort that out and I just kind of, it doesn't matter.
+2042000	2045000	Hopefully it comes plugged in, so.
+2050000	2054000	Okay, so this is the Grace Blackwell system.
+2063000	2065000	But there's more.
+2066000	2074000	So it turns out, it turns out all of the specs is fantastic, but we need a whole lot of new features.
+2074000	2079000	In order to push the limits beyond, if you will, the limits of physics.
+2079000	2083000	We would like to always get a lot more X-factors.
+2083000	2087000	And so one of the things that we did was we invented another transformer engine.
+2087000	2090000	Another transformer engine, the second generation.
+2090000	2103000	It has the ability to dynamically and automatically rescale and recast numerical formats to a lower precision whenever it can.
+2103000	2106000	Remember, artificial intelligence is about probability.
+2106000	2114000	And so you kind of have, you know, 1.7, approximately 1.7 times approximately 1.4 to be approximately something else.
+2114000	2115000	Does that make sense?
+2115000	2126000	And so the ability for the mathematics to retain the precision and the range necessary in that particular stage of the pipeline, super important.
+2126000	2131000	And so this is, it's not just about the fact that we designed a smaller ALU.
+2131000	2133000	The world's not quite that simple.
+2133000	2142000	You've got to figure out when you can use that across a computation that is thousands of GPUs.
+2142000	2150000	It's running for weeks and weeks and weeks, and you want to make sure that the training job is going to converge.
+2150000	2155000	And so this new transformer engine, we have a fifth generation NVLink.
+2155000	2162000	It's now twice as fast as Hopper, but very importantly, it has computation in the network.
+2162000	2169000	And the reason for that is because when you have so many different GPUs working together, we have to share our information with each other.
+2169000	2171000	We have to synchronize and update each other.
+2171000	2180000	And every so often, we have to reduce the partial products and then rebroadcast out the partial products, the sum of the partial products back to everybody else.
+2180000	2184000	And so there's a lot of what is called all reduce and all to all and all gather.
+2184000	2190000	It's all part of this area of synchronization and collectives so that we can have GPUs working with each other.
+2190000	2200000	Having extraordinarily fast links and being able to do mathematics right in the network allows us to essentially amplify even further.
+2200000	2205000	So even though it's one point eight terabytes per second, it's effectively higher than that.
+2205000	2208000	And so it's many times that of Hopper.
+2208000	2216000	The likelihood of a supercomputer running for weeks on end is approximately zero.
+2216000	2221000	And the reason for that is because there's so many components working at the same time.
+2221000	2226000	The statistic, the probability of them working continuously is very low.
+2226000	2232000	And so we need to make sure that whenever there is a well, we checkpoint and restart as often as we can.
+2232000	2244000	But if we have the ability to detect a weak chip or a weak note early, we can retire it and maybe swap in another processor.
+2244000	2253000	That ability to keep the utilization of the supercomputer high, especially when you just spent two billion dollars building it, is super important.
+2253000	2266000	And so we put in a RAS engine, a reliability engine that does a hundred percent self-test in system test of every single gate,
+2266000	2274000	every single bit of memory on the Blackwell chip and all the memory that's connected to it.
+2274000	2283000	It's almost as if we shipped with every single chip its own advanced tester that we test our chips with.
+2283000	2286000	This is the first time we're doing this. Super excited about it.
+2286000	2294000	Secure AI.
+2294000	2298000	Only this conference do they clap for RAS.
+2298000	2303000	The secure AI.
+2303000	2308000	Obviously, you've just spent hundreds of millions of dollars creating a very important AI.
+2308000	2314000	And the code, the intelligence of that AI is encoded into parameters.
+2314000	2318000	You want to make sure that on the one hand, you don't lose it. On the other hand, it doesn't get contaminated.
+2318000	2330000	And so we now have the ability to encrypt data, of course, at rest, but also in transit and while it's being computed.
+2330000	2335000	It's all encrypted. And so we now have the ability to encrypt and transmission.
+2335000	2342000	And when we're computing it, it is in a trusted, trusted environment, trusted engine environment.
+2342000	2345000	And the last thing is decompression.
+2345000	2352000	Moving data in and out of these nodes when the compute is so fast becomes really essential.
+2352000	2361000	And so we've put in a high line speed compression engine and effectively moves data 20 times faster in and out of these computers.
+2361000	2368000	These computers are so powerful and there's such a large investment, the last thing we want to do is have them be idle.
+2368000	2378000	And so all of these capabilities are intended to keep Blackwell fed and as busy as possible.
+2378000	2390000	Overall, compared to Hopper, it is two and a half times, two and a half times the FP8 performance for training per chip.
+2390000	2397000	It also has this new format called FP6 so that even though the computation speed is the same,
+2397000	2405000	the bandwidth that's amplified because of the memory, the amount of parameters you can store in the memory is now amplified.
+2405000	2411000	FP4 effectively doubles the throughput. This is vitally important for inference.
+2412000	2420000	One of the things that is becoming very clear is that whenever you use a computer with AI on the other side,
+2420000	2429000	when you're chatting with the chatbot, when you're asking it to review or make an image,
+2429000	2434000	remember in the back is a GPU generating tokens.
+2434000	2440000	Some people call it inference, but it's more appropriately generation.
+2440000	2445000	The way that computing has done in the past was retrieval.
+2445000	2452000	You would grab your phone, you would touch something, some signals go off, basically an email goes off to some storage somewhere.
+2452000	2458000	There's pre-recorded content, somebody wrote a story or somebody made an image or somebody recorded a video.
+2458000	2468000	That record pre-recorded content is then streamed back to the phone and recomposed in a way based on a recommender system to present the information to you.
+2468000	2475000	You know that in the future, the vast majority of that content will not be retrieved.
+2475000	2480000	And the reason for that is because that was pre-recorded by somebody who doesn't understand the context,
+2480000	2483000	which is the reason why we have to retrieve so much content.
+2483000	2491000	If you can be working with an AI that understands the context, who you are, for what reason you're fetching this information,
+2491000	2495000	and produces the information for you just the way you like it,
+2495000	2504000	the amount of energy we save, the amount of networking bandwidth we save, the amount of waste of time we save will be tremendous.
+2504000	2512000	The future is generative, which is the reason why we call it generative AI, which is the reason why this is a brand new industry.
+2512000	2516000	The way we compute is fundamentally different.
+2516000	2521000	We created a processor for the generative AI era.
+2521000	2526000	And one of the most important parts of it is content token generation.
+2526000	2529000	We call it, this format is FP4.
+2529000	2534000	Well, that's a lot of computation.
+2534000	2544000	5X, the token generation, 5X, the inference capability of Hopper seems like enough.
+2544000	2549000	But why stop there?
+2549000	2551000	The answer is it's not enough.
+2551000	2553000	And I'm going to show you why.
+2553000	2555000	I'm going to show you why.
+2555000	2559000	And so we would like to have a bigger GPU, even bigger than this one.
+2559000	2563000	And so we decided to scale it.
+2563000	2566000	And notice, but first, let me just tell you how we've scaled.
+2567000	2575000	Over the course of the last eight years, we've increased computation by 1,000 times, eight years, 1,000 times.
+2575000	2583000	Remember, back in the good old days of Moore's Law, it was 2X, well, 5X every, what, 10X every five years.
+2583000	2585000	That's easiest math.
+2585000	2591000	10X every five years, 100 times every 10 years, 100 times every 10 years.
+2592000	2601000	In the middle of the heydays of the PC revolution, 100 times every 10 years.
+2601000	2605000	In the last eight years, we've gone 1,000 times.
+2605000	2608000	We have two more years to go.
+2608000	2614000	And so that puts it in perspective.
+2614000	2617000	The rate at which we're advancing computing is insane.
+2617000	2622000	And it's still not fast enough, so we built another chip.
+2622000	2625000	This chip is just an incredible chip.
+2625000	2628000	We call it the NVLink switch.
+2628000	2630000	It's 50 billion transistors.
+2630000	2633000	It's almost the size of Hopper all by itself.
+2633000	2641000	This switch chip has four NVLinks in it, each 1.8 terabytes per second.
+2641000	2646000	And it has computation in it, as I mentioned.
+2646000	2649000	What is this chip for?
+2649000	2660000	If we were to build such a chip, we can have every single GPU talk to every other GPU at full speed at the same time.
+2660000	2662000	That's insane.
+2669000	2672000	It doesn't even make sense.
+2672000	2682000	But if you could do that, if you can find a way to do that and build a system to do that that's cost-effective,
+2682000	2694000	how incredible would it be that we could have all these GPUs connect over a coherent link so that they effectively are one giant GPU?
+2694000	2701000	Well, one of the great inventions in order to make it cost-effective is that this chip has to drive copper directly.
+2701000	2707000	The surities of this chip is just a phenomenal invention so that we could do direct drive to copper.
+2707000	2712000	And as a result, you can build a system that looks like this.
+2721000	2726000	Now, this system is kind of insane.
+2726000	2729000	This is one DGX.
+2729000	2731000	This is what a DGX looks like now.
+2731000	2738000	Remember, just six years ago, it was pretty heavy, but I was able to lift it.
+2738000	2752000	I delivered the first DGX1 to OpenAI, and the researchers there, the pictures are on the internet, and we all autographed it.
+2752000	2757000	And if you come to my office, it's autographed there.
+2757000	2759000	It's really beautiful.
+2759000	2761000	But you can lift it.
+2761000	2769000	This DGX, this DGX, that DGX, by the way, was 170 teraflops.
+2769000	2775000	If you're not familiar with the numbering system, that's 0.17 petaflops.
+2775000	2778000	So this is 720.
+2778000	2782000	The first one I delivered to OpenAI was 0.17.
+2782000	2785000	You can round it up to 0.2. It won't make any difference.
+2785000	2790000	But by then, it was like, wow, you know, 30 more teraflops.
+2790000	2800000	And so this is now 720 petaflops, almost an exaflop for training, and the world's first one exaflops machine in one rack.
+2801000	2815000	Just so you know, there are only a couple, two, three exaflops machines on the planet as we speak.
+2815000	2821000	And so this is an exaflops AI system in one single rack.
+2821000	2826000	Well, let's take a look at the back of it.
+2826000	2829000	So this is what makes it possible.
+2829000	2834000	That's the back, that's the back, the DGX MV link spine.
+2834000	2841000	130 terabytes per second goes to the back of that chassis.
+2841000	2844000	That is more than the aggregate bandwidth of the internet.
+2854000	2858000	So we could basically send everything to everybody within a second.
+2858000	2866000	And so we have 5,000 cables, 5,000 MV link cables in total two miles.
+2866000	2872000	Now, this is the amazing thing. If we had to use optics, we would have had to use transceivers and retimers.
+2872000	2885000	And those transceivers and retimers alone would have cost 20,000 watts, two kilowatts of just transceivers alone, just to drive the MV link spine.
+2885000	2893000	As a result, we did it completely for free over MV link switch, and we were able to save the 20 kilowatts for computation.
+2893000	2899000	This entire rack is 120 kilowatts, so that 20 kilowatts makes a huge difference.
+2899000	2904000	It's liquid cooled. What goes in is 25 degrees C about room temperature.
+2904000	2909000	What comes out is 45 degrees C about your jacuzzi.
+2909000	2914000	So room temperature goes in, jacuzzi comes out, two liters per second.
+2922000	2924000	We could sell a peripheral.
+2924000	2932000	600,000 parts.
+2932000	2939000	Somebody used to say, you know, you guys make GPUs, and we do, but this is what a GPU looks like to me.
+2939000	2942000	When somebody says GPU, I see this.
+2942000	2948000	Two years ago, when I saw a GPU, it was the HGX. It was 70 pounds, 35,000 parts.
+2948000	2958000	Our GPUs now are 600,000 parts and 3,000 pounds, 3,000 pounds, 3,000 pounds.
+2958000	2966000	That's kind of like the weight of a, you know, carbon fiber Ferrari.
+2966000	2972000	I don't know if that's a useful metric, but everybody's going, I feel it.
+2972000	2975000	I feel it. I get it. I get that.
+2975000	2977000	Now that you mention that, I feel it.
+2977000	2980000	I don't know what's 3,000 pounds.
+2980000	2983000	Okay, so 3,000 pounds, ton and a half.
+2983000	2986000	So it's not quite an elephant.
+2986000	2988000	So this is what a DGX looks like.
+2988000	2990000	Now let's see what it looks like in operation.
+2990000	2994000	Okay, let's imagine, how do we put this to work and what does that mean?
+2994000	3000000	Well, if you were to train a GPT model, 1.8 trillion parameter model,
+3000000	3007000	it took about, apparently about three to five months or so with 25,000 amperes.
+3007000	3011000	If we were to do it with Hopper, it would probably take something like 8,000 GPUs
+3011000	3015000	and it would consume 15 megawatts, 8,000 GPUs and 15 megawatts.
+3015000	3017000	It would take 90 days, about three months.
+3017000	3024000	And that would allow you to train something that is, you know, this groundbreaking AI model.
+3025000	3031000	And this is obviously not as expensive as anybody would think, but it's 8,000 GPUs.
+3031000	3033000	It's still a lot of money.
+3033000	3035000	And so 8,000 GPUs, 15 megawatts.
+3035000	3042000	If you were to use Blackwell to do this, it would only take 2,000 GPUs.
+3042000	3047000	2,000 GPUs, same 90 days, but this is the amazing part.
+3047000	3050000	Only four megawatts of power.
+3050000	3053000	So from 15, that's right.
+3057000	3059000	And that's our goal.
+3059000	3063000	Our goal is to continuously drive down the cost and the energy.
+3063000	3065000	They're directly proportional to each other.
+3065000	3069000	Cost and energy associated with the computing so that we can continue to expand
+3069000	3073000	and scale up the computation that we have to do to train the next generation models.
+3073000	3076000	Well, this is training.
+3076000	3081000	Inference or generation is vitally important going forward.
+3081000	3085000	You know, probably some half of the time that NVIDIA GPUs are in the cloud these days,
+3085000	3087000	it's being used for token generation.
+3087000	3091000	You know, they're either doing co-pilot this or, you know, chat GPT that
+3091000	3095000	or all these different models that are being used when you're interacting with it
+3095000	3101000	or generating images or generating videos, generating proteins, generating chemicals.
+3101000	3104000	There's a bunch of generation going on.
+3104000	3108000	All of that is in the category of computing we call inference.
+3108000	3112000	But inference is extremely hard for large language models
+3112000	3115000	because these large language models have several properties.
+3115000	3117000	One, they're very large.
+3117000	3119000	And so it doesn't fit on one GPU.
+3119000	3124000	This is, imagine Excel doesn't fit on one GPU, you know?
+3124000	3129000	And imagine some application you're running on a daily basis doesn't fit on one computer.
+3129000	3132000	Like a video game doesn't fit on one computer.
+3132000	3134000	And most, in fact, do.
+3134000	3137000	And many times in the past, hyper-scale computing,
+3137000	3140000	many applications for many people fit on the same computer.
+3140000	3144000	And now, all of a sudden, this one inference application
+3144000	3146000	where you're interacting with this chatbot,
+3146000	3150000	that chatbot requires a supercomputer in the back to run it.
+3150000	3152000	And that's the future.
+3152000	3155000	The future is generative with these chatbots,
+3155000	3159000	and these chatbots are trillions of tokens, trillions of parameters,
+3159000	3163000	and they have to generate tokens at interactive rates.
+3163000	3165000	Now, what does that mean?
+3165000	3170000	Oh, well, three tokens is about a word.
+3170000	3178000	You know, the space, the final frontier, these are the adventures.
+3178000	3181000	That's like 80 tokens.
+3181000	3183000	Okay?
+3183000	3185000	I don't know if that's useful to you.
+3185000	3195000	And so, you know, the art of communications is selecting good analogies.
+3195000	3200000	Yeah, this is not going well.
+3200000	3203000	Everyone's like, I don't know what he's talking about.
+3203000	3205000	Never seen Star Trek.
+3205000	3208000	And so, here we are, we're trying to generate these tokens.
+3208000	3211000	When you're interacting with it, you're hoping that the tokens come back to you
+3211000	3214000	as quickly as possible and as quickly as you can read it.
+3214000	3217000	And so, the ability for generation tokens is really important.
+3217000	3221000	You have to paralyze the work of this model across many, many GPUs
+3221000	3223000	so that you could achieve several things.
+3223000	3226000	One, on the one hand, you would like throughput
+3226000	3233000	because that throughput reduces the cost, the overall cost per token of generating.
+3233000	3238000	So, your throughput dictates the cost of delivering the service.
+3238000	3241000	On the other hand, you have another interactive rate,
+3241000	3244000	which is another tokens per second, where it's about per user.
+3244000	3247000	And that has everything to do with quality of service.
+3247000	3251000	And so, these two things compete against each other.
+3251000	3256000	And we have to find a way to distribute work across all of these different GPUs
+3256000	3259000	and paralyze it in a way that allows us to achieve both.
+3259000	3263000	And it turns out the search space is enormous.
+3263000	3267000	You know, I told you there's going to be math involved.
+3267000	3270000	And everybody's going, oh, dear.
+3270000	3273000	I heard some gasps just now when I put up that slide.
+3273000	3279000	So, this right here, the y-axis is tokens per second, data center throughput.
+3279000	3284000	The x-axis is tokens per second, interactivity of the person.
+3284000	3286000	And notice the upper right is the best.
+3286000	3291000	You want interactivity to be very high, number of tokens per second per user.
+3291000	3294000	You want the tokens per second per data center to be very high.
+3294000	3296000	The upper right is terrific.
+3296000	3298000	However, it's very hard to do that.
+3298000	3304000	And in order for us to search for the best answer across every single one of those intersections,
+3304000	3308000	x, y coordinates, in case you just look at every single x, y coordinate,
+3308000	3313000	all those blue dots came from some repartitioning of the software.
+3313000	3322000	Some optimizing solution has to go and figure out whether to use tensor parallel, expert parallel,
+3323000	3331000	pipeline parallel, or data parallel, and distribute this enormous model across all these different GPUs
+3331000	3334000	and sustain the performance that you need.
+3334000	3339000	This exploration space would be impossible if not for the programmability of NVIDIA's GPUs.
+3339000	3343000	And so we could, because of CUDA, because we have such a rich ecosystem,
+3343000	3348000	we could explore this universe and find that green roof line.
+3348000	3354000	It turns out that green roof line, notice you got TP2EPADP4,
+3354000	3363000	it means two tensor parallel, tensor parallel across two GPUs, expert parallel across eight, data parallel across four.
+3363000	3368000	Notice on the other end, you got tensor parallel across four and expert parallel across 16.
+3368000	3375000	The configuration, the distribution of that software, it's a different, different runtime
+3375000	3378000	that would produce these different results.
+3378000	3380000	And you have to go discover that roof line.
+3380000	3382000	Well, that's just one model.
+3382000	3385000	And this is just one configuration of a computer.
+3385000	3388000	Imagine all of the models being created around the world
+3388000	3394000	and all the different configurations of systems that are going to be available.
+3396000	3399000	So now that you understand the basics,
+3399000	3406000	let's take a look at inference of Blackwell compared to Hopper.
+3406000	3409000	And this is the extraordinary thing.
+3409000	3417000	In one generation, because we created a system that's designed for trillion parameter generative AI,
+3417000	3421000	the inference capability of Blackwell is off the charts.
+3421000	3425000	And in fact, it is some 30 times Hopper.
+3425000	3426000	Yeah.
+3431000	3437000	For large language models, for large language models like ChatGPT and others like it,
+3437000	3439000	the blue line is Hopper.
+3439000	3443000	I gave you, imagine we didn't change the architecture of Hopper.
+3443000	3445000	We just made it a bigger chip.
+3445000	3453000	We just used the latest, you know, greatest 10 terabytes, you know, terabytes per second.
+3453000	3454000	We connected the two chips together.
+3454000	3457000	We got this giant 208 billion parameter chip.
+3457000	3460000	How would we have performed if nothing else changed?
+3460000	3464000	And it turns out quite wonderfully, quite wonderfully.
+3464000	3467000	And that's the purple line, but not as great as it could be.
+3467000	3472000	And that's where the FP4 Tensor Core, the new transformer engine,
+3472000	3476000	and very importantly, the NVLink switch.
+3476000	3481000	And the reason for that is because all these GPUs have to share the results, partial products.
+3481000	3486000	Whenever they do all to all, all gather, whenever they communicate with each other,
+3486000	3492000	that NVLink switch is communicating almost 10 times faster
+3492000	3496000	than what we could do in the past using the fastest networks.
+3496000	3503000	Okay, so Blackwell is going to be just an amazing system for generative AI.
+3503000	3510000	And in the future, in the future, data centers are going to be thought of,
+3510000	3513000	as I mentioned earlier, as an AI factory.
+3513000	3521000	An AI factory's goal in life is to generate revenues, generate, in this case,
+3521000	3528000	intelligence in this facility, not generating electricity, as in AC generators,
+3528000	3534000	but of the last industrial revolution and this industrial revolution, the generation of intelligence.
+3534000	3538000	And so this ability is super, super important.
+3538000	3541000	The excitement of Blackwell is really off the charts.
+3541000	3547000	You know, when we first, when we first, you know, this is a year and a half ago,
+3547000	3552000	two years ago, I guess two years ago, when we first started to go to market with Hopper,
+3552000	3558000	you know, we had the benefit of two CSPs joined us in a lunch.
+3558000	3560000	And we were, you know, delighted.
+3560000	3564000	And so we had two customers.
+3564000	3567000	So we have more now.
+3579000	3583000	Unbelievable excitement for Blackwell, unbelievable excitement.
+3583000	3585000	And there's a whole bunch of different configurations.
+3585000	3590000	Of course, I showed you the configurations that slide into the Hopper form factor,
+3590000	3592000	so that it's easy to upgrade.
+3592000	3596000	I showed you examples that are liquid cooled, that are the extreme versions of it,
+3596000	3601000	one entire rack that's connected by NVLink 72.
+3601000	3608000	We're going to, Blackwell is going to be ramping to the world's AI companies,
+3608000	3613000	of which there are so many now, doing amazing work in different modalities.
+3613000	3617000	The CSPs, every CSP is geared up.
+3617000	3626000	All the OEMs and ODMs, regional clouds, sovereign AIs, and telcos all over the world
+3626000	3629000	are signing up to launch with Blackwell.
+3636000	3642000	Blackwell would be the most successful product launch in our history.
+3642000	3644000	And so I can't wait to see that.
+3644000	3647000	I want to thank some partners that are joining us in this.
+3647000	3650000	AWS is gearing up for Blackwell.
+3650000	3654000	They're going to build the first GPU with secure AI.
+3654000	3658000	They're building out a 222 exaflops system.
+3658000	3662000	You know, just now when we animated, just now the digital twin,
+3662000	3665000	if you saw all of those clusters coming down.
+3665000	3668000	By the way, that is not just art.
+3668000	3671000	That is a digital twin of what we're building.
+3671000	3673000	That's how big it's going to be.
+3673000	3676000	Besides infrastructure, we're doing a lot of things together with AWS.
+3676000	3678000	We're CUDA accelerating SageMaker AI.
+3678000	3681000	We're CUDA accelerating Bedrock AI.
+3681000	3686000	Amazon Robotics is working with us using NVIDIA Omniverse and Isaac Sim.
+3686000	3690000	AWS Health has NVIDIA Health integrated into it.
+3690000	3695000	So AWS has really leaned into accelerated computing.
+3695000	3697000	Google is gearing up for Blackwell.
+3697000	3703000	GCP already has A100s, H100s, T4s, L4s, a whole fleet of NVIDIA CUDA GPUs.
+3703000	3708000	And they recently announced the Gemma model that runs across all of it.
+3708000	3713000	We're working to optimize and accelerate every aspect of GCP.
+3713000	3717000	We're accelerating Dataproc for data processing, their data processing engine,
+3717000	3722000	Jax, XLA, Vertex AI, and Mujoco for robotics.
+3723000	3727000	So we're working with Google and GCP across a whole bunch of initiatives.
+3727000	3729000	Oracle is gearing up for Blackwell.
+3729000	3732000	Oracle is a great partner of ours for NVIDIA DGX Cloud.
+3732000	3736000	And we're also working together to accelerate something that's really important
+3736000	3739000	to a lot of companies, Oracle Database.
+3739000	3744000	Microsoft is accelerating, and Microsoft is gearing up for Blackwell.
+3744000	3747000	Microsoft and NVIDIA has a wide-ranging partnership.
+3747000	3750000	We're accelerating CUDA, accelerating all kinds of services.
+3750000	3755000	When you chat, obviously, and AI services that are in Microsoft Azure,
+3755000	3758000	it's very, very likely NVIDIA is in the back doing the inference
+3758000	3760000	and the token generation.
+3760000	3764000	They built the largest NVIDIA InfiniBand supercomputer,
+3764000	3768000	basically a digital twin of ours or a physical twin of ours.
+3768000	3771000	We're bringing the NVIDIA ecosystem to Azure.
+3771000	3773000	NVIDIA DGX Cloud to Azure.
+3773000	3776000	NVIDIA Omniverse is now hosted in Azure.
+3776000	3778000	NVIDIA Healthcare is in Azure.
+3778000	3783000	All of it is deeply integrated and deeply connected with Microsoft Fabric.
+3783000	3786000	The whole industry is gearing up for Blackwell.
+3786000	3788000	This is what I'm about to show you.
+3788000	3794000	Most of the scenes that you've seen so far of Blackwell
+3794000	3799000	are the full fidelity design of Blackwell.
+3799000	3802000	Everything in our company has a digital twin.
+3802000	3807000	And, in fact, this digital twin idea is really spreading,
+3807000	3812000	and it helps companies build very complicated things perfectly the first time.
+3812000	3818000	And what could be more exciting than creating a digital twin
+3818000	3821000	to build a computer that was built in a digital twin?
+3821000	3824000	And so, let me show you what Wistron is doing.
+3827000	3830000	To meet the demand for NVIDIA accelerated computing,
+3830000	3833000	Wistron, one of our leading manufacturing partners,
+3833000	3837000	is building digital twins of NVIDIA DGX and HGX factories
+3837000	3843000	using custom software developed with Omniverse, SDKs, and APIs.
+3843000	3846000	For their newest factory, Wistron started with the digital twin
+3846000	3852000	to virtually integrate their multi-CAD and process simulation data into a unified view.
+3852000	3856000	Testing and optimizing layouts in this physically accurate digital environment
+3856000	3860000	increased worker efficiency by 51%.
+3860000	3864000	During construction, the Omniverse digital twin was used to verify
+3864000	3867000	that the physical build matched the digital plans.
+3867000	3872000	Identifying any discrepancies early has helped avoid costly change orders.
+3872000	3874000	And the results have been impressive.
+3874000	3878000	Using a digital twin helped bring Wistron's factory online in half the time,
+3878000	3881000	just two and a half months instead of five.
+3881000	3886000	In operation, the Omniverse digital twin helps Wistron rapidly test new layouts
+3886000	3890000	to accommodate new processes or improve operations in the existing space,
+3890000	3897000	and monitor real-time operations using live IoT data from every machine on the production line,
+3897000	3905000	which ultimately enabled Wistron to reduce end-to-end cycle times by 50% and defect rates by 40%.
+3905000	3909000	With NVIDIA AI and Omniverse, NVIDIA's global ecosystem of partners
+3909000	3914000	are building a new era of accelerated AI-enabled digitalization.
+3916000	3924000	That's the way it's going to be in the future.
+3924000	3926000	We're going to be manufacturing everything digitally first,
+3926000	3928000	and then we'll manufacture it physically.
+3928000	3931000	People ask me, how did it start?
+3931000	3934000	What got you guys so excited?
+3934000	3941000	What was it that you saw that caused you to put it all in
+3942000	3946000	on this incredible idea?
+3946000	3951000	And it's this.
+3951000	3958000	Hang on a second.
+3958000	3963000	Guys, that was going to be such a moment.
+3963000	3968000	That's what happens when you don't rehearse.
+3968000	3974000	This, as you know, was first contact.
+3974000	3977000	2012, AlexNet.
+3977000	3986000	You put a cat into this computer, and it comes out and it says, cat.
+3986000	3993000	And we said, oh, my God, this is going to change everything.
+3994000	4001000	You take one million numbers across three channels, RGB.
+4001000	4004000	These numbers make no sense to anybody.
+4004000	4009000	You put it into this software, and it compress, it dimensionally
+4009000	4010000	reduces it.
+4010000	4014000	It reduces it from a million dimensions, a million dimensions.
+4014000	4021000	It turns it into three letters, one vector, one number.
+4022000	4024000	And it's generalized.
+4024000	4029000	You could have the cat be different cats.
+4029000	4034000	And you could have it be the front of the cat and the back of the cat.
+4034000	4037000	And you look at this thing, you say, unbelievable.
+4037000	4039000	You mean any cats?
+4039000	4043000	Yeah, any cat.
+4043000	4046000	And it was able to recognize all these cats.
+4046000	4048000	And we realized how it did it.
+4048000	4054000	It systematically, structurally, it's scalable.
+4054000	4056000	How big can you make it?
+4056000	4058000	Well, how big do you want to make it?
+4058000	4064000	And so we imagine that this is a completely new way of writing software.
+4064000	4070000	And now today, as you know, you can have, you type in the word C-A-T.
+4070000	4074000	And what comes out is a cat.
+4074000	4076000	It went the other way.
+4076000	4078000	Am I right?
+4078000	4080000	Unbelievable.
+4080000	4082000	How is it possible?
+4082000	4083000	That's right.
+4083000	4089000	How is it possible you took three letters and you generated a million pixels from it?
+4089000	4091000	And it made sense.
+4091000	4093000	Well, that's the miracle.
+4093000	4100000	And here we are, just literally 10 years later, 10 years later, where we recognize text,
+4100000	4104000	we recognize images, we recognize videos and sounds and images.
+4104000	4108000	Not only do we recognize them, we understand their meaning.
+4108000	4110000	We understand the meaning of the text.
+4110000	4112000	That's the reason why it can chat with you.
+4112000	4114000	It can summarize for you.
+4114000	4116000	It understands the text.
+4116000	4120000	It understood not just recognizes the English, it understood the English.
+4120000	4124000	It doesn't just recognize the pixels, it understood the pixels.
+4124000	4127000	And you can even condition it between two modalities.
+4127000	4132000	You can have language condition image and generate all kinds of interesting things.
+4132000	4138000	Well, if you can understand these things, what else can you understand that you've digitized?
+4138000	4142000	The reason why we started with text and images is because we digitized those.
+4142000	4144000	But what else have we digitized?
+4144000	4151000	Well, it turns out we digitized a lot of things, proteins and genes and brain waves.
+4151000	4156000	Anything you can digitize, so long as there's structure, we can probably learn some patterns from it.
+4156000	4159000	And if we can learn the patterns from it, we can understand its meaning.
+4159000	4163000	If we can understand its meaning, we might be able to generate it as well.
+4163000	4167000	And so therefore, the generative AI revolution is here.
+4167000	4169000	Well, what else can we generate?
+4169000	4170000	What else can we learn?
+4170000	4178000	Well, one of the things that we would love to learn, we would love to learn, is we would love to learn climate.
+4178000	4181000	We would love to learn extreme weather.
+4181000	4190000	We would love to learn how we can predict future weather at regional scales,
+4190000	4197000	at sufficiently high resolution, such that we can keep people out of harm's way before harm comes.
+4197000	4200000	Extreme weather cost the world $150 billion.
+4200000	4204000	Surely more than that, it's not evenly distributed.
+4204000	4209000	$150 billion is concentrated in some parts of the world and, of course, to some people of the world.
+4209000	4212000	We need to adapt and we need to know what's coming.
+4212000	4218000	And so we're creating Earth 2, a digital twin of the Earth for predicting weather.
+4218000	4223000	And we've made an extraordinary invention called CoreDiv,
+4223000	4228000	the ability to use generative AI to predict weather at extremely high resolution.
+4228000	4229000	Let's take a look.
+4231000	4233000	As the Earth's climate changes,
+4233000	4238000	AI-powered weather forecasting is allowing us to more accurately predict and track severe storms,
+4238000	4245000	like super typhoon Chanthu, which caused widespread damage in Taiwan and the surrounding region in 2021.
+4245000	4249000	Current AI forecast models can accurately predict the track of storms,
+4249000	4254000	but they are limited to 25-kilometer resolution, which can miss important details.
+4254000	4258000	NVIDIA's CoreDiv is a revolutionary new generative AI model,
+4258000	4265000	trained on high-resolution radar-assimilated wolf weather forecasts and AERA 5 reanalysis data.
+4265000	4272000	Using CoreDiv, extreme events like Chanthu can be super resolved from 25-kilometer to 2-kilometer resolution,
+4272000	4278000	with 1,000 times the speed and 3,000 times the energy efficiency of conventional weather models.
+4278000	4283000	By combining the speed and accuracy of NVIDIA's weather forecasting model ForecastNet
+4283000	4285000	and generative AI models like CoreDiv,
+4285000	4290000	we can explore hundreds or even thousands of kilometer-scale regional weather forecasts
+4290000	4295000	to provide a clear picture of the best, worst and most likely impacts of a storm.
+4295000	4300000	This wealth of information can help minimize loss of life and property damage.
+4300000	4303000	Today, CoreDiv is optimized for Taiwan,
+4303000	4310000	but soon generative supersampling will be available as part of the NVIDIA Earth2 inference service for many regions across the globe.
+4321000	4326000	The weather company has to trust the source of global weather prediction.
+4326000	4332000	We are working together to accelerate their weather simulation, first principled base of simulation.
+4332000	4336000	However, they're also going to integrate Earth2 CoreDiv
+4336000	4342000	so that they can help businesses and countries do regional high-resolution weather prediction.
+4342000	4347000	And so if you have some weather prediction you'd like to do, reach out to the weather company.
+4347000	4349000	Really exciting, really exciting work.
+4349000	4352000	NVIDIA Healthcare, something we started 15 years ago.
+4352000	4354000	We're super, super excited about this.
+4354000	4357000	This is an area where we're very, very proud.
+4357000	4362000	Whether it's medical imaging or gene sequencing or computational chemistry,
+4362000	4366000	it is very likely that NVIDIA is the computation behind it.
+4366000	4369000	We've done so much work in this area.
+4369000	4374000	Today we're announcing that we're going to do something really, really cool.
+4374000	4383000	Imagine all of these AI models that are being used to generate images and audio.
+4383000	4387000	But instead of images and audio, because it understood images and audio,
+4387000	4392000	all the digitization that we've done for genes and proteins and amino acids,
+4392000	4398000	that digitization capability is now passed through machine learning
+4398000	4401000	so that we understand the language of life.
+4401000	4408000	The ability to understand the language of life, of course, we saw the first evidence of it with AlphaFold.
+4408000	4410000	This is really quite an extraordinary thing.
+4410000	4418000	After decades of painstaking work, the world had only digitized and reconstructed
+4418000	4423000	using cryo-electron microscopy or x-ray crystallography.
+4423000	4428000	These different techniques painstakingly reconstructed the protein, 200,000 of them,
+4429000	4432000	in just less than a year or so.
+4432000	4437000	AlphaFold has reconstructed 200 million proteins,
+4437000	4442000	basically every living thing that's ever been sequenced.
+4442000	4444000	This is completely revolutionary.
+4444000	4450000	Those models are incredibly hard for people to build,
+4450000	4452000	and so what we're going to do is we're going to build them.
+4452000	4456000	We're going to build them for the researchers around the world.
+4456000	4457000	It won't be the only one.
+4457000	4459000	There will be many other models that we create.
+4459000	4462000	Let me show you what we're going to do with it.
+4467000	4471000	Virtual screening for new medicines is a computationally intractable problem.
+4471000	4475000	Existing techniques can only scan billions of compounds
+4475000	4480000	and require days on thousands of standard compute nodes to identify new drug candidates.
+4481000	4486000	NVIDIA BioNemo NIMs enable a new generative screening paradigm.
+4486000	4489000	Using NIMs for protein structure prediction with AlphaFold,
+4489000	4493000	molecule generation with MolMIM, and docking with DiffDock,
+4493000	4498000	we can now generate and screen candidate molecules in a matter of minutes.
+4498000	4502000	MolMIM can connect to custom applications to steer the generative process,
+4502000	4506000	iteratively optimizing for desired properties.
+4506000	4512000	These applications can be defined with BioNemo microservices or built from scratch.
+4512000	4518000	Here, a physics-based simulation optimizes for a molecule's ability to bind to a target protein
+4518000	4522000	while optimizing for other favorable molecular properties in parallel.
+4522000	4528000	MolMIM generates high-quality drug-like molecules that bind to the target and are synthesizable,
+4528000	4534000	translating to a higher probability of developing successful medicines faster.
+4534000	4538000	BioNemo is enabling a new paradigm in drug discovery with NIMs,
+4538000	4544000	providing on-demand microservices that can be combined to build powerful drug discovery workflows
+4544000	4550000	like de novo protein design or guided molecule generation for virtual screening.
+4550000	4556000	BioNemo NIMs are helping researchers and developers reinvent computational drug design.
+4556000	4561000	NVIDIA MOLMIM
+4561000	4567000	NVIDIA MOLMIM, MOLMIM, CoreDiff, there's a whole bunch of other models,
+4567000	4572000	a whole bunch of other models, computer vision models, robotics models,
+4572000	4578000	and even, of course, some really, really terrific open-source language models.
+4578000	4584000	These models are groundbreaking. However, it's hard for companies to use.
+4584000	4588000	How would you use it? How would you bring it into your company and integrate it into your workflow?
+4588000	4590000	How would you package it up and run it?
+4590000	4596000	Remember, earlier I just said that inference is an extraordinary computation problem.
+4596000	4601000	How would you do the optimization for each and every one of these models
+4601000	4605000	and put together the computing stack necessary to run that supercomputer
+4605000	4609000	so that you can run these models in your company?
+4609000	4613000	And so we have a great idea. We're going to invent a new way,
+4613000	4619000	invent a new way for you to receive and operate software.
+4619000	4626000	This software comes basically in a digital box. We call it a container.
+4626000	4631000	And we call it the NVIDIA Inference Microservice, a NIM.
+4631000	4634000	And let me explain to you what it is.
+4634000	4638000	A NIM. It's a pre-trained model, so it's pretty clever.
+4638000	4645000	And it is packaged and optimized to run across NVIDIA's installed base, which is very, very large.
+4645000	4648000	What's inside it is incredible.
+4648000	4652000	You have all these pre-trained state-of-the-art open-source models.
+4652000	4654000	They could be open-source. They could be from one of our partners.
+4654000	4657000	It could be created by us, like NVIDIA Moment.
+4657000	4660000	It is packaged up with all of its dependencies.
+4660000	4664000	So CUDA, the right version, CUDNN, the right version,
+4664000	4669000	TensorFlow RT, LLM, distributing across the multiple GPUs, Triton Inference Server,
+4669000	4672000	all completely packaged together.
+4672000	4678000	It's optimized depending on whether you have a single GPU, multi-GPU, or multi-node of GPUs.
+4678000	4680000	It's optimized for that.
+4680000	4683000	And it's connected up with APIs that are simple to use.
+4683000	4687000	Now, think about what an AI API is.
+4687000	4692000	An AI API is an interface that you just talk to.
+4692000	4696000	And so this is a piece of software in the future that has a really simple API,
+4696000	4698000	and that API is called Human.
+4698000	4702000	And these packages, incredible bodies of software,
+4702000	4707000	will be optimized and packaged, and we'll put it on a website.
+4707000	4710000	And you can download it. You can take it with you.
+4710000	4714000	You can run it in any cloud. You can run it in your own data center.
+4714000	4716000	You can run it in workstations if it fit.
+4716000	4719000	And all you have to do is come to ai.nvidia.com.
+4719000	4722000	We call it NVIDIA Inference Microservice,
+4722000	4725000	but inside the company we all call it NIMS.
+4725000	4727000	Okay?
+4733000	4739000	Just imagine, you know, one day there's going to be one of these chatbots,
+4739000	4742000	and these chatbots is going to just be in a NIM.
+4742000	4746000	And you'll assemble a whole bunch of chatbots.
+4746000	4749000	And that's the way software is going to be built someday.
+4749000	4751000	How do we build software in the future?
+4751000	4754000	It is unlikely that you'll write it from scratch
+4754000	4757000	or write a whole bunch of Python code or anything like that.
+4757000	4761000	It is very likely that you assemble a team of AIs.
+4761000	4764000	There's probably going to be a super AI that you use
+4764000	4767000	that takes the mission that you give it
+4767000	4770000	and breaks it down into an execution plan.
+4770000	4774000	Some of that execution plan could be handed off to another NIM.
+4774000	4778000	That NIM would maybe understand SAP.
+4778000	4781000	The language of SAP is ABAP.
+4781000	4783000	It might understand ServiceNow
+4783000	4786000	and go retrieve some information from their platforms.
+4786000	4789000	It might then hand that result to another NIM
+4789000	4792000	who goes off and does some calculation on it.
+4792000	4794000	Maybe it's an optimization software,
+4794000	4798000	a combinatorial optimization algorithm.
+4798000	4802000	Maybe it's, you know, just some basic calculator.
+4802000	4806000	Maybe it's Pandas to do some numerical analysis on it.
+4806000	4809000	And then it comes back with its answer.
+4809000	4812000	And it gets combined with everybody else's.
+4812000	4814000	And because it's been presented with
+4814000	4817000	this is what the right answer should look like,
+4817000	4820000	it knows what right answers to produce,
+4820000	4822000	and it presents it to you.
+4822000	4825000	We can get a report every single day, you know, top of the hour,
+4825000	4828000	that has something to do with a build plan or some forecast
+4828000	4831000	or some customer alert or some bugs database
+4831000	4833000	or whatever it happens to be,
+4833000	4836000	and we could assemble it using all these NIMs.
+4836000	4838000	And because these NIMs have been packaged up
+4838000	4841000	and ready to work on your systems,
+4841000	4844000	so long as you have NVIDIA GPUs in your data center or in the cloud,
+4844000	4849000	these NIMs will work together as a team and do amazing things.
+4849000	4852000	And so we decided, this is such a great idea,
+4852000	4854000	we're going to go do that.
+4854000	4857000	And so NVIDIA has NIMs running all over the company.
+4857000	4860000	We have chatbots being created all over the place,
+4860000	4863000	and one of the most important chatbots, of course,
+4863000	4865000	is a chip designer chatbot.
+4865000	4867000	You might not be surprised.
+4867000	4869000	We care a lot about building chips.
+4869000	4872000	And so we want to build chatbots,
+4872000	4877000	AI copilots that are co-designers with our engineers.
+4877000	4879000	And so this is the way we did it.
+4879000	4882000	So we got ourselves a Llama 2.
+4882000	4886000	This is a 70B, and it's packaged up in a NIM.
+4886000	4891000	We asked it, you know, what is a CTL?
+4891000	4895000	It turns out CTL is an internal program,
+4895000	4897000	and it has an internal proprietary language,
+4897000	4900000	but it thought the CTL was a combinatorial timing logic,
+4900000	4903000	and so it describes conventional knowledge of CTL,
+4903000	4906000	but that's not very useful to us.
+4906000	4910000	And so we gave it a whole bunch of new examples.
+4910000	4914000	This is no different than onboarding an employee.
+4914000	4916000	And we say, you know, thanks for that answer.
+4916000	4918000	It's completely wrong.
+4918000	4923000	And then we present to them, this is what a CTL is, okay?
+4923000	4926000	And so this is what a CTL is at NVIDIA.
+4926000	4929000	And the CTL, as you can see, you know, CTL stands for
+4929000	4932000	Compute Trace Library, which makes sense.
+4932000	4935000	You know, we're tracing compute cycles all the time,
+4935000	4937000	and it wrote the program.
+4937000	4939000	Isn't that amazing?
+4939000	4942000	And so the productivity of our chip designers can go up.
+4942000	4944000	This is what you can do with a NIM.
+4944000	4946000	First thing you can do with it is customize it.
+4946000	4948000	We have a service called NEMO Microservice
+4948000	4950000	that helps you curate the data,
+4950000	4954000	preparing the data so that you can teach this onboard this AI.
+4954000	4957000	You fine-tune them, and then you guardrail it.
+4957000	4959000	You can even evaluate the answer,
+4959000	4962000	evaluate its performance against other examples.
+4962000	4965000	And so that's called the NIM.
+4965000	4967000	Now, the thing that's emerging here is this.
+4967000	4970000	There are three elements, three pillars of what we're doing.
+4970000	4972000	The first pillar is, of course,
+4972000	4975000	inventing the technology for AI models
+4975000	4978000	and running AI models and packaging it up for you.
+4978000	4982000	The second is to create tools to help you modify it.
+4982000	4984000	First is having the AI technology.
+4984000	4986000	Second is to help you modify it.
+4986000	4989000	And third is infrastructure for you to fine-tune it
+4989000	4991000	and evaluate it.
+4991000	4993000	And then finally, the third pillar,
+4993000	4995000	infrastructure for you to fine-tune it
+4995000	4997000	and, if you like, deploy it.
+4997000	5000000	You could deploy it on our infrastructure called DGX Cloud,
+5000000	5002000	or you could deploy it on-prem.
+5002000	5004000	You could deploy it anywhere you like.
+5004000	5007000	Once you develop it, it's yours to take anywhere.
+5007000	5011000	And so we are effectively an AI foundry.
+5011000	5015000	We will do for you and the industry on AI
+5015000	5017000	what TSMC does for us, building chips.
+5017000	5021000	And so we go to TSMC with our big ideas.
+5021000	5023000	We manufacture it, and we take it with us.
+5023000	5025000	And so exactly the same thing here.
+5025000	5028000	AI foundry, and the three pillars are the NIMS,
+5028000	5031000	NEMO Microservice, and DGX Cloud.
+5031000	5033000	The other thing that you could teach the NIMP to do
+5033000	5036000	is to understand your proprietary information.
+5036000	5038000	Remember, inside our company,
+5038000	5040000	the vast majority of our data is not in the cloud.
+5040000	5042000	It's inside our company.
+5042000	5045000	It's been sitting there, you know, being used all the time,
+5045000	5049000	and, gosh, it's basically NVIDIA's intelligence.
+5049000	5054000	We would like to take that data, learn its meaning,
+5054000	5056000	like we learned the meaning of almost anything else
+5056000	5057000	that we just talked about.
+5057000	5061000	Learn its meaning, and then re-index that knowledge
+5061000	5065000	into a new type of database called a vector database.
+5065000	5067000	And so you essentially take structured data
+5067000	5070000	or unstructured data, you learn its meaning,
+5070000	5074000	you encode its meaning, so now this becomes an AI database,
+5074000	5078000	and that AI database, in the future, once you create it,
+5078000	5079000	you can talk to it.
+5079000	5081000	And so let me give you an example of what you could do.
+5081000	5085000	So suppose you've got a whole bunch of multimodality data,
+5085000	5087000	and one good example of that is PDF.
+5087000	5091000	So you take the PDF, you take all of your PDFs,
+5091000	5095000	all your favorite, you know, the stuff that is proprietary to you,
+5095000	5098000	critical to your company, you can encode it.
+5098000	5101000	Just as we encoded pixels of a cat,
+5101000	5104000	and it becomes the word cat, we can encode all of your PDF,
+5104000	5108000	and it turns into vectors that are now stored
+5108000	5109000	inside your vector database.
+5109000	5112000	It becomes the proprietary information of your company.
+5112000	5114000	And once you have that proprietary information,
+5114000	5116000	you can chat to it.
+5116000	5120000	It's a smart database, so you just chat with data.
+5120000	5122000	And how much more enjoyable is that?
+5122000	5126000	You know, for our software team,
+5126000	5130000	they just chat with the bugs database, you know?
+5130000	5132000	How many bugs was there last night?
+5132000	5134000	Are we making any progress?
+5134000	5138000	And then after you're done talking to this bugs database,
+5138000	5140000	you need therapy.
+5140000	5143000	And so we have another chat bot for you.
+5147000	5149000	You can do it.
+5158000	5160000	Okay, so we call this Nemo Retriever,
+5160000	5162000	and the reason for that is because ultimately its job
+5162000	5165000	is to go retrieve information as quickly as possible.
+5165000	5166000	And you just talk to it.
+5166000	5167000	Hey, retrieve me this information,
+5167000	5170000	and it goes, oh, it brings it back to you.
+5170000	5171000	Do you mean this?
+5171000	5173000	You go, yeah, perfect, okay?
+5173000	5175000	And so we call it the Nemo Retriever.
+5175000	5177000	Well, the Nemo service helps you create all these things,
+5177000	5179000	and we have all these different NIMs.
+5179000	5181000	We even have NIMs of digital humans.
+5181000	5186000	I'm Rachel, your AI care manager.
+5186000	5188000	Okay, so it's a really short clip,
+5188000	5190000	but there were so many videos to show you,
+5190000	5192000	I guess so many other demos to show you,
+5192000	5194000	and so I had to cut this one short.
+5194000	5196000	But this is Diana.
+5196000	5198000	She is a digital human NIM,
+5198000	5201000	and you just talked to her,
+5201000	5203000	and she's connected, in this case,
+5203000	5206000	to Hippocratic AI's large language model for healthcare,
+5206000	5208000	and it's truly amazing.
+5210000	5214000	She is just super smart about healthcare things, you know?
+5215000	5219000	And so after Dwight, my VP of software engineering,
+5219000	5222000	talks to the chat bot for Bugs Database,
+5222000	5224000	then you come over here and talk to Diane.
+5224000	5229000	And so Diane is completely animated with AI,
+5229000	5231000	and she's a digital human.
+5231000	5234000	There are so many companies that would like to build,
+5234000	5236000	they're sitting on gold mines.
+5236000	5240000	The enterprise IT industry is sitting on a gold mine.
+5240000	5243000	It's a gold mine because they have so much understanding
+5243000	5246000	of the way work is done.
+5246000	5247000	They have all these amazing tools
+5247000	5249000	that have been created over the years,
+5249000	5251000	and they're sitting on a lot of data.
+5251000	5254000	If they could take that gold mine
+5254000	5256000	and turn them into co-pilots,
+5256000	5258000	these co-pilots could help us do things.
+5258000	5261000	And so just about every IT franchise,
+5261000	5263000	IT platform in the world
+5263000	5265000	that has valuable tools that people use
+5265000	5267000	is sitting on a gold mine for co-pilots,
+5267000	5269000	and they would like to build their own co-pilots
+5269000	5271000	and their own chat bots.
+5271000	5274000	And so we're announcing that NVIDIA AI Foundry
+5274000	5276000	is working with some of the world's great companies.
+5276000	5280000	SAP generates 87% of the world's global commerce.
+5280000	5282000	Basically, the world runs on SAP.
+5282000	5283000	We run on SAP.
+5283000	5287000	NVIDIA and SAP are building SAP Jewel co-pilots
+5287000	5289000	using NVIDIA Nemo and DGX Cloud.
+5289000	5294000	ServiceNow, they run 85% of the world's Fortune 500 companies
+5294000	5298000	run their people and customer service operations on ServiceNow.
+5298000	5301000	And they're using NVIDIA AI Foundry
+5301000	5305000	to build ServiceNow assist virtual assistants.
+5305000	5308000	Cohesity backs up the world's data.
+5308000	5310000	They're sitting on a gold mine of data,
+5310000	5312000	hundreds of exabytes of data,
+5312000	5314000	over 10,000 companies.
+5314000	5316000	NVIDIA AI Foundry is working with them,
+5316000	5321000	helping them build their Gaia generative AI agent.
+5321000	5324000	Snowflake is a company that stores
+5324000	5327000	the world's digital warehouse in the cloud
+5327000	5332000	and serves over 3 billion queries a day
+5332000	5335000	for 10,000 enterprise customers.
+5335000	5337000	Snowflake is working with NVIDIA AI Foundry
+5337000	5341000	to build co-pilots with NVIDIA Nemo and NIMS.
+5341000	5345000	NetApp, nearly half of the files in the world
+5345000	5348000	are stored on-prem on NetApp.
+5348000	5350000	NVIDIA AI Foundry is helping them
+5350000	5352000	build chatbots and co-pilots
+5352000	5355000	like those vector databases and retrievers
+5355000	5358000	with NVIDIA Nemo and NIMS.
+5358000	5361000	And we have a great partnership with Dell.
+5361000	5364000	Everybody who is building these chatbots
+5364000	5366000	and generative AI,
+5366000	5367000	when you're ready to run it,
+5367000	5370000	you're going to need an AI factory.
+5370000	5374000	And nobody is better at building end-to-end systems
+5374000	5378000	of very large scale for the enterprise than Dell.
+5378000	5380000	And so anybody, any company,
+5380000	5382000	every company will need to build AI factories.
+5382000	5384000	And it turns out that Michael is here.
+5384000	5386000	He's happy to take your order.
+5390000	5392000	Ladies and gentlemen, Michael Dell.
+5397000	5400000	Okay, let's talk about the next wave of robotics,
+5400000	5404000	the next wave of AI, robotics, physical AI.
+5404000	5407000	So far, all of the AI that we've talked about
+5407000	5409000	is one computer.
+5409000	5411000	Data comes into one computer,
+5411000	5413000	lots of the world's, if you will,
+5413000	5415000	experience in digital text form.
+5415000	5420000	The AI imitates us by reading a lot of the language
+5420000	5422000	to predict the next words.
+5422000	5425000	It's imitating you by studying all of the patterns
+5425000	5427000	and all the other previous examples.
+5427000	5429000	Of course, it has to understand context and so on and so forth,
+5429000	5431000	but once it understands the context,
+5431000	5433000	it's essentially imitating you.
+5433000	5434000	We take all of the data,
+5434000	5436000	we put it into a system like DGX,
+5436000	5439000	we compress it into a large language model,
+5439000	5441000	trillions and trillions of parameters
+5441000	5442000	become billions and billions,
+5442000	5444000	trillions of tokens becomes billions of parameters,
+5444000	5447000	these billions of parameters becomes your AI.
+5447000	5450000	Well, in order for us to go to the next wave of AI,
+5450000	5453000	where the AI understands the physical world,
+5453000	5456000	we're going to need three computers.
+5456000	5458000	The first computer is still the same computer.
+5458000	5461000	It's that AI computer that now is going to be watching video
+5461000	5464000	and maybe it's doing synthetic data generation
+5464000	5467000	and maybe there's a lot of human examples,
+5467000	5470000	just as we have human examples in text form,
+5470000	5473000	we're going to have human examples in articulation form
+5473000	5478000	and the AIs will watch us, understand what is happening
+5478000	5483000	and try to adapt it for themselves into the context
+5483000	5487000	and because it can generalize with these foundation models,
+5487000	5490000	maybe these robots can also perform in the physical world
+5490000	5492000	fairly generally.
+5492000	5495000	So I just described in very simple terms
+5495000	5498000	essentially what just happened in large language models,
+5498000	5500000	except the chat GPT moment for robotics
+5500000	5503000	may be right around the corner.
+5503000	5505000	And so we've been building the end-to-end systems
+5505000	5507000	for robotics for some time.
+5507000	5509000	I'm super, super proud of the work.
+5509000	5512000	We have the AI system, DGX.
+5512000	5514000	We have the lower system, which is called AGX,
+5514000	5516000	for autonomous systems,
+5516000	5518000	the world's first robotics processor.
+5518000	5520000	When we first built this thing, people are,
+5520000	5521000	what are you guys building?
+5521000	5523000	It's an SOC, it's one chip,
+5523000	5525000	it's designed to be very low power,
+5525000	5528000	high speed sensor processing and AI.
+5528000	5532000	And so if you want to run transformers in a car
+5532000	5537000	or you want to run transformers in anything that moves,
+5537000	5539000	we have the perfect computer for you.
+5539000	5541000	It's called the Jetson.
+5541000	5543000	And so the DGX on top for training the AI,
+5543000	5545000	the Jetson is the autonomous processor,
+5545000	5549000	and in the middle, we need another computer.
+5549000	5553000	Whereas large language models have the benefit
+5553000	5555000	of you providing your examples
+5555000	5559000	and then doing reinforcement learning human feedback,
+5559000	5563000	what is the reinforcement learning human feedback of a robot?
+5563000	5567000	Well, it's reinforcement learning physical feedback.
+5567000	5569000	That's how you align the robot.
+5569000	5572000	That's how the robot knows that as it's learning
+5572000	5575000	these articulation capabilities and manipulation capabilities,
+5575000	5579000	it's going to adapt properly into the laws of physics.
+5579000	5583000	And so we need a simulation engine
+5583000	5586000	that represents the world digitally for the robot
+5586000	5590000	so that the robot has a gym to go learn how to be a robot.
+5590000	5595000	We call that virtual world Omniverse.
+5595000	5598000	And the computer that runs Omniverse is called OVX.
+5598000	5603000	And OVX, the computer itself, is hosted in the Azure cloud.
+5603000	5607000	And so basically we built these three things, these three systems.
+5607000	5610000	On top of it, we have algorithms for every single one.
+5610000	5613000	Now, I'm going to show you one super example
+5613000	5617000	of how AI and Omniverse are going to work together.
+5617000	5620000	The example I'm going to show you is kind of insane,
+5620000	5623000	but it's going to be very, very close to tomorrow.
+5623000	5625000	It's a robotics building.
+5625000	5627000	This robotics building is called a warehouse.
+5627000	5629000	Inside the robotics building
+5629000	5631000	are going to be some autonomous systems.
+5631000	5634000	Some of the autonomous systems are going to be called humans,
+5634000	5638000	and some of the autonomous systems are going to be called forklifts.
+5638000	5641000	And these autonomous systems are going to interact with each other,
+5641000	5643000	of course, autonomously,
+5643000	5646000	and it's going to be overlooked upon by this warehouse
+5646000	5648000	to keep everybody out of harm's way.
+5648000	5651000	The warehouse is essentially an air traffic controller.
+5651000	5654000	And whenever it sees something happening,
+5654000	5657000	it will redirect traffic and give new waypoints,
+5657000	5660000	just new waypoints to the robots and the people,
+5660000	5662000	and they'll know exactly what to do.
+5662000	5666000	This warehouse, this building, you can also talk to.
+5666000	5668000	Of course you could talk to it.
+5668000	5671000	Hey, you know, SAP Center, how are you feeling today?
+5671000	5673000	For example.
+5673000	5676000	And so you could ask the warehouse the same questions.
+5676000	5681000	Basically, the system I just described will have Omniverse Cloud
+5681000	5684000	that's hosting the virtual simulation,
+5684000	5687000	and AI running on DGX Cloud,
+5687000	5689000	and all of this is running in real time.
+5689000	5691000	Let's take a look.
+5692000	5696000	The future of heavy industries starts as a digital twin.
+5696000	5699000	The AI agents helping robots, workers, and infrastructure
+5699000	5703000	navigate unpredictable events in complex industrial spaces
+5703000	5708000	will be built and evaluated first in sophisticated digital twins.
+5708000	5712000	This Omniverse digital twin of a 100,000-square-foot warehouse
+5712000	5715000	is operating as a simulation environment
+5715000	5717000	that integrates digital workers,
+5717000	5720000	AMRs running the NVIDIA ISAC perceptor stack,
+5720000	5723000	centralized activity maps of the entire warehouse
+5723000	5727000	from 100 simulated ceiling mount cameras using NVIDIA Metropolis,
+5727000	5731000	and AMR route planning with NVIDIA KuOpt.
+5731000	5734000	Software in-loop testing of AI agents
+5734000	5737000	in this physically accurate simulated environment
+5737000	5740000	enables us to evaluate and refine how the system adapts
+5740000	5743000	to real-world unpredictability.
+5743000	5747000	Here, an incident occurs along this AMR's planned route,
+5747000	5750000	blocking its path as it moves to pick up a pallet.
+5750000	5754000	NVIDIA Metropolis updates and sends a real-time occupancy map
+5754000	5757000	to KuOpt where a new optimal route is calculated.
+5757000	5760000	The AMR is enabled to see around corners
+5760000	5762000	and improve its mission efficiency.
+5762000	5766000	With generative AI-powered Metropolis vision foundation models,
+5766000	5770000	operators can even ask questions using natural language.
+5770000	5773000	The visual model understands nuanced activity
+5773000	5776000	and can offer immediate insights to improve operations.
+5776000	5779000	All of the sensor data is created in simulation
+5779000	5781000	and passed to the real-time AI,
+5781000	5785000	running as NVIDIA Inference Microservices, or NIMS.
+5785000	5788000	And when the AI is ready to be deployed in the physical twin,
+5788000	5792000	the real warehouse, we connect Metropolis and ISAC NIMS
+5792000	5796000	to real sensors with the ability for continuous improvement
+5796000	5799000	of both the digital twin and the AI models.
+5802000	5804000	Isn't that incredible?
+5804000	5809000	And so, remember,
+5809000	5814000	a future facility warehouse, factory, building
+5814000	5816000	will be software defined.
+5816000	5818000	And so the software is running.
+5818000	5820000	How else would you test the software?
+5820000	5823000	So you test the software to building the warehouse,
+5823000	5826000	the optimization system, in the digital twin.
+5826000	5827000	What about all the robots?
+5827000	5829000	All of those robots you were seeing just now,
+5829000	5832000	they're all running their own autonomous robotic stack.
+5832000	5834000	And so the way you integrate software in the future,
+5834000	5837000	CICD in the future, for robotic systems
+5837000	5839000	is with digital twins.
+5839000	5842000	We've made Omniverse a lot easier to access.
+5842000	5846000	We're going to create basically Omniverse cloud APIs,
+5846000	5848000	four simple API in a channel,
+5848000	5850000	and you can connect your application to it.
+5850000	5855000	So this is going to be as wonderfully, beautifully simple
+5855000	5857000	in the future that Omniverse is going to be.
+5857000	5859000	And with these APIs, you're going to have
+5859000	5862000	these magical digital twin capability.
+5862000	5867000	We also have turned Omniverse into an AI
+5867000	5870000	and integrated it with the ability to chat USD.
+5870000	5874000	The language of our language is, you know, human,
+5874000	5876000	and Omniverse's language, as it turns out,
+5876000	5878000	is universal scene description.
+5878000	5881000	And so that language is rather complex,
+5881000	5884000	and so we've taught our Omniverse that language.
+5884000	5886000	And so you can speak to it in English,
+5886000	5888000	and it would directly generate USD.
+5888000	5890000	And it would talk back in USD,
+5890000	5892000	but converse back to you in English.
+5892000	5894000	You could also look for information
+5894000	5896000	in this world semantically.
+5896000	5899000	Instead of the world being encoded semantically in language,
+5899000	5902000	now it's encoded semantically in scenes.
+5902000	5905000	And so you could ask it of certain objects
+5905000	5907000	or certain conditions or certain scenarios,
+5907000	5909000	and it can go and find that scenario for you.
+5909000	5912000	It also can collaborate with you in generation.
+5912000	5914000	You could design some things in 3D.
+5914000	5916000	It could simulate some things in 3D,
+5916000	5918000	or you could use AI to generate something in 3D.
+5918000	5921000	Let's take a look at how this is all going to work.
+5921000	5923000	We have a great partnership with Siemens.
+5923000	5927000	Siemens is the world's largest industrial engineering
+5927000	5929000	and operations platform.
+5929000	5931000	You've seen now so many different companies
+5931000	5933000	in the industrial space.
+5933000	5937000	Heavy Industries is one of the greatest final frontiers of IT,
+5937000	5941000	and we finally now have the necessary technology
+5941000	5943000	to go and make a real impact.
+5943000	5945000	Siemens is building the industrial metaverse,
+5945000	5948000	and today we're announcing that Siemens is connecting
+5948000	5952000	their crown jewel accelerator to NVIDIA Omniverse.
+5952000	5953000	Let's take a look.
+5955000	5958000	Siemens technology is transformed every day for everyone.
+5958000	5962000	Team Center X, our leading product lifecycle management software
+5962000	5964000	from the Siemens accelerator platform,
+5964000	5966000	is used every day by our customers
+5966000	5970000	to develop and deliver products at scale.
+5970000	5973000	Now we are bringing the real and the digital worlds
+5973000	5976000	even closer by integrating NVIDIA AI
+5976000	5980000	and Omniverse technologies into Team Center X.
+5980000	5983000	Omniverse APIs enable data interoperability
+5983000	5987000	and physics-based rendering to industrial-scale design
+5987000	5989000	and manufacturing projects.
+5989000	5991000	Our customers, HD Hyundai,
+5991000	5993000	market leader in sustainable ship manufacturing,
+5993000	5996000	builds ammonia and hydrogen power chips,
+5996000	6000000	often comprising over 7 million discrete parts.
+6000000	6005000	With Omniverse APIs, Team Center X lets companies like HD Hyundai
+6005000	6010000	unify and visualize these massive engineering data sets interactively
+6010000	6014000	and integrate generative AI to generate 3D objects
+6014000	6019000	or HDRI backgrounds to see their projects in context.
+6019000	6022000	The result, an ultra-intuitive, photoreal,
+6022000	6026000	physics-based digital twin that eliminates waste and errors,
+6026000	6029000	delivering huge savings in cost and time.
+6030000	6032000	And we are building this for collaboration,
+6032000	6036000	whether across more Siemens accelerator tools like Siemens NX
+6036000	6040000	or STAR CCM+, or across teams
+6040000	6044000	working on their favorite devices in the same scene together.
+6044000	6046000	And this is just the beginning.
+6046000	6050000	Working with NVIDIA, we will bring accelerator computing,
+6050000	6053000	generative AI and Omniverse integration
+6053000	6056000	across the Siemens accelerator portfolio.
+6060000	6064000	The professional voice actor
+6064000	6067000	happens to be a good friend of mine, Roland Bush,
+6067000	6070000	who happens to be the CEO of Siemens.
+6077000	6082000	Once you get Omniverse connected into your workflow,
+6082000	6084000	your ecosystem,
+6084000	6086000	from the beginning of your life,
+6086000	6090000	to engineering, to manufacturing planning,
+6090000	6093000	all the way to digital twin operations,
+6093000	6095000	once you connect everything together,
+6095000	6098000	it's insane how much productivity you can get.
+6098000	6100000	And it's just really, really wonderful.
+6100000	6103000	All of a sudden, everybody's operating on the same ground truth.
+6103000	6107000	You don't have to exchange data and convert data, make mistakes.
+6107000	6110000	Everybody is working on the same ground truth.
+6110000	6113000	From the beginning of your life,
+6113000	6116000	everybody is working on the same ground truth.
+6116000	6118000	From the design department to the art department,
+6118000	6121000	the architecture department, all the way to the engineering
+6121000	6123000	and even the marketing department.
+6123000	6127000	Let's take a look at how Nissan has integrated Omniverse
+6127000	6129000	into their workflow.
+6129000	6132000	And it's all because it's connected by all these wonderful tools
+6132000	6134000	and these developers that we're working with.
+6134000	6136000	Take a look.
+6143000	6145000	Let's take a look.
+6173000	6176000	Let's take a look.
+6203000	6205000	Let's take a look.
+6233000	6235000	That was not an animation.
+6235000	6238000	That was Omniverse.
+6238000	6241000	Today, we're announcing that Omniverse Cloud
+6241000	6245000	streams to the Vision Pro.
+6252000	6255000	It is very, very strange
+6255000	6258000	that you walk around virtual doors
+6258000	6261000	when I was getting out of that car.
+6261000	6263000	And everybody does it.
+6263000	6265000	It is really, really quite amazing.
+6265000	6268000	Vision Pro, connected to Omniverse,
+6268000	6270000	portals you into Omniverse.
+6270000	6272000	And because all of these CAD tools
+6272000	6275000	and all these different design tools are now integrated
+6275000	6277000	and connected to Omniverse,
+6277000	6279000	you can have this type of workflow.
+6279000	6281000	Really incredible.
+6281000	6283000	Let's talk about robotics.
+6283000	6285000	Everything that moves will be robotic.
+6285000	6287000	There's no question about that.
+6287000	6289000	It's safer, it's more convenient.
+6289000	6291000	One of the largest industries is going to be automotive.
+6291000	6293000	We build the robotic stack
+6293000	6295000	from top to bottom, as I was mentioning,
+6295000	6297000	from the computer system,
+6297000	6299000	but in the case of self-driving cars,
+6299000	6301000	including the self-driving application.
+6301000	6303000	At the end of this year,
+6303000	6305000	or I guess beginning of next year,
+6305000	6307000	we will be shipping in Mercedes
+6307000	6309000	and then shortly after that, JLR.
+6309000	6311000	And so these autonomous robotic systems
+6311000	6313000	are software defined.
+6313000	6315000	They take a lot of work to do,
+6315000	6317000	has computer vision,
+6317000	6319000	intelligence, control and planning,
+6319000	6321000	all kinds of very complicated technology
+6321000	6323000	and takes years to refine.
+6323000	6325000	We're building the entire stack.
+6325000	6327000	However, we open up our entire stack
+6327000	6329000	for all of the automotive industry.
+6329000	6331000	This is just the way we work.
+6331000	6333000	The way we work in every single industry,
+6333000	6335000	we try to build as much of it as we can
+6335000	6337000	so that we understand it,
+6337000	6339000	but then we open it up so that everybody can access it.
+6339000	6341000	Whether you would like to buy just our computer,
+6341000	6343000	which is the world's only
+6343000	6345000	functional, safe,
+6345000	6347000	ASLD system
+6347000	6349000	that can run AI,
+6349000	6351000	this functional, safe,
+6351000	6353000	ASLD quality computer
+6353000	6355000	or the operating system on top
+6355000	6357000	or, of course,
+6357000	6359000	our data centers, which is in
+6359000	6361000	basically every AV company in the world.
+6361000	6363000	However you would like to enjoy it,
+6363000	6365000	we're delighted by it.
+6365000	6367000	Today we're announcing that BYD,
+6367000	6369000	the world's largest EV company,
+6369000	6371000	is adopting our next generation,
+6371000	6373000	it's called Thor.
+6373000	6375000	Thor is designed for transformer engines.
+6375000	6377000	Thor, our next generation
+6377000	6379000	AV computer, will be used
+6379000	6381000	by BYD.
+6389000	6391000	You probably don't know this fact that we have
+6391000	6393000	over a million robotics developers.
+6393000	6395000	We created Jetson,
+6395000	6397000	this robotics computer.
+6397000	6399000	We're so proud of it. The amount of software that goes on top of it
+6399000	6401000	is insane. But the reason why we can do it at all
+6401000	6403000	is because it's 100% CUDA compatible.
+6403000	6405000	Everything that we do,
+6405000	6407000	everything that we do in our company,
+6407000	6409000	is in service of our developers.
+6409000	6411000	And by us being able to maintain
+6411000	6413000	this rich ecosystem
+6413000	6415000	and make it compatible with everything that you
+6415000	6417000	access from us,
+6417000	6419000	we can bring all of that incredible capability
+6419000	6421000	to this little tiny computer
+6421000	6423000	we call Jetson, a robotics computer.
+6423000	6425000	We also today are announcing
+6425000	6427000	this incredibly advanced
+6427000	6429000	new SDK. We call it
+6429000	6431000	Isaac Perceptor.
+6431000	6433000	Isaac Perceptor,
+6433000	6435000	most of the robots today
+6435000	6437000	are pre-programmed.
+6437000	6439000	They're either following rails on the ground,
+6439000	6441000	digital rails, or they'd be following
+6441000	6443000	April tags. But in the future,
+6443000	6445000	they're going to have perception. And the reason
+6445000	6447000	why you want that is so that you could easily
+6447000	6449000	program it. You say,
+6449000	6451000	I would like to go from point A to point B
+6451000	6453000	and it will figure out a way to navigate
+6453000	6455000	its way there. So by
+6455000	6457000	only programming waypoints,
+6457000	6459000	the entire route could be
+6459000	6461000	adaptive. The entire environment could
+6461000	6463000	be reprogrammed, just as I showed you at the very beginning
+6463000	6465000	with the warehouse.
+6465000	6467000	You can't do that with
+6467000	6469000	pre-programmed AGVs.
+6469000	6471000	If those boxes fall down,
+6471000	6473000	they just all gum up and they just wait there for somebody
+6473000	6475000	to come clear it. And so now
+6475000	6477000	with the Isaac Perceptor,
+6477000	6479000	we have incredible
+6479000	6481000	state-of-the-art vision odometry,
+6481000	6483000	3D reconstruction,
+6483000	6485000	and in addition to 3D reconstruction,
+6485000	6487000	depth perception. The reason for that
+6487000	6489000	is so that you can have two modalities
+6489000	6491000	to keep an eye on what's happening in the world.
+6491000	6493000	Isaac Perceptor.
+6493000	6495000	The most used
+6495000	6497000	robot today is
+6497000	6499000	the manipulator,
+6499000	6501000	manufacturing arms, and they are also
+6501000	6503000	pre-programmed. The computer vision
+6503000	6505000	algorithms, the AI algorithms,
+6505000	6507000	the control and path planning algorithms
+6507000	6509000	that are geometry aware,
+6509000	6511000	incredibly computational and intensive.
+6511000	6513000	We have made these
+6513000	6515000	CUDA accelerated.
+6515000	6517000	So we have the world's first CUDA accelerated
+6517000	6519000	motion planner that is
+6519000	6521000	geometry aware.
+6521000	6523000	You put something in front of it, it comes up
+6523000	6525000	with a new plan and articulates around it.
+6525000	6527000	It has excellent
+6527000	6529000	perception for pose estimation
+6529000	6531000	of a 3D object.
+6531000	6533000	Not just, not its pose in 2D,
+6533000	6535000	but its pose in 3D. So it has to
+6535000	6537000	imagine what's around and
+6537000	6539000	how best to grab it.
+6539000	6541000	So the foundation
+6541000	6543000	pose, the grip foundation,
+6543000	6545000	and the
+6545000	6547000	articulation algorithms are now
+6547000	6549000	available. We call it Isaac Manipulator.
+6549000	6551000	And they also just
+6551000	6553000	run on NVIDIA's computers.
+6553000	6555000	We are
+6555000	6557000	starting to do some really
+6557000	6559000	great work in the next generation
+6559000	6561000	of robotics. The next generation of
+6561000	6563000	robotics will likely be
+6563000	6565000	a humanoid robotics.
+6565000	6567000	We now have the necessary technology
+6567000	6569000	and as I was describing earlier,
+6569000	6571000	the necessary technology
+6571000	6573000	to imagine generalized
+6573000	6575000	human robotics.
+6575000	6577000	In a way, human robotics is
+6577000	6579000	likely easier and the reason for that is
+6579000	6581000	because we have a lot more
+6581000	6583000	imitation training data
+6583000	6585000	that we can provide the robots because we
+6585000	6587000	are constructed in a very similar way.
+6587000	6589000	It is very likely that the humanoid
+6589000	6591000	robotics will be much more useful
+6591000	6593000	in our world because we created the
+6593000	6595000	world to be something that we can
+6595000	6597000	interoperate in and work well in.
+6597000	6599000	And the way that we set up our work
+6599000	6601000	stations and manufacturing and logistics,
+6601000	6603000	they were designed for humans.
+6603000	6605000	They were designed for people. And so these
+6605000	6607000	humanoid robotics will likely be much
+6607000	6609000	more productive to deploy.
+6609000	6611000	While we are creating
+6611000	6613000	just like we are doing with the others,
+6613000	6615000	the entire stack.
+6615000	6617000	Starting from the top, a foundation
+6617000	6619000	model that learns from
+6619000	6621000	watching video, human
+6621000	6623000	examples,
+6623000	6625000	it could be in video form, it could be in
+6625000	6627000	virtual reality form.
+6627000	6629000	We then created a gym
+6629000	6631000	for it called Isaac Reinforcement
+6631000	6633000	Learning Gym, which allows
+6633000	6635000	the humanoid robot to
+6635000	6637000	learn how to adapt to the
+6637000	6639000	physical world. And then an incredible
+6639000	6641000	computer, the same computer
+6641000	6643000	that's going to go into a robotic car,
+6643000	6645000	this computer will run inside
+6645000	6647000	a humanoid robot called Thor.
+6647000	6649000	It's designed for transformer engines.
+6649000	6651000	We've combined
+6651000	6653000	several of these into one video.
+6653000	6655000	This is something that you're going to really love.
+6655000	6657000	Take a look.
+6681000	6683000	We create
+6683000	6685000	smarter
+6685000	6687000	and faster.
+6689000	6691000	We push it to fail
+6691000	6693000	so it can learn.
+6695000	6697000	We teach it
+6697000	6699000	then help it teach itself.
+6699000	6701000	We broaden its understanding
+6705000	6707000	to take on new challenges
+6707000	6709000	with absolute precision
+6711000	6713000	and succeed.
+6715000	6717000	We make it perceive
+6719000	6721000	and move
+6721000	6723000	and even reason
+6725000	6727000	so it can share our world
+6727000	6729000	with us.
+6737000	6739000	Mmm.
+6753000	6755000	This is where inspiration leads us.
+6755000	6757000	The next frontier.
+6759000	6761000	This is Nvidia Project Group.
+6761000	6763000	A general purpose
+6763000	6765000	foundation model
+6765000	6767000	for humanoid robot learning.
+6769000	6771000	The group model takes multimodal
+6771000	6773000	instructions and past interactions
+6773000	6775000	as input and produces
+6775000	6777000	the next action for the robot to
+6777000	6779000	execute.
+6779000	6781000	We developed Isaac Lab,
+6781000	6783000	a robot learning application
+6783000	6785000	to train Group, on Omniverse
+6785000	6787000	Isaac Sim.
+6787000	6789000	And we scale out with Osmo,
+6789000	6791000	a new compute orchestration service
+6791000	6793000	that coordinates workflows across
+6793000	6795000	DGX systems for training
+6795000	6797000	and OVX systems for simulation.
+6799000	6801000	With these tools, we can train Group
+6801000	6803000	in physically based simulation
+6803000	6805000	and transfer zero shock
+6805000	6807000	to the real world.
+6807000	6809000	The Group model will enable
+6809000	6811000	a robot to learn from a handful
+6811000	6813000	of human demonstrations
+6813000	6815000	so it can help with everyday tasks.
+6815000	6817000	And emulate human movement
+6817000	6819000	just by observing us.
+6819000	6821000	This is made possible
+6821000	6823000	with Nvidia's technologies
+6823000	6825000	that can understand humans from videos,
+6825000	6827000	train models and simulation,
+6827000	6829000	and ultimately deploy them
+6829000	6831000	directly to physical robots.
+6831000	6833000	Connecting Group to a large
+6833000	6835000	language model even allows it
+6835000	6837000	to generate motions by following
+6837000	6839000	natural language instructions.
+6839000	6841000	Hi, GR1.
+6841000	6843000	Can you give me a high five?
+6843000	6845000	You're big. Let's high five.
+6847000	6849000	Can you give us some cool moves?
+6849000	6851000	Sure. Check this out.
+6855000	6857000	All this incredible intelligence is powered
+6857000	6859000	by the new Jetson Thor Robotics chips
+6859000	6861000	designed for Group,
+6861000	6863000	built for the future.
+6863000	6865000	With Isaac Lab, Osmo
+6865000	6867000	and Group, we're providing the building blocks
+6867000	6869000	for the next generation of
+6869000	6871000	AI-powered robotics.
+6873000	6875000	Music
+6877000	6879000	Applause
+6887000	6889000	About the same size.
+6889000	6891000	Applause
+6897000	6899000	The soul of Nvidia.
+6899000	6901000	The intersection of computer graphics,
+6901000	6903000	physics, artificial intelligence.
+6903000	6905000	It all came to bear
+6905000	6907000	at this moment.
+6907000	6909000	The name of that project,
+6909000	6911000	General Robotics 003.
+6913000	6915000	I know. Super good.
+6917000	6919000	Super good.
+6919000	6921000	Well, I think we have
+6921000	6923000	some special guests.
+6923000	6925000	Do we?
+6931000	6933000	Hey, guys.
+6937000	6939000	So I understand you guys
+6939000	6941000	are powered by Jetson.
+6941000	6943000	They're powered by Jetson.
+6943000	6945000	Little Jetson
+6945000	6947000	robotics computers inside.
+6947000	6949000	They learn to walk
+6949000	6951000	in Isaac Sim.
+6951000	6953000	Ladies and
+6953000	6955000	gentlemen,
+6955000	6957000	this is orange
+6957000	6959000	and this is the famous
+6959000	6961000	green. They are the
+6961000	6963000	BDX robots
+6963000	6965000	of Disney.
+6965000	6967000	Amazing
+6967000	6969000	Disney research.
+6969000	6971000	Applause
+6971000	6973000	Come on, you guys. Let's wrap up.
+6973000	6975000	Let's go.
+6975000	6977000	Five things.
+6977000	6979000	Where are you going?
+6979000	6981000	I sit right here.
+6985000	6987000	Don't be afraid.
+6987000	6989000	Come here, green. Hurry up.
+6991000	6993000	What are you saying?
+6995000	6997000	No, it's not time to eat.
+7003000	7005000	I'll give you a snack in a moment.
+7005000	7007000	Let me finish up real quick.
+7007000	7009000	Come on, green. Hurry up.
+7009000	7011000	Stop wasting
+7011000	7013000	time.
+7013000	7015000	Five things.
+7015000	7017000	Five things. First,
+7017000	7019000	a new industrial revolution.
+7019000	7021000	Every data center should be
+7021000	7023000	accelerated. A trillion dollars
+7023000	7025000	worth of installed data centers
+7025000	7027000	will become modernized over the next
+7027000	7029000	several years. Second, because of the computational
+7029000	7031000	capability we brought to bear, a new way
+7031000	7033000	of doing software has emerged. Generative
+7033000	7035000	AI, which is going to create
+7035000	7037000	new infrastructure
+7037000	7039000	dedicated to doing one thing
+7039000	7041000	and one thing only. Not for
+7041000	7043000	multi-user data centers, but
+7043000	7045000	AI generators. These AI
+7045000	7047000	generation will create
+7047000	7049000	incredibly valuable software.
+7049000	7051000	A new industrial
+7051000	7053000	revolution. Second, the computer
+7053000	7055000	of this revolution, the computer
+7055000	7057000	of this generation, generative
+7057000	7059000	AI, trillion parameters,
+7059000	7061000	Blackwell.
+7061000	7063000	Insane amounts of computers
+7063000	7065000	and computing. Third,
+7065000	7067000	I'm trying to concentrate.
+7069000	7071000	Good job.
+7071000	7073000	Third, new
+7073000	7075000	computer, new computer
+7075000	7077000	creates new types of software. New
+7077000	7079000	type of software should be distributed in a new
+7079000	7081000	way. So that it can, on the one
+7081000	7083000	hand, be an endpoint in the cloud and easy
+7083000	7085000	to use, but still allow you
+7085000	7087000	to take it with you. Because it is
+7087000	7089000	your intelligence. Your intelligence
+7089000	7091000	should be packaged up in a way
+7091000	7093000	that allows you to take it with you. We call
+7093000	7095000	them NIMS. And third, these
+7095000	7097000	NIMS are going to help you create
+7097000	7099000	a new type of application for the future.
+7099000	7101000	Not one that you wrote completely from
+7101000	7103000	scratch, but you're going to integrate
+7103000	7105000	them like teams.
+7105000	7107000	Create these applications. We have
+7107000	7109000	a fantastic capability
+7109000	7111000	between NIMS, the AI
+7111000	7113000	technology, the tools,
+7113000	7115000	NIMO, and the infrastructure DGX
+7115000	7117000	cloud in our AI
+7117000	7119000	foundry to help you create proprietary applications
+7119000	7121000	and proprietary chatbots. And then lastly,
+7121000	7123000	everything that moves in the future
+7123000	7125000	will be robotic. You're not going to be
+7125000	7127000	the only one. And these robotic
+7127000	7129000	systems, whether they are
+7129000	7131000	humanoid, AMRs,
+7131000	7133000	self-driving cars,
+7133000	7135000	forklifts, manipulating arms,
+7135000	7137000	they will all need one
+7137000	7139000	thing. Giant stadiums, warehouses,
+7139000	7141000	factories.
+7141000	7143000	There can be factories that are robotic,
+7143000	7145000	orchestrating factories, manufacturing
+7145000	7147000	lines that are robotics, building cars
+7147000	7149000	that are robotics. These
+7149000	7151000	systems all need one thing.
+7151000	7153000	They need a platform,
+7153000	7155000	a digital platform,
+7155000	7157000	a digital twin platform. And we call that
+7157000	7159000	omniverse, the operating system
+7159000	7161000	of the robotics world.
+7161000	7163000	These are the five things that we
+7163000	7165000	talked about today. What does NVIDIA
+7165000	7167000	look like? What does NVIDIA look like
+7167000	7169000	when we talk about GPUs?
+7169000	7171000	There's a very different image that I have
+7171000	7173000	when people ask me about GPUs.
+7173000	7175000	First, I see a bunch of software
+7175000	7177000	stacks and things like that. And second,
+7177000	7179000	I see this. This is
+7179000	7181000	what we announce to you today.
+7181000	7183000	This is Blackwell. This is
+7183000	7185000	the platform.
+7189000	7191000	Amazing, amazing processors,
+7191000	7193000	NVLink switches,
+7193000	7195000	networking systems,
+7195000	7197000	and the system design is a
+7197000	7199000	miracle. This is Blackwell.
+7199000	7201000	And this, to me, is what a GPU
+7201000	7203000	looks like in my mind.
+7203000	7205000	Thank you.
+7211000	7213000	Listen, orange, green,
+7213000	7215000	I think we have one more treat for everybody.
+7215000	7217000	What do you think? Should we?
+7219000	7221000	Okay, we have one more thing to show you.
+7221000	7223000	Roll it.
+7233000	7235000	Roll it.
+7237000	7239000	Roll it.
+7239000	7241000	Roll it.
+7241000	7243000	Roll it.
+7243000	7245000	Roll it.
+7245000	7247000	Roll it.
+7247000	7249000	Roll it.
+7249000	7251000	Roll it.
+7251000	7253000	Roll it.
+7263000	7265000	Roll it.
+7293000	7295000	Roll it.
+7295000	7297000	Roll it.
+7297000	7299000	Roll it.
+7299000	7301000	Roll it.
+7301000	7303000	Roll it.
+7303000	7305000	Roll it.
+7305000	7307000	Roll it.
+7307000	7309000	Roll it.
+7309000	7311000	Roll it.
+7311000	7313000	Roll it.
+7313000	7315000	Roll it.
+7317000	7319000	Roll it.
+7319000	7321000	Roll it.
+7321000	7323000	Roll it.
+7323000	7325000	Roll it.
+7325000	7327000	Roll it.
+7329000	7331000	Roll it.
+7333000	7335000	Roll it.
+7337000	7339000	1
+7339000	7341000	1
+7341000	7343000	1
+7343000	7345000	1
+7345000	7347000	1
+7347000	7349000	1
+7349000	7365860	Thank you, thank you, have a great, have a great GTC, thank you all for coming, thank
+7365860	7366140	you.
+7379000	7381000	Thank you, thank you, have a great, have a great GTC, thank you, have a great GTC, thank you.
+7409000	7411000	Thank you, thank you, have a great, have a great GTC, thank you.
+7439000	7441000	Thank you, thank you, have a great GTC, thank you.
