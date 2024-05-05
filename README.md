@@ -17,9 +17,9 @@ The book's code works with the new API (v1.0) that OpenAI recently updated. If y
 Before we start installation instructions, as outlined in the book, we assume you have installed the following basic dependencies. For most developers and data scientists, these would already be in place, and there might not be any additional steps needed. 
 
 Note: If any of these are missing and need step-by-step instructions, see detailed <a href="docs/detailed-instructions.md" target="_blank">dependency installation instructions</a>.
-* **IDE:** <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> or similar.
+* **IDE:** <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (or similar) 💻.
 * **Python:** Version `3.7.1` or later; we use version `3.11.3` for the book.
-  *  To check the Python version installed, run the following command: `python --version` 
+  *  To check the Python version installed, run: `python --version` 
 * **Package manager:** Although technically a package manager is  not needed, it would make things much easier to maintain. We use `conda` for the book, but you can use any you prefer.
 * **Git:** Given we are using GitHub, you need Git installed locally.
 
@@ -27,17 +27,17 @@ Note: If any of these are missing and need step-by-step instructions, see detail
 The steps to get the environment up and running can be found in the <a href="docs/installation.md" target="_blank">installation instructions</a>. 
 
 ## Where is the Code? :file_folder:
-The book's code is organized by chapters as expected and is in the folder called [`**chapters**`](chapters/readme.md). You will find a folder for each chapter following the convention of ch{chapter-number}.
+The book's code is organized by chapters as expected and is in the folder called [**`chapters`**](chapters/readme.md). You will find a folder for each chapter following the convention of ch{chapter-number}.
 
 You can find some utility functions and programs in the **`utils`** folder.
 
 ## Web Application :earth_americas:
 In addition to the code from the chapter, a fully functional web application brings all the different constructs together in an easy-to-navigate web application that you can run locally. The code for this can be found in the **`webapp`** folder. :panda_face:  
 
-**Note:** :warning: The web application is meant only as a reference to run locally and not exposed to the internet. It does not have all the necessary proxies and controls one would build when exposing an application to the internet.
+**Note:** :information_source: The web application is meant only as a reference to run locally and not exposed to the internet. It does not have all the necessary proxies and controls one would build when exposing an application to the internet.
 
-## Papers
-LLM and Generative AI are still quite new, and as a result, there is a fascinating list of very active research. You can find a pointer to many of these  in the paper folder. These are organized by Chapter to help you navigate. 
+## Papers :page_facing_up:
+LLM and Generative AI are still quite new, and as a result, there is a fascinating list of very active research. You can find a pointer to many of these  in the [**`paper`**](papers/readme.md) folder . These are organized by Chapter to help you navigate. 
 
 The reader is not expected to know these but as with most things, it is always good to go deeper and grok some of these concepts for a better and fuller understanding.
 
