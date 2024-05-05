@@ -9,9 +9,7 @@ This repo has a few things that might be of interest:
 
 | :warning: **Warning:** OpenAI API Breaking Changes |
 | --- |
-OpenAI recently updated its API, and the code in the book is incompatible with the new API (v1.0). Unfortunately, this new version introduces breaking changes, which, while insignificant, are still breaking. I am working on updating the code and will have it available soon. If you are doing a fresh installation and want to follow the code in the chapters, it might be best to pin the installation to the older API version (v0.28).
-If you are using pip, you can run the following command: `pip install openai==0.28.0`. Using conda, you can run the command: `conda install -c conda-forge openai=0.28.0`.
-
+The book's code works with the new API (v1.0) that OpenAI recently updated. If you have an old package version (v0.28), upgrade to the latest version for the code to work. To upgrade the package, you can run the following command: `pip install --upgrade openai`. If you are using conda, you can run the command: `conda update openai`.
 
 ## Core dependencies :minidisc:
 Before we start installation instructions, as outlined in the book, we assume you have installed the following basic dependencies. For most developers and data scientists, these would already be in place, and there might not be any additional steps needed. 
