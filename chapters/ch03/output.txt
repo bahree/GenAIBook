@@ -1,0 +1,124 @@
+import matplotlib.pyplot as plt
+
+# Create a figure and a set of subplots
+fig, ax = plt.subplots()
+
+# Set limits for x and y axes
+plt.xlim(0, 1)
+plt.ylim(0, 1)
+
+# Add labels for x and y axes
+ax.set_xlabel('Frequency Penalty (Common Phrases --> Uncommon Phrases)')
+ax.set_ylabel('Presence Penalty (Stick to Existing Topics --> Introduce New Topics)')
+
+# Add title
+ax.set_title('OpenAI Fine-Tuning Parameters')
+
+# Add grid
+ax.grid(True)
+
+# Add quadrant information
+plt.text(0.1, 0.7, 'High presence penalty, low frequency penalty\nModel sticks to existing topics and uses common phrases',
+         horizontalalignment='left', verticalalignment='center')
+plt.text(0.7, 0.7, 'High presence penalty, high frequency penalty\nModel sticks to existing topics but uses uncommon phrases',
+         horizontalalignment='left', verticalalignment='center')
+plt.text(0.1, 0.2, 'Low presence penalty, low frequency penalty\nModel introduces new topics and uses common phrases',
+         horizontalalignment='left', verticalalignment='center')
+plt.text(0.7, 0.2, 'Low presence penalty, high frequency penalty\nModel introduces new topics and uses uncommon phrases',
+         horizontalalignment='left', verticalalignment='center')
+
+# Show the plot
+plt.show()
+
+
+
+
+frequency_penalty and presence_penalty == 0
+
+Write a short story about a dog and a knight.
+
+Once upon a time, there was a brave knight named Sir Lancelot. He was a brave and noble knight, but he was also very lonely. He had no family and no one to share his adventures with.
+
+One day, while he was out on a quest, he stumbled upon a small puppy. The puppy was so cute and friendly that Sir Lancelot couldn't help but take him in. He named the puppy Arthur and the two of them quickly became best friends.
+
+Arthur was a loyal companion and went everywhere with Sir Lancelot. He even accompanied him on his quests and battles. He was always by his side, offering support and courage.
+
+The two of them went on many adventures together and became famous throughout the kingdom. Everyone knew of the brave knight and his loyal pup.
+
+Sir Lancelot and Arthur lived happily ever after, never having to worry about being lonely again. They were an inseparable team and were loved by all.
+
+===========================
+
+frequency_penalty = 1
+
+Write a short story about a dog and a knight.
+
+Once upon a time, there was a brave knight named Sir William. He had been travelling for many days and nights, and he was beginning to tire. As he rode through the forest, he noticed something unusual - a small dog that seemed to be following him.
+
+At first, Sir William tried to ignore the dog, but it kept following him no matter how fast or far he rode. Finally, Sir William stopped his horse and asked the dog what it wanted. The little pup simply barked in response and ran around in circles at his feet. 
+
+Sir William laughed as he watched the pup's antics before finally deciding to take it with him on his journey. The knight gave the pup a name - Braveheart - and from then on they were inseparable companions on their travels together throughout the kingdom of Camelot. 
+
+Braveheart proved himself to be an invaluable companion as they ventured through dangerous lands filled with dragons and other monsters that threatened their safety every step of the way. Whenever danger presented itself, Braveheart would bark fiercely until Sir William was able to fight off whatever foe had come against them. 
+
+The two eventually made it back home safely after many adventures together, where they lived happily ever after as best friends forevermore!
+
+==========================
+frequency_penalty == 1.5
+
+Write a short story about a dog and a knight.
+
+Once upon a time, there was a brave knight named Sir Lancelot. He had been on many adventures and had seen much of the world. One day, he came across an old abandoned castle and decided to explore it. 
+
+As he ventured deeper into the castle, he heard a whimpering sound coming from one of the rooms. When Sir Lancelot opened the door, he found an adorable puppy curled up in one corner of the room looking scared and alone. The knight felt sorry for him so decided to take him home with him as his new companion. 
+
+Sir Lancelot named his new friend Rover and took care of him like no other dog before; feeding him gourmet meals fit for royalty! Rover followed Sir Lancelot everywhere – whether it was on quests or just around town - always staying by his side faithfully like any good knight’s loyal companion should do! 
+
+The two became inseparable friends over time until one fateful day when they were attacked by bandits while out on their travels together… Fortunately for them both though, thanks to their combined strength they managed to fight off their attackers successfully without getting hurt too badly! After that incident, Sir Lancelot knew that having Rover around would be invaluable in keeping himself safe during future battles… And so began their lifelong friendship which would never be broken no matter what happened along life’s journey!
+
+===================================================
+
+presence_penalty == 1.0
+
+Write a short story about a dog and a knight.
+
+Once upon a time, there was a brave knight named Sir Lancelot. He had been traveling the countryside for many days and nights in search of adventure. One day, he came across a small village that was being terrorized by a fierce dragon. The villagers were terrified and had no idea how to stop the beast.
+
+Sir Lancelot vowed to protect the village and set out to face the dragon. As he rode through the forest, he heard a faint whimpering sound coming from nearby. Following the sound, he found a small puppy shivering in the cold. He scooped up the pup and brought him back to the village.
+
+The villagers welcomed the pup with open arms and named him Courage. Sir Lancelot took Courage with him on his quest to slay the dragon. As they approached the dragon's lair, Courage began to bark and growl fiercely. This gave Sir Lancelot the courage he needed to face the dragon head-on.
+
+With Courage at his side, Sir Lancelot was able to defeat the dragon and save the village. From then on, Courage was known as the bravest dog in all the land. He stayed by Sir Lancelot's side for the rest of his days, providing companionship and protection wherever they went. 
+
+The villagers always said that it was Courage who gave Sir Lancelot the strength to defeat the dragon. Without him, the village would have surely been destroyed.
+
+
+=============================
+
+presence_penalty == 1.5
+Write a short story about a dog and a knight.
+
+Once upon a time, there was a brave knight named Sir Lancelot. He was known far and wide for his courage and strength in battle. One day, while riding through the countryside, he came across a small dog that had been abandoned by its owners. Sir Lancelot felt sorry for the poor pup and decided to take it with him on his journey.
+
+The two quickly became fast friends, and the knight found himself looking forward to their adventures together. Everywhere they went, people would stop and admire the brave knight and his loyal companion.
+
+One day, as they were traveling, they encountered a fierce dragon that threatened to destroy the village nearby. Sir Lancelot knew he must act quickly to save the villagers, so he grabbed his sword and charged at the beast. The dog followed close behind, barking and snarling at the dragon.
+
+Together, the knight and his canine companion managed to slay the dragon and protect the village. Everyone cheered for the heroic duo, and from then on, Sir Lancelot and his faithful dog were known throughout the land as the bravest of heroes.
+
+=========================================
+both == 1.5 
+
+Write a short story about a dog and a knight.
+
+Once upon a time, there was a brave knight named Sir William. He lived in the kingdom of Gildon and had sworn to protect it from any danger that may come its way. 
+
+One day, while patrolling the borders of his kingdom, he heard barking coming from within an old abandoned castle nearby. As he ventured closer to investigate what was causing such noise, he found himself face-to-face with a large black dog who seemed quite eager for attention! The knight realized this must be some kind of magical creature as no ordinary animal would be living inside such ruins all alone. 
+
+Sir William cautiously approached the canine and asked him why he was here so far away from home? To which the pup replied “I am looking for someone special - someone who can help me on my quest” The knight inquired further but before long it became clear that this mission involved something much bigger than either one could have imagined…  
+ 
+The pup explained how years ago his master had been cursed by an evil witch and now lay trapped deep within her tower guarded by powerful enchantments; only true courage could break these spells and free him once more! Knowing full well what dangers awaited them both should they fail their task, Sir William agreed without hesitation to join forces with his new companion in order to save his master's life!   
+
+Together they set off on their journey across many lands filled with monsters & villains alike until eventually reaching the dreaded Witch's Tower whereupon using every ounce of strength & bravery available between them were able to finally defeat her wickedness forevermore thus freeing not just one soul but two – Master & Dog reunited at last after so very long apart!!    
+
+From then onwards Sir William always kept close beside him wherever he went; even when fighting dragons or rescuing princesses – ever loyal friend indeed :)

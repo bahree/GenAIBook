@@ -1,0 +1,7 @@
+﻿openai==0.28.0
+python-dotenv
+streamlit
+streamlit-chat
+tiktoken
+requests
+pillow

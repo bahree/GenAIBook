@@ -1,0 +1,2 @@
+Extract the first name, company name, location, email, and phone number from the text below.
+Hello. My name is Amit Bahree. I’m calling from Acme Insurance, Bellevue, WA. My colleague mentioned that you are interested in learning about our comprehensive benefits policy. Could you give me a call back at (555) 111-2222 when you get a chance so we can go over the benefits? I can be reached Monday to Friday during normal business hours of PST. If you want you can also try and reach me on emails at aweomseinsrance@acme.com. Thanks, Amit.

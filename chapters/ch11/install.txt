@@ -1,0 +1,13 @@
+conda install -c conda-forge mlflow
+pip install mlflow
+
+conda install -c conda-forge prometheus_client
+pip install prometheus_client
+
+docker run -p 9090:9090 prom/prometheus
+
+
+conda install argparse openai tiktoken numpy backoff wonderwords asyncio aiohttp
+conda install numpy backoff aiohttp
+pip install argparse wonderwords asyncio
+

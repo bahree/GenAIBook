@@ -1,0 +1,99 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Start App",
+            "type": "dotenv",
+            "targetTasks": [
+              "Start App (Script)"
+            ],
+            "file": "${input:dotEnvFilePath}"
+        },
+        {
+            "label": "Start App (Script)",
+            "type": "shell",
+            "command": "${workspaceFolder}/app/start.sh",
+            "windows": {
+                "command": "pwsh ${workspaceFolder}/app/start.ps1"
+            },
+            "presentation": {
+                "reveal": "silent"
+            },
+            "options": {
+                "cwd": "${workspaceFolder}/app"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Start App (VS Code)",
+            "dependsOrder": "parallel",
+            "dependsOn": [
+              "Data service: Start",
+              "Backend: Start", 
+              "Frontend: Start"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "pip install dependencies",
+            "type": "shell",
+            "command": "${command:python.interpreterPath} -m pip install -r requirements.txt",
+            "problemMatcher": [],
+            "options": {
+                "cwd": "${workspaceFolder}/app"
+            }
+        },
+        {
+            "label": "Data service: Start",
+            "type": "shell",
+            "command": "pwsh ./scripts/launchPythonWithEnvVars.ps1 ${command:python.interpreterPath} app/data/app.py",
+            "problemMatcher": [],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "dependsOn": [
+              "pip install dependencies"
+            ]
+        },
+        {
+            "label": "Backend: Start",
+            "type": "shell",
+            "command": "pwsh ./scripts/launchPythonWithEnvVars.ps1 ${command:python.interpreterPath} app/backend/app.py",
+            "problemMatcher": [],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "dependsOn": [
+              "pip install dependencies"
+            ],
+            "detail": "Install virtual env [Python: Create Environment...] and select in VS Code [Python: Select Interpreter]"
+        },
+        {
+            "label": "Frontend: npm install",
+            "type": "shell",
+            "command": "npm install",
+            "options": {
+                "cwd": "${workspaceFolder}/app/frontend"
+            },
+            "problemMatcher": ["$node-sass"]
+        },
+        {
+            "label": "Frontend: Start",
+            "type": "shell",
+            "command": "npm run build",
+            "options": {
+                "cwd": "${workspaceFolder}/app/frontend"
+            },
+            "dependsOn": "Frontend: npm install",
+            "problemMatcher": ["$node-sass"]
+        }
+
+    ],
+    "inputs": [
+        {
+            "id": "dotEnvFilePath",
+            "type": "command",
+            "command": "azure-dev.commands.getDotEnvFilePath"
+        }
+    ]
+}

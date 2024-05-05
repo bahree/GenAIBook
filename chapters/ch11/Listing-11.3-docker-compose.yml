@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:latest
+    command: mlflow server --backend-store-uri /mlflow/mlruns --default-artifact-root /mlflow/artifacts --host 0.0.0.0
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./mlflow/mlruns:/mlflow/mlruns
+      - ./mlflow/artifacts:/mlflow/artifacts
+
+  prometheus:
+    image: prom/prometheus:latest
+    command: --config.file=/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./prometheus/data:/prometheus/data
+    depends_on:
+      - mlflow
+
+# docker-compose up -d
+# docker run -p 9090:9090 -v .\prometheus.yml:/etc/prometheus/prometheus.yml -v .\prometheus\data:/prometheus/data prom/prometheus --config.file=/etc/prometheus/prometheus.yml

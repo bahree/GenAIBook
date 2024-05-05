@@ -1,0 +1,314 @@
+[
+  {
+      "id": "ada",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "babbage",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "curie",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "dall-e-3-3.0",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "davinci",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-ada-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-babbage-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-curie-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-davinci-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-davinci-002",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo-0301",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo-0613",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo-1106",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4-1106-Preview",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo-instruct-0914",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo-16k-0613",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4-0314",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4-0613",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4-32k-0314",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4-32k-0613",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-davinci-003",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-davinci-fine-tune-002",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-cushman-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-cushman-fine-tune-002",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-davinci-002",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-davinci-fine-tune-002",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-similarity-ada-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-similarity-babbage-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-similarity-curie-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-similarity-davinci-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-ada-doc-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-ada-query-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-babbage-doc-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-babbage-query-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-curie-doc-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-curie-query-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-davinci-doc-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-search-davinci-query-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-search-ada-code-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-search-ada-text-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-search-babbage-code-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "code-search-babbage-text-001",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-embedding-ada-002",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-embedding-ada-002-2",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4-vision-preview",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "dall-e-3",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo-instruct",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-35-turbo-16k",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "gpt-4-32k",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  },
+  {
+      "id": "text-embedding-ada-002",
+      "created": null,
+      "object": "model",
+      "owned_by": null
+  }
+]

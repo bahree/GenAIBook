@@ -1,0 +1,1850 @@
+I am a visionary.
+Illuminating galaxies to witness the birth of stars.
+Sharpening our understanding of extreme weather events.
+I am a helper.
+Guiding the blind through a crowded world.
+I was thinking about running to the store.
+And giving voice to those who cannot speak.
+To not make me laugh.
+I am a transformer.
+Harnessing gravity to store renewable power.
+And paving the way towards unlimited clean energy for us all.
+I am a trainer.
+Teaching robots to assist.
+To watch out for danger.
+And help save lives.
+I am a healer.
+Providing a new generation of cures.
+And new levels of patient care.
+Doctor, that I am allergic to penicillin.
+Is it still okay to take the medications?
+Definitely.
+These antibiotics don't contain penicillin.
+So it's perfectly safe for you to take them.
+I am a navigator.
+Generating virtual scenarios.
+To let us safely explore the real world.
+And understand every decision.
+I even helped write the script.
+Breathe life into the words.
+En muchos idiomas.
+Y escribí la música.
+I am AI.
+Brought to life by NVIDIA.
+Deep learning.
+And brilliant minds.
+Everywhere.
+Please welcome to the stage NVIDIA founder and CEO Jensen Wong.
+Welcome to GTC.
+I hope you realize this is not a concert.
+You have arrived at a developer's conference.
+There will be a lot of science described.
+Algorithms.
+Computer architecture.
+Mathematics.
+I sensed a very heavy weight in the room all of a sudden.
+Almost like you were in the wrong place.
+No conference in the world is there a greater assembly of researchers from such diverse fields of science.
+From climate tech to radio sciences trying to figure out how to use AI to robotically control MIMOs for next generation 6G radios.
+Robotic self-driving cars.
+Even artificial intelligence.
+Even artificial intelligence.
+First I noticed a sense of relief there all of a sudden.
+Also this conference is represented by some amazing companies.
+This list, this is not the attendees.
+These are the presenters.
+And what's amazing is this.
+If you take away all of my friends, close friends, Michael Dell is sitting right there.
+In the IT industry.
+All of the friends I grew up with in the industry.
+If you take away that list, this is what's amazing.
+These are the presenters of the non-IT industries using accelerated computing to solve problems that normal computers can't.
+It's represented in life sciences, healthcare, genomics, transportation of course, retail, logistics, manufacturing, industrial.
+The gamut of industries represented is truly amazing.
+And you're not here to attend, only you're here to present.
+To talk about your research.
+$100 trillion of the world's industries is represented in this room today.
+This is absolutely amazing.
+There is absolutely something happening.
+There is something going on.
+The industry is being transformed, not just ours.
+Because the computer industry, the computer is the single most important instrument of society today.
+Fundamental transformations in computing affects every industry.
+But how did we start?
+How did we get here?
+I made a little cartoon for you.
+Literally I drew this.
+In one page, this is Nvidia's journey.
+Started in 1993.
+This might be the rest of the talk.
+1993.
+This is our journey.
+We were founded in 1993.
+There are several important events that happened along the way.
+I'll just highlight a few.
+In 2006, CUDA, which has turned out to have been a revolutionary computing model.
+We thought it was revolutionary then.
+It was going to be an overnight success.
+And almost 20 years later it happened.
+We saw it coming.
+Two decades later.
+In 2012, AlexNet, AI and CUDA made first contact.
+In 2016, recognizing the importance of this computing model, we invented a brand new type of computer.
+We called it DGX1.
+170 teraflops in this supercomputer.
+8 GPUs connected together for the very first time.
+I hand delivered the very first DGX1 to a startup located in San Francisco called OpenAI.
+DGX1 was the world's first AI supercomputer.
+Remember, 170 teraflops.
+2017, the transformer arrived.
+2022, chat GPT captured the world's imaginations.
+Have people realize the importance and the capabilities of artificial intelligence.
+In 2023, generative AI emerged.
+And a new industry begins.
+Why?
+Why is a new industry?
+Because the software never existed before.
+We are now producing software.
+Using computers to write software.
+Producing software that never existed before.
+It is a brand new category.
+It took share from nothing.
+It's a brand new category.
+And the way you produce the software is unlike anything we've ever done before.
+In data centers, generating tokens, producing floating point numbers at very large scale.
+As if in the beginning of this last industrial revolution,
+When people realized that you would set up factories, apply energy to it.
+And this invisible valuable thing called electricity came out.
+AC generators.
+And 100 years later, 200 years later, we are now creating new types of electrons.
+Tokens.
+Using infrastructure we call factories, AI factories,
+To generate this new incredibly valuable thing called artificial intelligence.
+A new industry has emerged.
+Well, we're going to talk about many things about this new industry.
+We're going to talk about how we're going to do computing next.
+We're going to talk about the type of software that you build because of this new industry.
+The new software.
+How you would think about this new software.
+What about applications in this new industry?
+And then maybe what's next?
+And how can we start preparing today for what is about to come next?
+Well, but before I start, I want to show you the soul of NVIDIA.
+The soul of our company.
+At the intersection of computer graphics, physics, and artificial intelligence,
+all intersecting inside a computer, in Omniverse, in a virtual world simulation.
+Everything we're going to show you today, literally everything we're going to show you today,
+is a simulation, not animation.
+It's only beautiful because it's physics.
+The world is beautiful.
+It's only amazing because it's being animated with robotics.
+It's being animated with artificial intelligence.
+What you're about to see all day is completely generated, completely simulated in Omniverse.
+And all of it, what you're about to enjoy is the world's first concert where everything is homemade.
+Everything is homemade.
+You're about to watch some home videos.
+So sit back and enjoy yourself.
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+The World of NVIDIA
+God, I love NVIDIA.
+Accelerated computing has reached the tipping point.
+General purpose computing has run out of steam.
+We need another way of doing computing so that we can continue to scale,
+so that we can continue to drive down the cost of computing,
+so that we can continue to consume more and more computing while being sustainable.
+Accelerated computing is a dramatic speed up over general purpose computing.
+And in every single industry we engage, and I'll show you many,
+the impact is dramatic.
+But in no industry is it more important than our own.
+The industry of using simulation tools to create products.
+In this industry, it is not about driving down the cost of computing,
+it's about driving up the scale of computing.
+We would like to be able to simulate the entire product that we do,
+completely in full fidelity, completely digitally,
+and essentially what we call digital twins.
+We would like to design it, build it, simulate it, operate it, completely digitally.
+In order to do that, we need to accelerate an entire industry.
+And today, I would like to announce that we have some partners who are joining us in this journey
+to accelerate their entire ecosystem,
+so that we can bring the world into accelerated computing.
+But there's a bonus.
+When you become accelerated, your infrastructure is Cuda GPUs.
+And when that happens, it's exactly the same infrastructure for generative AI.
+And so I'm just delighted to announce several very important partnerships.
+There are some of the most important companies in the world.
+Ansys does engineering simulation for what the world makes.
+We're partnering with them to Cuda accelerate the Ansys ecosystem,
+to connect Ansys to the omniverse digital twin.
+Incredible.
+The thing that's really great is that the install base of video GPU accelerated systems are all over the world,
+in every cloud, in every system, all over enterprises.
+And so the applications they accelerate will have a giant install base to go serve.
+End users will have amazing applications.
+And of course, system makers and CSPs will have great customer demand.
+Synopsys.
+Synopsys is NVIDIA's literally first software partner.
+They were there on the very first day of our company.
+Synopsys revolutionized the chip industry with high-level design.
+We are going to Cuda accelerate Synopsys.
+We're accelerating computational lithography, one of the most important applications that nobody's ever known about.
+In order to make chips, we have to push lithography to a limit.
+NVIDIA has created a library, a domain-specific library, that accelerates computational lithography.
+Incredibly.
+Once we can accelerate and software-define all of TSMC, who is announcing today that they're going to go into production with NVIDIA CULIFO,
+once the software defined and accelerated, the next step is to apply generative AI to the future of semiconductor manufacturing, pushing geometry even further.
+Cadence builds the world's essential EDA and SDA tools.
+We also use cadence.
+Between these three companies, Ansys, Synopsys and Cadence, we basically build NVIDIA.
+Together, we are Cuda accelerating Cadence.
+They're also building a supercomputer out of NVIDIA GPUs so that their customers could do fluid dynamic simulation at a hundred, a thousand times scale.
+Basically, a wind tunnel in real time.
+Cadence Millennium, a supercomputer with NVIDIA GPUs inside.
+A software company building supercomputers.
+I love seeing that.
+Building Cadence co-pilots together.
+Imagine a day when Cadence, Synopsys, Ansys tool providers would offer you AI co-pilots so that we have thousands and thousands of co-pilot assistants helping us design chips, design systems.
+And we're also going to connect Cadence Digital Twin Platform to Omniverse.
+As you can see the trend here, we're accelerating the world's CAE, EDA and SDA so that we could create our future in digital twins.
+And we're going to connect them all to Omniverse, the fundamental operating system for future digital twins.
+One of the industries that benefited tremendously from scale, and you know, you all know this one very well, large language models.
+Basically, after the transformer was invented, we were able to scale large language models at incredible rates, effectively doubling every six months.
+Now, how is it possible that by doubling every six months that we have grown the industry, we have grown the computational requirements so far?
+And the reason for that is quite simply this.
+If you double the size of the model, you double the size of your brain, you need twice as much information to go fill it.
+And so every time you double your parameter count, you also have to appropriately increase your training token count.
+The combination of those two numbers becomes the computation scale you have to support.
+The latest, the state-of-the-art OpenAI model is approximately 1.8 trillion parameters.
+1.8 trillion parameters required several trillion tokens to go train.
+So a few trillion parameters on the order of a few trillion tokens on the order of when you multiply the two of them together,
+approximately 30, 40, 50 billion quadrillion floating point operations per second.
+Now, we just have to do some CO math right now.
+Just hang with me.
+So you have 30 billion quadrillion.
+A quadrillion is like a PETA.
+And so if you had a PETA flop GPU, you would need 30 billion seconds to go compute, to go train that model.
+30 billion seconds is approximately 1,000 years.
+Well, 1,000 years, it's worth it.
+I'd like to do it sooner, but it's worth it.
+Which is usually my answer when most people tell me, hey, how long is it going to take to do something?
+So we've got 20 years. It's worth it.
+But can we do it next week?
+And so 1,000 years, 1,000 years.
+So what we need, what we need are bigger GPUs.
+We need much, much bigger GPUs.
+We recognized this early on, and we realized that the answer is to put a whole bunch of GPUs together.
+And, of course, innovate a whole bunch of things along the way, like inventing tensor cores,
+advancing MV links so that we could create essentially virtually giant GPUs,
+and connecting them all together with amazing networks from a company called Mellanox,
+InfiniBand, so that we could create these giant systems.
+And so DGX1 was our first version, but it wasn't the last.
+We built supercomputers all the way, all along the way.
+In 2021, we had Selene, 4,500 GPUs or so.
+And then in 2023, we built one of the largest AI supercomputers in the world.
+It's just come online, EOS.
+And as we're building these things, we're trying to help the world build these things.
+And in order to help the world build these things, we got to build them first.
+We build the chips, the systems, the networking, all of the software necessary to do this.
+You should see these systems.
+Imagine writing a piece of software that runs across the entire system,
+distributing the computation across thousands of GPUs,
+but inside are thousands of smaller GPUs, millions of GPUs to distribute work across all of that
+and to balance the workload so that you can get the most energy efficiency,
+the best computation time, keep your costs down.
+And so those fundamental innovations is what got us here.
+And here we are as we see the miracle of CHAT GPT emerge in front of us.
+We also realize we have a long ways to go.
+We need even larger models.
+We're going to train it with multimodality data, not just text on the Internet,
+but we're going to train it on text and images and graphs and charts.
+And just as we learn, watching TV.
+And so there's going to be a whole bunch of watching video so that these models can be grounded in physics,
+understands that an arm doesn't go through a wall.
+And so these models would have common sense by watching a lot of the world's video
+combined with a lot of the world's languages.
+It'll use things like synthetic data generation, just as you and I do.
+When we try to learn, we might use our imagination to simulate how it's going to end up,
+just as I did when I was preparing for this keynote.
+I was simulating it all along the way.
+I hope it's going to turn out as well as I had it in my head.
+As I was simulating how this keynote was going to turn out,
+somebody did say that another performer did her performance completely on a treadmill
+so that she could be in shape to deliver it with full energy.
+I didn't do that.
+If I get a little wind in about 10 minutes into this, you know what happens.
+If I get a little wind in about 10 minutes into this, you know what happens.
+And so where were we?
+We're sitting here using synthetic data generation.
+We're going to use reinforcement learning.
+We're going to practice it in our mind.
+We're going to have AI working with AI training each other, just like student, teacher, debaters.
+All of that is going to increase the size of our model.
+It's going to increase the amount of data that we have,
+and we're going to have to build even bigger GPUs.
+Hopper is fantastic, but we need bigger GPUs.
+And so, ladies and gentlemen, I would like to introduce you to a very, very big GPU.
+Named after David Blackwell, mathematician, game theorist, probability.
+We thought it was a perfect name.
+Blackwell, ladies and gentlemen, enjoy this.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Blackwell is not a chip.
+Blackwell is the name of a platform.
+People think we make GPUs, and we do, but GPUs don't look the way they used to.
+Here's, if you will, the heart of the Blackwell system,
+and this inside the company is not called Blackwell, it's just a number.
+And this, this is Blackwell sitting next to, oh, this is the most advanced GPU in the world in production today.
+This is Hopper.
+This is Hopper.
+Hopper changed the world.
+This is Blackwell.
+It's okay, Hopper.
+You're very good.
+Good boy.
+Well, good girl.
+208 billion transistors, and so you could see, I can see, there's a small line between two dyes.
+This is the first time two dyes have abutted like this together in such a way that the two dyes think it's one chip.
+There's 10 terabytes of data between it, 10 terabytes per second,
+so that these two sides of the Blackwell chip have no clue which side they're on.
+There's no memory locality issues, no cache issues.
+It's just one giant chip.
+And so when we were told that Blackwell's ambitions were beyond the limits of physics, the engineers said, so what?
+And so this is what happened.
+And so this is the Blackwell chip, and it goes into two types of systems.
+The first one is form-fit function compatible to Hopper.
+And so you slide on Hopper, and you push in Blackwell.
+That's the reason why one of the challenges of ramping is going to be so efficient.
+There are installations of Hoppers all over the world, and they could be the same infrastructure, same design.
+The power, the electricity, the thermals, the software, identical, push it right back.
+And so this is a Hopper version for the current HGX configuration.
+And this is what the second Hopper looks like this.
+Now, this is a prototype board.
+And Janine, could I just borrow?
+Ladies and gentlemen, Janine Paul.
+And so this is a fully functioning board.
+And I'll just be careful here.
+This right here is, I don't know, $10 billion?
+The second one's five.
+It gets cheaper after that, so any customers in the audience, it's OK.
+All right, but this one's quite expensive.
+This is the bring-up board.
+And the way it's going to go to production is like this one here.
+And so you're going to take this.
+It has two Blackwell chips and four Blackwell dies connected to a Grace CPU.
+The Grace CPU has a super-fast chip-to-chip link.
+What's amazing is this computer is the first of its kind where this much computation, first of all, fits into this small of a place.
+Second, it's memory coherent.
+They feel like they're just one big happy family working on one application together.
+And so everything is coherent within it.
+Just the amount of, you know, you saw the numbers.
+There's a lot of terabytes this and terabytes that.
+But this is a miracle.
+This is this.
+Let's see, what are some of the things on here?
+There's an MV link on top, PCI Express on the bottom, on your, which one is mine, and your left.
+One of them, it doesn't matter.
+One of them is a CPU chip-to-chip link.
+It's my left or your, depending on which side.
+I was trying to sort that out and I just kind of, it doesn't matter.
+Hopefully it comes plugged in, so.
+Okay, so this is the Grace Blackwell system.
+But there's more.
+So it turns out, it turns out all of the specs is fantastic, but we need a whole lot of new features.
+In order to push the limits beyond, if you will, the limits of physics.
+We would like to always get a lot more X-factors.
+And so one of the things that we did was we invented another transformer engine.
+Another transformer engine, the second generation.
+It has the ability to dynamically and automatically rescale and recast numerical formats to a lower precision whenever it can.
+Remember, artificial intelligence is about probability.
+And so you kind of have, you know, 1.7, approximately 1.7 times approximately 1.4 to be approximately something else.
+Does that make sense?
+And so the ability for the mathematics to retain the precision and the range necessary in that particular stage of the pipeline, super important.
+And so this is, it's not just about the fact that we designed a smaller ALU.
+The world's not quite that simple.
+You've got to figure out when you can use that across a computation that is thousands of GPUs.
+It's running for weeks and weeks and weeks, and you want to make sure that the training job is going to converge.
+And so this new transformer engine, we have a fifth generation NVLink.
+It's now twice as fast as Hopper, but very importantly, it has computation in the network.
+And the reason for that is because when you have so many different GPUs working together, we have to share our information with each other.
+We have to synchronize and update each other.
+And every so often, we have to reduce the partial products and then rebroadcast out the partial products, the sum of the partial products back to everybody else.
+And so there's a lot of what is called all reduce and all to all and all gather.
+It's all part of this area of synchronization and collectives so that we can have GPUs working with each other.
+Having extraordinarily fast links and being able to do mathematics right in the network allows us to essentially amplify even further.
+So even though it's one point eight terabytes per second, it's effectively higher than that.
+And so it's many times that of Hopper.
+The likelihood of a supercomputer running for weeks on end is approximately zero.
+And the reason for that is because there's so many components working at the same time.
+The statistic, the probability of them working continuously is very low.
+And so we need to make sure that whenever there is a well, we checkpoint and restart as often as we can.
+But if we have the ability to detect a weak chip or a weak note early, we can retire it and maybe swap in another processor.
+That ability to keep the utilization of the supercomputer high, especially when you just spent two billion dollars building it, is super important.
+And so we put in a RAS engine, a reliability engine that does a hundred percent self-test in system test of every single gate,
+every single bit of memory on the Blackwell chip and all the memory that's connected to it.
+It's almost as if we shipped with every single chip its own advanced tester that we test our chips with.
+This is the first time we're doing this. Super excited about it.
+Secure AI.
+Only this conference do they clap for RAS.
+The secure AI.
+Obviously, you've just spent hundreds of millions of dollars creating a very important AI.
+And the code, the intelligence of that AI is encoded into parameters.
+You want to make sure that on the one hand, you don't lose it. On the other hand, it doesn't get contaminated.
+And so we now have the ability to encrypt data, of course, at rest, but also in transit and while it's being computed.
+It's all encrypted. And so we now have the ability to encrypt and transmission.
+And when we're computing it, it is in a trusted, trusted environment, trusted engine environment.
+And the last thing is decompression.
+Moving data in and out of these nodes when the compute is so fast becomes really essential.
+And so we've put in a high line speed compression engine and effectively moves data 20 times faster in and out of these computers.
+These computers are so powerful and there's such a large investment, the last thing we want to do is have them be idle.
+And so all of these capabilities are intended to keep Blackwell fed and as busy as possible.
+Overall, compared to Hopper, it is two and a half times, two and a half times the FP8 performance for training per chip.
+It also has this new format called FP6 so that even though the computation speed is the same,
+the bandwidth that's amplified because of the memory, the amount of parameters you can store in the memory is now amplified.
+FP4 effectively doubles the throughput. This is vitally important for inference.
+One of the things that is becoming very clear is that whenever you use a computer with AI on the other side,
+when you're chatting with the chatbot, when you're asking it to review or make an image,
+remember in the back is a GPU generating tokens.
+Some people call it inference, but it's more appropriately generation.
+The way that computing has done in the past was retrieval.
+You would grab your phone, you would touch something, some signals go off, basically an email goes off to some storage somewhere.
+There's pre-recorded content, somebody wrote a story or somebody made an image or somebody recorded a video.
+That record pre-recorded content is then streamed back to the phone and recomposed in a way based on a recommender system to present the information to you.
+You know that in the future, the vast majority of that content will not be retrieved.
+And the reason for that is because that was pre-recorded by somebody who doesn't understand the context,
+which is the reason why we have to retrieve so much content.
+If you can be working with an AI that understands the context, who you are, for what reason you're fetching this information,
+and produces the information for you just the way you like it,
+the amount of energy we save, the amount of networking bandwidth we save, the amount of waste of time we save will be tremendous.
+The future is generative, which is the reason why we call it generative AI, which is the reason why this is a brand new industry.
+The way we compute is fundamentally different.
+We created a processor for the generative AI era.
+And one of the most important parts of it is content token generation.
+We call it, this format is FP4.
+Well, that's a lot of computation.
+5X, the token generation, 5X, the inference capability of Hopper seems like enough.
+But why stop there?
+The answer is it's not enough.
+And I'm going to show you why.
+I'm going to show you why.
+And so we would like to have a bigger GPU, even bigger than this one.
+And so we decided to scale it.
+And notice, but first, let me just tell you how we've scaled.
+Over the course of the last eight years, we've increased computation by 1,000 times, eight years, 1,000 times.
+Remember, back in the good old days of Moore's Law, it was 2X, well, 5X every, what, 10X every five years.
+That's easiest math.
+10X every five years, 100 times every 10 years, 100 times every 10 years.
+In the middle of the heydays of the PC revolution, 100 times every 10 years.
+In the last eight years, we've gone 1,000 times.
+We have two more years to go.
+And so that puts it in perspective.
+The rate at which we're advancing computing is insane.
+And it's still not fast enough, so we built another chip.
+This chip is just an incredible chip.
+We call it the NVLink switch.
+It's 50 billion transistors.
+It's almost the size of Hopper all by itself.
+This switch chip has four NVLinks in it, each 1.8 terabytes per second.
+And it has computation in it, as I mentioned.
+What is this chip for?
+If we were to build such a chip, we can have every single GPU talk to every other GPU at full speed at the same time.
+That's insane.
+It doesn't even make sense.
+But if you could do that, if you can find a way to do that and build a system to do that that's cost-effective,
+how incredible would it be that we could have all these GPUs connect over a coherent link so that they effectively are one giant GPU?
+Well, one of the great inventions in order to make it cost-effective is that this chip has to drive copper directly.
+The surities of this chip is just a phenomenal invention so that we could do direct drive to copper.
+And as a result, you can build a system that looks like this.
+Now, this system is kind of insane.
+This is one DGX.
+This is what a DGX looks like now.
+Remember, just six years ago, it was pretty heavy, but I was able to lift it.
+I delivered the first DGX1 to OpenAI, and the researchers there, the pictures are on the internet, and we all autographed it.
+And if you come to my office, it's autographed there.
+It's really beautiful.
+But you can lift it.
+This DGX, this DGX, that DGX, by the way, was 170 teraflops.
+If you're not familiar with the numbering system, that's 0.17 petaflops.
+So this is 720.
+The first one I delivered to OpenAI was 0.17.
+You can round it up to 0.2. It won't make any difference.
+But by then, it was like, wow, you know, 30 more teraflops.
+And so this is now 720 petaflops, almost an exaflop for training, and the world's first one exaflops machine in one rack.
+Just so you know, there are only a couple, two, three exaflops machines on the planet as we speak.
+And so this is an exaflops AI system in one single rack.
+Well, let's take a look at the back of it.
+So this is what makes it possible.
+That's the back, that's the back, the DGX MV link spine.
+130 terabytes per second goes to the back of that chassis.
+That is more than the aggregate bandwidth of the internet.
+So we could basically send everything to everybody within a second.
+And so we have 5,000 cables, 5,000 MV link cables in total two miles.
+Now, this is the amazing thing. If we had to use optics, we would have had to use transceivers and retimers.
+And those transceivers and retimers alone would have cost 20,000 watts, two kilowatts of just transceivers alone, just to drive the MV link spine.
+As a result, we did it completely for free over MV link switch, and we were able to save the 20 kilowatts for computation.
+This entire rack is 120 kilowatts, so that 20 kilowatts makes a huge difference.
+It's liquid cooled. What goes in is 25 degrees C about room temperature.
+What comes out is 45 degrees C about your jacuzzi.
+So room temperature goes in, jacuzzi comes out, two liters per second.
+We could sell a peripheral.
+600,000 parts.
+Somebody used to say, you know, you guys make GPUs, and we do, but this is what a GPU looks like to me.
+When somebody says GPU, I see this.
+Two years ago, when I saw a GPU, it was the HGX. It was 70 pounds, 35,000 parts.
+Our GPUs now are 600,000 parts and 3,000 pounds, 3,000 pounds, 3,000 pounds.
+That's kind of like the weight of a, you know, carbon fiber Ferrari.
+I don't know if that's a useful metric, but everybody's going, I feel it.
+I feel it. I get it. I get that.
+Now that you mention that, I feel it.
+I don't know what's 3,000 pounds.
+Okay, so 3,000 pounds, ton and a half.
+So it's not quite an elephant.
+So this is what a DGX looks like.
+Now let's see what it looks like in operation.
+Okay, let's imagine, how do we put this to work and what does that mean?
+Well, if you were to train a GPT model, 1.8 trillion parameter model,
+it took about, apparently about three to five months or so with 25,000 amperes.
+If we were to do it with Hopper, it would probably take something like 8,000 GPUs
+and it would consume 15 megawatts, 8,000 GPUs and 15 megawatts.
+It would take 90 days, about three months.
+And that would allow you to train something that is, you know, this groundbreaking AI model.
+And this is obviously not as expensive as anybody would think, but it's 8,000 GPUs.
+It's still a lot of money.
+And so 8,000 GPUs, 15 megawatts.
+If you were to use Blackwell to do this, it would only take 2,000 GPUs.
+2,000 GPUs, same 90 days, but this is the amazing part.
+Only four megawatts of power.
+So from 15, that's right.
+And that's our goal.
+Our goal is to continuously drive down the cost and the energy.
+They're directly proportional to each other.
+Cost and energy associated with the computing so that we can continue to expand
+and scale up the computation that we have to do to train the next generation models.
+Well, this is training.
+Inference or generation is vitally important going forward.
+You know, probably some half of the time that NVIDIA GPUs are in the cloud these days,
+it's being used for token generation.
+You know, they're either doing co-pilot this or, you know, chat GPT that
+or all these different models that are being used when you're interacting with it
+or generating images or generating videos, generating proteins, generating chemicals.
+There's a bunch of generation going on.
+All of that is in the category of computing we call inference.
+But inference is extremely hard for large language models
+because these large language models have several properties.
+One, they're very large.
+And so it doesn't fit on one GPU.
+This is, imagine Excel doesn't fit on one GPU, you know?
+And imagine some application you're running on a daily basis doesn't fit on one computer.
+Like a video game doesn't fit on one computer.
+And most, in fact, do.
+And many times in the past, hyper-scale computing,
+many applications for many people fit on the same computer.
+And now, all of a sudden, this one inference application
+where you're interacting with this chatbot,
+that chatbot requires a supercomputer in the back to run it.
+And that's the future.
+The future is generative with these chatbots,
+and these chatbots are trillions of tokens, trillions of parameters,
+and they have to generate tokens at interactive rates.
+Now, what does that mean?
+Oh, well, three tokens is about a word.
+You know, the space, the final frontier, these are the adventures.
+That's like 80 tokens.
+Okay?
+I don't know if that's useful to you.
+And so, you know, the art of communications is selecting good analogies.
+Yeah, this is not going well.
+Everyone's like, I don't know what he's talking about.
+Never seen Star Trek.
+And so, here we are, we're trying to generate these tokens.
+When you're interacting with it, you're hoping that the tokens come back to you
+as quickly as possible and as quickly as you can read it.
+And so, the ability for generation tokens is really important.
+You have to paralyze the work of this model across many, many GPUs
+so that you could achieve several things.
+One, on the one hand, you would like throughput
+because that throughput reduces the cost, the overall cost per token of generating.
+So, your throughput dictates the cost of delivering the service.
+On the other hand, you have another interactive rate,
+which is another tokens per second, where it's about per user.
+And that has everything to do with quality of service.
+And so, these two things compete against each other.
+And we have to find a way to distribute work across all of these different GPUs
+and paralyze it in a way that allows us to achieve both.
+And it turns out the search space is enormous.
+You know, I told you there's going to be math involved.
+And everybody's going, oh, dear.
+I heard some gasps just now when I put up that slide.
+So, this right here, the y-axis is tokens per second, data center throughput.
+The x-axis is tokens per second, interactivity of the person.
+And notice the upper right is the best.
+You want interactivity to be very high, number of tokens per second per user.
+You want the tokens per second per data center to be very high.
+The upper right is terrific.
+However, it's very hard to do that.
+And in order for us to search for the best answer across every single one of those intersections,
+x, y coordinates, in case you just look at every single x, y coordinate,
+all those blue dots came from some repartitioning of the software.
+Some optimizing solution has to go and figure out whether to use tensor parallel, expert parallel,
+pipeline parallel, or data parallel, and distribute this enormous model across all these different GPUs
+and sustain the performance that you need.
+This exploration space would be impossible if not for the programmability of NVIDIA's GPUs.
+And so we could, because of CUDA, because we have such a rich ecosystem,
+we could explore this universe and find that green roof line.
+It turns out that green roof line, notice you got TP2EPADP4,
+it means two tensor parallel, tensor parallel across two GPUs, expert parallel across eight, data parallel across four.
+Notice on the other end, you got tensor parallel across four and expert parallel across 16.
+The configuration, the distribution of that software, it's a different, different runtime
+that would produce these different results.
+And you have to go discover that roof line.
+Well, that's just one model.
+And this is just one configuration of a computer.
+Imagine all of the models being created around the world
+and all the different configurations of systems that are going to be available.
+So now that you understand the basics,
+let's take a look at inference of Blackwell compared to Hopper.
+And this is the extraordinary thing.
+In one generation, because we created a system that's designed for trillion parameter generative AI,
+the inference capability of Blackwell is off the charts.
+And in fact, it is some 30 times Hopper.
+Yeah.
+For large language models, for large language models like ChatGPT and others like it,
+the blue line is Hopper.
+I gave you, imagine we didn't change the architecture of Hopper.
+We just made it a bigger chip.
+We just used the latest, you know, greatest 10 terabytes, you know, terabytes per second.
+We connected the two chips together.
+We got this giant 208 billion parameter chip.
+How would we have performed if nothing else changed?
+And it turns out quite wonderfully, quite wonderfully.
+And that's the purple line, but not as great as it could be.
+And that's where the FP4 Tensor Core, the new transformer engine,
+and very importantly, the NVLink switch.
+And the reason for that is because all these GPUs have to share the results, partial products.
+Whenever they do all to all, all gather, whenever they communicate with each other,
+that NVLink switch is communicating almost 10 times faster
+than what we could do in the past using the fastest networks.
+Okay, so Blackwell is going to be just an amazing system for generative AI.
+And in the future, in the future, data centers are going to be thought of,
+as I mentioned earlier, as an AI factory.
+An AI factory's goal in life is to generate revenues, generate, in this case,
+intelligence in this facility, not generating electricity, as in AC generators,
+but of the last industrial revolution and this industrial revolution, the generation of intelligence.
+And so this ability is super, super important.
+The excitement of Blackwell is really off the charts.
+You know, when we first, when we first, you know, this is a year and a half ago,
+two years ago, I guess two years ago, when we first started to go to market with Hopper,
+you know, we had the benefit of two CSPs joined us in a lunch.
+And we were, you know, delighted.
+And so we had two customers.
+So we have more now.
+Unbelievable excitement for Blackwell, unbelievable excitement.
+And there's a whole bunch of different configurations.
+Of course, I showed you the configurations that slide into the Hopper form factor,
+so that it's easy to upgrade.
+I showed you examples that are liquid cooled, that are the extreme versions of it,
+one entire rack that's connected by NVLink 72.
+We're going to, Blackwell is going to be ramping to the world's AI companies,
+of which there are so many now, doing amazing work in different modalities.
+The CSPs, every CSP is geared up.
+All the OEMs and ODMs, regional clouds, sovereign AIs, and telcos all over the world
+are signing up to launch with Blackwell.
+Blackwell would be the most successful product launch in our history.
+And so I can't wait to see that.
+I want to thank some partners that are joining us in this.
+AWS is gearing up for Blackwell.
+They're going to build the first GPU with secure AI.
+They're building out a 222 exaflops system.
+You know, just now when we animated, just now the digital twin,
+if you saw all of those clusters coming down.
+By the way, that is not just art.
+That is a digital twin of what we're building.
+That's how big it's going to be.
+Besides infrastructure, we're doing a lot of things together with AWS.
+We're CUDA accelerating SageMaker AI.
+We're CUDA accelerating Bedrock AI.
+Amazon Robotics is working with us using NVIDIA Omniverse and Isaac Sim.
+AWS Health has NVIDIA Health integrated into it.
+So AWS has really leaned into accelerated computing.
+Google is gearing up for Blackwell.
+GCP already has A100s, H100s, T4s, L4s, a whole fleet of NVIDIA CUDA GPUs.
+And they recently announced the Gemma model that runs across all of it.
+We're working to optimize and accelerate every aspect of GCP.
+We're accelerating Dataproc for data processing, their data processing engine,
+Jax, XLA, Vertex AI, and Mujoco for robotics.
+So we're working with Google and GCP across a whole bunch of initiatives.
+Oracle is gearing up for Blackwell.
+Oracle is a great partner of ours for NVIDIA DGX Cloud.
+And we're also working together to accelerate something that's really important
+to a lot of companies, Oracle Database.
+Microsoft is accelerating, and Microsoft is gearing up for Blackwell.
+Microsoft and NVIDIA has a wide-ranging partnership.
+We're accelerating CUDA, accelerating all kinds of services.
+When you chat, obviously, and AI services that are in Microsoft Azure,
+it's very, very likely NVIDIA is in the back doing the inference
+and the token generation.
+They built the largest NVIDIA InfiniBand supercomputer,
+basically a digital twin of ours or a physical twin of ours.
+We're bringing the NVIDIA ecosystem to Azure.
+NVIDIA DGX Cloud to Azure.
+NVIDIA Omniverse is now hosted in Azure.
+NVIDIA Healthcare is in Azure.
+All of it is deeply integrated and deeply connected with Microsoft Fabric.
+The whole industry is gearing up for Blackwell.
+This is what I'm about to show you.
+Most of the scenes that you've seen so far of Blackwell
+are the full fidelity design of Blackwell.
+Everything in our company has a digital twin.
+And, in fact, this digital twin idea is really spreading,
+and it helps companies build very complicated things perfectly the first time.
+And what could be more exciting than creating a digital twin
+to build a computer that was built in a digital twin?
+And so, let me show you what Wistron is doing.
+To meet the demand for NVIDIA accelerated computing,
+Wistron, one of our leading manufacturing partners,
+is building digital twins of NVIDIA DGX and HGX factories
+using custom software developed with Omniverse, SDKs, and APIs.
+For their newest factory, Wistron started with the digital twin
+to virtually integrate their multi-CAD and process simulation data into a unified view.
+Testing and optimizing layouts in this physically accurate digital environment
+increased worker efficiency by 51%.
+During construction, the Omniverse digital twin was used to verify
+that the physical build matched the digital plans.
+Identifying any discrepancies early has helped avoid costly change orders.
+And the results have been impressive.
+Using a digital twin helped bring Wistron's factory online in half the time,
+just two and a half months instead of five.
+In operation, the Omniverse digital twin helps Wistron rapidly test new layouts
+to accommodate new processes or improve operations in the existing space,
+and monitor real-time operations using live IoT data from every machine on the production line,
+which ultimately enabled Wistron to reduce end-to-end cycle times by 50% and defect rates by 40%.
+With NVIDIA AI and Omniverse, NVIDIA's global ecosystem of partners
+are building a new era of accelerated AI-enabled digitalization.
+That's the way it's going to be in the future.
+We're going to be manufacturing everything digitally first,
+and then we'll manufacture it physically.
+People ask me, how did it start?
+What got you guys so excited?
+What was it that you saw that caused you to put it all in
+on this incredible idea?
+And it's this.
+Hang on a second.
+Guys, that was going to be such a moment.
+That's what happens when you don't rehearse.
+This, as you know, was first contact.
+2012, AlexNet.
+You put a cat into this computer, and it comes out and it says, cat.
+And we said, oh, my God, this is going to change everything.
+You take one million numbers across three channels, RGB.
+These numbers make no sense to anybody.
+You put it into this software, and it compress, it dimensionally
+reduces it.
+It reduces it from a million dimensions, a million dimensions.
+It turns it into three letters, one vector, one number.
+And it's generalized.
+You could have the cat be different cats.
+And you could have it be the front of the cat and the back of the cat.
+And you look at this thing, you say, unbelievable.
+You mean any cats?
+Yeah, any cat.
+And it was able to recognize all these cats.
+And we realized how it did it.
+It systematically, structurally, it's scalable.
+How big can you make it?
+Well, how big do you want to make it?
+And so we imagine that this is a completely new way of writing software.
+And now today, as you know, you can have, you type in the word C-A-T.
+And what comes out is a cat.
+It went the other way.
+Am I right?
+Unbelievable.
+How is it possible?
+That's right.
+How is it possible you took three letters and you generated a million pixels from it?
+And it made sense.
+Well, that's the miracle.
+And here we are, just literally 10 years later, 10 years later, where we recognize text,
+we recognize images, we recognize videos and sounds and images.
+Not only do we recognize them, we understand their meaning.
+We understand the meaning of the text.
+That's the reason why it can chat with you.
+It can summarize for you.
+It understands the text.
+It understood not just recognizes the English, it understood the English.
+It doesn't just recognize the pixels, it understood the pixels.
+And you can even condition it between two modalities.
+You can have language condition image and generate all kinds of interesting things.
+Well, if you can understand these things, what else can you understand that you've digitized?
+The reason why we started with text and images is because we digitized those.
+But what else have we digitized?
+Well, it turns out we digitized a lot of things, proteins and genes and brain waves.
+Anything you can digitize, so long as there's structure, we can probably learn some patterns from it.
+And if we can learn the patterns from it, we can understand its meaning.
+If we can understand its meaning, we might be able to generate it as well.
+And so therefore, the generative AI revolution is here.
+Well, what else can we generate?
+What else can we learn?
+Well, one of the things that we would love to learn, we would love to learn, is we would love to learn climate.
+We would love to learn extreme weather.
+We would love to learn how we can predict future weather at regional scales,
+at sufficiently high resolution, such that we can keep people out of harm's way before harm comes.
+Extreme weather cost the world $150 billion.
+Surely more than that, it's not evenly distributed.
+$150 billion is concentrated in some parts of the world and, of course, to some people of the world.
+We need to adapt and we need to know what's coming.
+And so we're creating Earth 2, a digital twin of the Earth for predicting weather.
+And we've made an extraordinary invention called CoreDiv,
+the ability to use generative AI to predict weather at extremely high resolution.
+Let's take a look.
+As the Earth's climate changes,
+AI-powered weather forecasting is allowing us to more accurately predict and track severe storms,
+like super typhoon Chanthu, which caused widespread damage in Taiwan and the surrounding region in 2021.
+Current AI forecast models can accurately predict the track of storms,
+but they are limited to 25-kilometer resolution, which can miss important details.
+NVIDIA's CoreDiv is a revolutionary new generative AI model,
+trained on high-resolution radar-assimilated wolf weather forecasts and AERA 5 reanalysis data.
+Using CoreDiv, extreme events like Chanthu can be super resolved from 25-kilometer to 2-kilometer resolution,
+with 1,000 times the speed and 3,000 times the energy efficiency of conventional weather models.
+By combining the speed and accuracy of NVIDIA's weather forecasting model ForecastNet
+and generative AI models like CoreDiv,
+we can explore hundreds or even thousands of kilometer-scale regional weather forecasts
+to provide a clear picture of the best, worst and most likely impacts of a storm.
+This wealth of information can help minimize loss of life and property damage.
+Today, CoreDiv is optimized for Taiwan,
+but soon generative supersampling will be available as part of the NVIDIA Earth2 inference service for many regions across the globe.
+The weather company has to trust the source of global weather prediction.
+We are working together to accelerate their weather simulation, first principled base of simulation.
+However, they're also going to integrate Earth2 CoreDiv
+so that they can help businesses and countries do regional high-resolution weather prediction.
+And so if you have some weather prediction you'd like to do, reach out to the weather company.
+Really exciting, really exciting work.
+NVIDIA Healthcare, something we started 15 years ago.
+We're super, super excited about this.
+This is an area where we're very, very proud.
+Whether it's medical imaging or gene sequencing or computational chemistry,
+it is very likely that NVIDIA is the computation behind it.
+We've done so much work in this area.
+Today we're announcing that we're going to do something really, really cool.
+Imagine all of these AI models that are being used to generate images and audio.
+But instead of images and audio, because it understood images and audio,
+all the digitization that we've done for genes and proteins and amino acids,
+that digitization capability is now passed through machine learning
+so that we understand the language of life.
+The ability to understand the language of life, of course, we saw the first evidence of it with AlphaFold.
+This is really quite an extraordinary thing.
+After decades of painstaking work, the world had only digitized and reconstructed
+using cryo-electron microscopy or x-ray crystallography.
+These different techniques painstakingly reconstructed the protein, 200,000 of them,
+in just less than a year or so.
+AlphaFold has reconstructed 200 million proteins,
+basically every living thing that's ever been sequenced.
+This is completely revolutionary.
+Those models are incredibly hard for people to build,
+and so what we're going to do is we're going to build them.
+We're going to build them for the researchers around the world.
+It won't be the only one.
+There will be many other models that we create.
+Let me show you what we're going to do with it.
+Virtual screening for new medicines is a computationally intractable problem.
+Existing techniques can only scan billions of compounds
+and require days on thousands of standard compute nodes to identify new drug candidates.
+NVIDIA BioNemo NIMs enable a new generative screening paradigm.
+Using NIMs for protein structure prediction with AlphaFold,
+molecule generation with MolMIM, and docking with DiffDock,
+we can now generate and screen candidate molecules in a matter of minutes.
+MolMIM can connect to custom applications to steer the generative process,
+iteratively optimizing for desired properties.
+These applications can be defined with BioNemo microservices or built from scratch.
+Here, a physics-based simulation optimizes for a molecule's ability to bind to a target protein
+while optimizing for other favorable molecular properties in parallel.
+MolMIM generates high-quality drug-like molecules that bind to the target and are synthesizable,
+translating to a higher probability of developing successful medicines faster.
+BioNemo is enabling a new paradigm in drug discovery with NIMs,
+providing on-demand microservices that can be combined to build powerful drug discovery workflows
+like de novo protein design or guided molecule generation for virtual screening.
+BioNemo NIMs are helping researchers and developers reinvent computational drug design.
+NVIDIA MOLMIM
+NVIDIA MOLMIM, MOLMIM, CoreDiff, there's a whole bunch of other models,
+a whole bunch of other models, computer vision models, robotics models,
+and even, of course, some really, really terrific open-source language models.
+These models are groundbreaking. However, it's hard for companies to use.
+How would you use it? How would you bring it into your company and integrate it into your workflow?
+How would you package it up and run it?
+Remember, earlier I just said that inference is an extraordinary computation problem.
+How would you do the optimization for each and every one of these models
+and put together the computing stack necessary to run that supercomputer
+so that you can run these models in your company?
+And so we have a great idea. We're going to invent a new way,
+invent a new way for you to receive and operate software.
+This software comes basically in a digital box. We call it a container.
+And we call it the NVIDIA Inference Microservice, a NIM.
+And let me explain to you what it is.
+A NIM. It's a pre-trained model, so it's pretty clever.
+And it is packaged and optimized to run across NVIDIA's installed base, which is very, very large.
+What's inside it is incredible.
+You have all these pre-trained state-of-the-art open-source models.
+They could be open-source. They could be from one of our partners.
+It could be created by us, like NVIDIA Moment.
+It is packaged up with all of its dependencies.
+So CUDA, the right version, CUDNN, the right version,
+TensorFlow RT, LLM, distributing across the multiple GPUs, Triton Inference Server,
+all completely packaged together.
+It's optimized depending on whether you have a single GPU, multi-GPU, or multi-node of GPUs.
+It's optimized for that.
+And it's connected up with APIs that are simple to use.
+Now, think about what an AI API is.
+An AI API is an interface that you just talk to.
+And so this is a piece of software in the future that has a really simple API,
+and that API is called Human.
+And these packages, incredible bodies of software,
+will be optimized and packaged, and we'll put it on a website.
+And you can download it. You can take it with you.
+You can run it in any cloud. You can run it in your own data center.
+You can run it in workstations if it fit.
+And all you have to do is come to ai.nvidia.com.
+We call it NVIDIA Inference Microservice,
+but inside the company we all call it NIMS.
+Okay?
+Just imagine, you know, one day there's going to be one of these chatbots,
+and these chatbots is going to just be in a NIM.
+And you'll assemble a whole bunch of chatbots.
+And that's the way software is going to be built someday.
+How do we build software in the future?
+It is unlikely that you'll write it from scratch
+or write a whole bunch of Python code or anything like that.
+It is very likely that you assemble a team of AIs.
+There's probably going to be a super AI that you use
+that takes the mission that you give it
+and breaks it down into an execution plan.
+Some of that execution plan could be handed off to another NIM.
+That NIM would maybe understand SAP.
+The language of SAP is ABAP.
+It might understand ServiceNow
+and go retrieve some information from their platforms.
+It might then hand that result to another NIM
+who goes off and does some calculation on it.
+Maybe it's an optimization software,
+a combinatorial optimization algorithm.
+Maybe it's, you know, just some basic calculator.
+Maybe it's Pandas to do some numerical analysis on it.
+And then it comes back with its answer.
+And it gets combined with everybody else's.
+And because it's been presented with
+this is what the right answer should look like,
+it knows what right answers to produce,
+and it presents it to you.
+We can get a report every single day, you know, top of the hour,
+that has something to do with a build plan or some forecast
+or some customer alert or some bugs database
+or whatever it happens to be,
+and we could assemble it using all these NIMs.
+And because these NIMs have been packaged up
+and ready to work on your systems,
+so long as you have NVIDIA GPUs in your data center or in the cloud,
+these NIMs will work together as a team and do amazing things.
+And so we decided, this is such a great idea,
+we're going to go do that.
+And so NVIDIA has NIMs running all over the company.
+We have chatbots being created all over the place,
+and one of the most important chatbots, of course,
+is a chip designer chatbot.
+You might not be surprised.
+We care a lot about building chips.
+And so we want to build chatbots,
+AI copilots that are co-designers with our engineers.
+And so this is the way we did it.
+So we got ourselves a Llama 2.
+This is a 70B, and it's packaged up in a NIM.
+We asked it, you know, what is a CTL?
+It turns out CTL is an internal program,
+and it has an internal proprietary language,
+but it thought the CTL was a combinatorial timing logic,
+and so it describes conventional knowledge of CTL,
+but that's not very useful to us.
+And so we gave it a whole bunch of new examples.
+This is no different than onboarding an employee.
+And we say, you know, thanks for that answer.
+It's completely wrong.
+And then we present to them, this is what a CTL is, okay?
+And so this is what a CTL is at NVIDIA.
+And the CTL, as you can see, you know, CTL stands for
+Compute Trace Library, which makes sense.
+You know, we're tracing compute cycles all the time,
+and it wrote the program.
+Isn't that amazing?
+And so the productivity of our chip designers can go up.
+This is what you can do with a NIM.
+First thing you can do with it is customize it.
+We have a service called NEMO Microservice
+that helps you curate the data,
+preparing the data so that you can teach this onboard this AI.
+You fine-tune them, and then you guardrail it.
+You can even evaluate the answer,
+evaluate its performance against other examples.
+And so that's called the NIM.
+Now, the thing that's emerging here is this.
+There are three elements, three pillars of what we're doing.
+The first pillar is, of course,
+inventing the technology for AI models
+and running AI models and packaging it up for you.
+The second is to create tools to help you modify it.
+First is having the AI technology.
+Second is to help you modify it.
+And third is infrastructure for you to fine-tune it
+and evaluate it.
+And then finally, the third pillar,
+infrastructure for you to fine-tune it
+and, if you like, deploy it.
+You could deploy it on our infrastructure called DGX Cloud,
+or you could deploy it on-prem.
+You could deploy it anywhere you like.
+Once you develop it, it's yours to take anywhere.
+And so we are effectively an AI foundry.
+We will do for you and the industry on AI
+what TSMC does for us, building chips.
+And so we go to TSMC with our big ideas.
+We manufacture it, and we take it with us.
+And so exactly the same thing here.
+AI foundry, and the three pillars are the NIMS,
+NEMO Microservice, and DGX Cloud.
+The other thing that you could teach the NIMP to do
+is to understand your proprietary information.
+Remember, inside our company,
+the vast majority of our data is not in the cloud.
+It's inside our company.
+It's been sitting there, you know, being used all the time,
+and, gosh, it's basically NVIDIA's intelligence.
+We would like to take that data, learn its meaning,
+like we learned the meaning of almost anything else
+that we just talked about.
+Learn its meaning, and then re-index that knowledge
+into a new type of database called a vector database.
+And so you essentially take structured data
+or unstructured data, you learn its meaning,
+you encode its meaning, so now this becomes an AI database,
+and that AI database, in the future, once you create it,
+you can talk to it.
+And so let me give you an example of what you could do.
+So suppose you've got a whole bunch of multimodality data,
+and one good example of that is PDF.
+So you take the PDF, you take all of your PDFs,
+all your favorite, you know, the stuff that is proprietary to you,
+critical to your company, you can encode it.
+Just as we encoded pixels of a cat,
+and it becomes the word cat, we can encode all of your PDF,
+and it turns into vectors that are now stored
+inside your vector database.
+It becomes the proprietary information of your company.
+And once you have that proprietary information,
+you can chat to it.
+It's a smart database, so you just chat with data.
+And how much more enjoyable is that?
+You know, for our software team,
+they just chat with the bugs database, you know?
+How many bugs was there last night?
+Are we making any progress?
+And then after you're done talking to this bugs database,
+you need therapy.
+And so we have another chat bot for you.
+You can do it.
+Okay, so we call this Nemo Retriever,
+and the reason for that is because ultimately its job
+is to go retrieve information as quickly as possible.
+And you just talk to it.
+Hey, retrieve me this information,
+and it goes, oh, it brings it back to you.
+Do you mean this?
+You go, yeah, perfect, okay?
+And so we call it the Nemo Retriever.
+Well, the Nemo service helps you create all these things,
+and we have all these different NIMs.
+We even have NIMs of digital humans.
+I'm Rachel, your AI care manager.
+Okay, so it's a really short clip,
+but there were so many videos to show you,
+I guess so many other demos to show you,
+and so I had to cut this one short.
+But this is Diana.
+She is a digital human NIM,
+and you just talked to her,
+and she's connected, in this case,
+to Hippocratic AI's large language model for healthcare,
+and it's truly amazing.
+She is just super smart about healthcare things, you know?
+And so after Dwight, my VP of software engineering,
+talks to the chat bot for Bugs Database,
+then you come over here and talk to Diane.
+And so Diane is completely animated with AI,
+and she's a digital human.
+There are so many companies that would like to build,
+they're sitting on gold mines.
+The enterprise IT industry is sitting on a gold mine.
+It's a gold mine because they have so much understanding
+of the way work is done.
+They have all these amazing tools
+that have been created over the years,
+and they're sitting on a lot of data.
+If they could take that gold mine
+and turn them into co-pilots,
+these co-pilots could help us do things.
+And so just about every IT franchise,
+IT platform in the world
+that has valuable tools that people use
+is sitting on a gold mine for co-pilots,
+and they would like to build their own co-pilots
+and their own chat bots.
+And so we're announcing that NVIDIA AI Foundry
+is working with some of the world's great companies.
+SAP generates 87% of the world's global commerce.
+Basically, the world runs on SAP.
+We run on SAP.
+NVIDIA and SAP are building SAP Jewel co-pilots
+using NVIDIA Nemo and DGX Cloud.
+ServiceNow, they run 85% of the world's Fortune 500 companies
+run their people and customer service operations on ServiceNow.
+And they're using NVIDIA AI Foundry
+to build ServiceNow assist virtual assistants.
+Cohesity backs up the world's data.
+They're sitting on a gold mine of data,
+hundreds of exabytes of data,
+over 10,000 companies.
+NVIDIA AI Foundry is working with them,
+helping them build their Gaia generative AI agent.
+Snowflake is a company that stores
+the world's digital warehouse in the cloud
+and serves over 3 billion queries a day
+for 10,000 enterprise customers.
+Snowflake is working with NVIDIA AI Foundry
+to build co-pilots with NVIDIA Nemo and NIMS.
+NetApp, nearly half of the files in the world
+are stored on-prem on NetApp.
+NVIDIA AI Foundry is helping them
+build chatbots and co-pilots
+like those vector databases and retrievers
+with NVIDIA Nemo and NIMS.
+And we have a great partnership with Dell.
+Everybody who is building these chatbots
+and generative AI,
+when you're ready to run it,
+you're going to need an AI factory.
+And nobody is better at building end-to-end systems
+of very large scale for the enterprise than Dell.
+And so anybody, any company,
+every company will need to build AI factories.
+And it turns out that Michael is here.
+He's happy to take your order.
+Ladies and gentlemen, Michael Dell.
+Okay, let's talk about the next wave of robotics,
+the next wave of AI, robotics, physical AI.
+So far, all of the AI that we've talked about
+is one computer.
+Data comes into one computer,
+lots of the world's, if you will,
+experience in digital text form.
+The AI imitates us by reading a lot of the language
+to predict the next words.
+It's imitating you by studying all of the patterns
+and all the other previous examples.
+Of course, it has to understand context and so on and so forth,
+but once it understands the context,
+it's essentially imitating you.
+We take all of the data,
+we put it into a system like DGX,
+we compress it into a large language model,
+trillions and trillions of parameters
+become billions and billions,
+trillions of tokens becomes billions of parameters,
+these billions of parameters becomes your AI.
+Well, in order for us to go to the next wave of AI,
+where the AI understands the physical world,
+we're going to need three computers.
+The first computer is still the same computer.
+It's that AI computer that now is going to be watching video
+and maybe it's doing synthetic data generation
+and maybe there's a lot of human examples,
+just as we have human examples in text form,
+we're going to have human examples in articulation form
+and the AIs will watch us, understand what is happening
+and try to adapt it for themselves into the context
+and because it can generalize with these foundation models,
+maybe these robots can also perform in the physical world
+fairly generally.
+So I just described in very simple terms
+essentially what just happened in large language models,
+except the chat GPT moment for robotics
+may be right around the corner.
+And so we've been building the end-to-end systems
+for robotics for some time.
+I'm super, super proud of the work.
+We have the AI system, DGX.
+We have the lower system, which is called AGX,
+for autonomous systems,
+the world's first robotics processor.
+When we first built this thing, people are,
+what are you guys building?
+It's an SOC, it's one chip,
+it's designed to be very low power,
+high speed sensor processing and AI.
+And so if you want to run transformers in a car
+or you want to run transformers in anything that moves,
+we have the perfect computer for you.
+It's called the Jetson.
+And so the DGX on top for training the AI,
+the Jetson is the autonomous processor,
+and in the middle, we need another computer.
+Whereas large language models have the benefit
+of you providing your examples
+and then doing reinforcement learning human feedback,
+what is the reinforcement learning human feedback of a robot?
+Well, it's reinforcement learning physical feedback.
+That's how you align the robot.
+That's how the robot knows that as it's learning
+these articulation capabilities and manipulation capabilities,
+it's going to adapt properly into the laws of physics.
+And so we need a simulation engine
+that represents the world digitally for the robot
+so that the robot has a gym to go learn how to be a robot.
+We call that virtual world Omniverse.
+And the computer that runs Omniverse is called OVX.
+And OVX, the computer itself, is hosted in the Azure cloud.
+And so basically we built these three things, these three systems.
+On top of it, we have algorithms for every single one.
+Now, I'm going to show you one super example
+of how AI and Omniverse are going to work together.
+The example I'm going to show you is kind of insane,
+but it's going to be very, very close to tomorrow.
+It's a robotics building.
+This robotics building is called a warehouse.
+Inside the robotics building
+are going to be some autonomous systems.
+Some of the autonomous systems are going to be called humans,
+and some of the autonomous systems are going to be called forklifts.
+And these autonomous systems are going to interact with each other,
+of course, autonomously,
+and it's going to be overlooked upon by this warehouse
+to keep everybody out of harm's way.
+The warehouse is essentially an air traffic controller.
+And whenever it sees something happening,
+it will redirect traffic and give new waypoints,
+just new waypoints to the robots and the people,
+and they'll know exactly what to do.
+This warehouse, this building, you can also talk to.
+Of course you could talk to it.
+Hey, you know, SAP Center, how are you feeling today?
+For example.
+And so you could ask the warehouse the same questions.
+Basically, the system I just described will have Omniverse Cloud
+that's hosting the virtual simulation,
+and AI running on DGX Cloud,
+and all of this is running in real time.
+Let's take a look.
+The future of heavy industries starts as a digital twin.
+The AI agents helping robots, workers, and infrastructure
+navigate unpredictable events in complex industrial spaces
+will be built and evaluated first in sophisticated digital twins.
+This Omniverse digital twin of a 100,000-square-foot warehouse
+is operating as a simulation environment
+that integrates digital workers,
+AMRs running the NVIDIA ISAC perceptor stack,
+centralized activity maps of the entire warehouse
+from 100 simulated ceiling mount cameras using NVIDIA Metropolis,
+and AMR route planning with NVIDIA KuOpt.
+Software in-loop testing of AI agents
+in this physically accurate simulated environment
+enables us to evaluate and refine how the system adapts
+to real-world unpredictability.
+Here, an incident occurs along this AMR's planned route,
+blocking its path as it moves to pick up a pallet.
+NVIDIA Metropolis updates and sends a real-time occupancy map
+to KuOpt where a new optimal route is calculated.
+The AMR is enabled to see around corners
+and improve its mission efficiency.
+With generative AI-powered Metropolis vision foundation models,
+operators can even ask questions using natural language.
+The visual model understands nuanced activity
+and can offer immediate insights to improve operations.
+All of the sensor data is created in simulation
+and passed to the real-time AI,
+running as NVIDIA Inference Microservices, or NIMS.
+And when the AI is ready to be deployed in the physical twin,
+the real warehouse, we connect Metropolis and ISAC NIMS
+to real sensors with the ability for continuous improvement
+of both the digital twin and the AI models.
+Isn't that incredible?
+And so, remember,
+a future facility warehouse, factory, building
+will be software defined.
+And so the software is running.
+How else would you test the software?
+So you test the software to building the warehouse,
+the optimization system, in the digital twin.
+What about all the robots?
+All of those robots you were seeing just now,
+they're all running their own autonomous robotic stack.
+And so the way you integrate software in the future,
+CICD in the future, for robotic systems
+is with digital twins.
+We've made Omniverse a lot easier to access.
+We're going to create basically Omniverse cloud APIs,
+four simple API in a channel,
+and you can connect your application to it.
+So this is going to be as wonderfully, beautifully simple
+in the future that Omniverse is going to be.
+And with these APIs, you're going to have
+these magical digital twin capability.
+We also have turned Omniverse into an AI
+and integrated it with the ability to chat USD.
+The language of our language is, you know, human,
+and Omniverse's language, as it turns out,
+is universal scene description.
+And so that language is rather complex,
+and so we've taught our Omniverse that language.
+And so you can speak to it in English,
+and it would directly generate USD.
+And it would talk back in USD,
+but converse back to you in English.
+You could also look for information
+in this world semantically.
+Instead of the world being encoded semantically in language,
+now it's encoded semantically in scenes.
+And so you could ask it of certain objects
+or certain conditions or certain scenarios,
+and it can go and find that scenario for you.
+It also can collaborate with you in generation.
+You could design some things in 3D.
+It could simulate some things in 3D,
+or you could use AI to generate something in 3D.
+Let's take a look at how this is all going to work.
+We have a great partnership with Siemens.
+Siemens is the world's largest industrial engineering
+and operations platform.
+You've seen now so many different companies
+in the industrial space.
+Heavy Industries is one of the greatest final frontiers of IT,
+and we finally now have the necessary technology
+to go and make a real impact.
+Siemens is building the industrial metaverse,
+and today we're announcing that Siemens is connecting
+their crown jewel accelerator to NVIDIA Omniverse.
+Let's take a look.
+Siemens technology is transformed every day for everyone.
+Team Center X, our leading product lifecycle management software
+from the Siemens accelerator platform,
+is used every day by our customers
+to develop and deliver products at scale.
+Now we are bringing the real and the digital worlds
+even closer by integrating NVIDIA AI
+and Omniverse technologies into Team Center X.
+Omniverse APIs enable data interoperability
+and physics-based rendering to industrial-scale design
+and manufacturing projects.
+Our customers, HD Hyundai,
+market leader in sustainable ship manufacturing,
+builds ammonia and hydrogen power chips,
+often comprising over 7 million discrete parts.
+With Omniverse APIs, Team Center X lets companies like HD Hyundai
+unify and visualize these massive engineering data sets interactively
+and integrate generative AI to generate 3D objects
+or HDRI backgrounds to see their projects in context.
+The result, an ultra-intuitive, photoreal,
+physics-based digital twin that eliminates waste and errors,
+delivering huge savings in cost and time.
+And we are building this for collaboration,
+whether across more Siemens accelerator tools like Siemens NX
+or STAR CCM+, or across teams
+working on their favorite devices in the same scene together.
+And this is just the beginning.
+Working with NVIDIA, we will bring accelerator computing,
+generative AI and Omniverse integration
+across the Siemens accelerator portfolio.
+The professional voice actor
+happens to be a good friend of mine, Roland Bush,
+who happens to be the CEO of Siemens.
+Once you get Omniverse connected into your workflow,
+your ecosystem,
+from the beginning of your life,
+to engineering, to manufacturing planning,
+all the way to digital twin operations,
+once you connect everything together,
+it's insane how much productivity you can get.
+And it's just really, really wonderful.
+All of a sudden, everybody's operating on the same ground truth.
+You don't have to exchange data and convert data, make mistakes.
+Everybody is working on the same ground truth.
+From the beginning of your life,
+everybody is working on the same ground truth.
+From the design department to the art department,
+the architecture department, all the way to the engineering
+and even the marketing department.
+Let's take a look at how Nissan has integrated Omniverse
+into their workflow.
+And it's all because it's connected by all these wonderful tools
+and these developers that we're working with.
+Take a look.
+Let's take a look.
+Let's take a look.
+Let's take a look.
+That was not an animation.
+That was Omniverse.
+Today, we're announcing that Omniverse Cloud
+streams to the Vision Pro.
+It is very, very strange
+that you walk around virtual doors
+when I was getting out of that car.
+And everybody does it.
+It is really, really quite amazing.
+Vision Pro, connected to Omniverse,
+portals you into Omniverse.
+And because all of these CAD tools
+and all these different design tools are now integrated
+and connected to Omniverse,
+you can have this type of workflow.
+Really incredible.
+Let's talk about robotics.
+Everything that moves will be robotic.
+There's no question about that.
+It's safer, it's more convenient.
+One of the largest industries is going to be automotive.
+We build the robotic stack
+from top to bottom, as I was mentioning,
+from the computer system,
+but in the case of self-driving cars,
+including the self-driving application.
+At the end of this year,
+or I guess beginning of next year,
+we will be shipping in Mercedes
+and then shortly after that, JLR.
+And so these autonomous robotic systems
+are software defined.
+They take a lot of work to do,
+has computer vision,
+intelligence, control and planning,
+all kinds of very complicated technology
+and takes years to refine.
+We're building the entire stack.
+However, we open up our entire stack
+for all of the automotive industry.
+This is just the way we work.
+The way we work in every single industry,
+we try to build as much of it as we can
+so that we understand it,
+but then we open it up so that everybody can access it.
+Whether you would like to buy just our computer,
+which is the world's only
+functional, safe,
+ASLD system
+that can run AI,
+this functional, safe,
+ASLD quality computer
+or the operating system on top
+or, of course,
+our data centers, which is in
+basically every AV company in the world.
+However you would like to enjoy it,
+we're delighted by it.
+Today we're announcing that BYD,
+the world's largest EV company,
+is adopting our next generation,
+it's called Thor.
+Thor is designed for transformer engines.
+Thor, our next generation
+AV computer, will be used
+by BYD.
+You probably don't know this fact that we have
+over a million robotics developers.
+We created Jetson,
+this robotics computer.
+We're so proud of it. The amount of software that goes on top of it
+is insane. But the reason why we can do it at all
+is because it's 100% CUDA compatible.
+Everything that we do,
+everything that we do in our company,
+is in service of our developers.
+And by us being able to maintain
+this rich ecosystem
+and make it compatible with everything that you
+access from us,
+we can bring all of that incredible capability
+to this little tiny computer
+we call Jetson, a robotics computer.
+We also today are announcing
+this incredibly advanced
+new SDK. We call it
+Isaac Perceptor.
+Isaac Perceptor,
+most of the robots today
+are pre-programmed.
+They're either following rails on the ground,
+digital rails, or they'd be following
+April tags. But in the future,
+they're going to have perception. And the reason
+why you want that is so that you could easily
+program it. You say,
+I would like to go from point A to point B
+and it will figure out a way to navigate
+its way there. So by
+only programming waypoints,
+the entire route could be
+adaptive. The entire environment could
+be reprogrammed, just as I showed you at the very beginning
+with the warehouse.
+You can't do that with
+pre-programmed AGVs.
+If those boxes fall down,
+they just all gum up and they just wait there for somebody
+to come clear it. And so now
+with the Isaac Perceptor,
+we have incredible
+state-of-the-art vision odometry,
+3D reconstruction,
+and in addition to 3D reconstruction,
+depth perception. The reason for that
+is so that you can have two modalities
+to keep an eye on what's happening in the world.
+Isaac Perceptor.
+The most used
+robot today is
+the manipulator,
+manufacturing arms, and they are also
+pre-programmed. The computer vision
+algorithms, the AI algorithms,
+the control and path planning algorithms
+that are geometry aware,
+incredibly computational and intensive.
+We have made these
+CUDA accelerated.
+So we have the world's first CUDA accelerated
+motion planner that is
+geometry aware.
+You put something in front of it, it comes up
+with a new plan and articulates around it.
+It has excellent
+perception for pose estimation
+of a 3D object.
+Not just, not its pose in 2D,
+but its pose in 3D. So it has to
+imagine what's around and
+how best to grab it.
+So the foundation
+pose, the grip foundation,
+and the
+articulation algorithms are now
+available. We call it Isaac Manipulator.
+And they also just
+run on NVIDIA's computers.
+We are
+starting to do some really
+great work in the next generation
+of robotics. The next generation of
+robotics will likely be
+a humanoid robotics.
+We now have the necessary technology
+and as I was describing earlier,
+the necessary technology
+to imagine generalized
+human robotics.
+In a way, human robotics is
+likely easier and the reason for that is
+because we have a lot more
+imitation training data
+that we can provide the robots because we
+are constructed in a very similar way.
+It is very likely that the humanoid
+robotics will be much more useful
+in our world because we created the
+world to be something that we can
+interoperate in and work well in.
+And the way that we set up our work
+stations and manufacturing and logistics,
+they were designed for humans.
+They were designed for people. And so these
+humanoid robotics will likely be much
+more productive to deploy.
+While we are creating
+just like we are doing with the others,
+the entire stack.
+Starting from the top, a foundation
+model that learns from
+watching video, human
+examples,
+it could be in video form, it could be in
+virtual reality form.
+We then created a gym
+for it called Isaac Reinforcement
+Learning Gym, which allows
+the humanoid robot to
+learn how to adapt to the
+physical world. And then an incredible
+computer, the same computer
+that's going to go into a robotic car,
+this computer will run inside
+a humanoid robot called Thor.
+It's designed for transformer engines.
+We've combined
+several of these into one video.
+This is something that you're going to really love.
+Take a look.
+We create
+smarter
+and faster.
+We push it to fail
+so it can learn.
+We teach it
+then help it teach itself.
+We broaden its understanding
+to take on new challenges
+with absolute precision
+and succeed.
+We make it perceive
+and move
+and even reason
+so it can share our world
+with us.
+Mmm.
+This is where inspiration leads us.
+The next frontier.
+This is Nvidia Project Group.
+A general purpose
+foundation model
+for humanoid robot learning.
+The group model takes multimodal
+instructions and past interactions
+as input and produces
+the next action for the robot to
+execute.
+We developed Isaac Lab,
+a robot learning application
+to train Group, on Omniverse
+Isaac Sim.
+And we scale out with Osmo,
+a new compute orchestration service
+that coordinates workflows across
+DGX systems for training
+and OVX systems for simulation.
+With these tools, we can train Group
+in physically based simulation
+and transfer zero shock
+to the real world.
+The Group model will enable
+a robot to learn from a handful
+of human demonstrations
+so it can help with everyday tasks.
+And emulate human movement
+just by observing us.
+This is made possible
+with Nvidia's technologies
+that can understand humans from videos,
+train models and simulation,
+and ultimately deploy them
+directly to physical robots.
+Connecting Group to a large
+language model even allows it
+to generate motions by following
+natural language instructions.
+Hi, GR1.
+Can you give me a high five?
+You're big. Let's high five.
+Can you give us some cool moves?
+Sure. Check this out.
+All this incredible intelligence is powered
+by the new Jetson Thor Robotics chips
+designed for Group,
+built for the future.
+With Isaac Lab, Osmo
+and Group, we're providing the building blocks
+for the next generation of
+AI-powered robotics.
+Music
+Applause
+About the same size.
+Applause
+The soul of Nvidia.
+The intersection of computer graphics,
+physics, artificial intelligence.
+It all came to bear
+at this moment.
+The name of that project,
+General Robotics 003.
+I know. Super good.
+Super good.
+Well, I think we have
+some special guests.
+Do we?
+Hey, guys.
+So I understand you guys
+are powered by Jetson.
+They're powered by Jetson.
+Little Jetson
+robotics computers inside.
+They learn to walk
+in Isaac Sim.
+Ladies and
+gentlemen,
+this is orange
+and this is the famous
+green. They are the
+BDX robots
+of Disney.
+Amazing
+Disney research.
+Applause
+Come on, you guys. Let's wrap up.
+Let's go.
+Five things.
+Where are you going?
+I sit right here.
+Don't be afraid.
+Come here, green. Hurry up.
+What are you saying?
+No, it's not time to eat.
+I'll give you a snack in a moment.
+Let me finish up real quick.
+Come on, green. Hurry up.
+Stop wasting
+time.
+Five things.
+Five things. First,
+a new industrial revolution.
+Every data center should be
+accelerated. A trillion dollars
+worth of installed data centers
+will become modernized over the next
+several years. Second, because of the computational
+capability we brought to bear, a new way
+of doing software has emerged. Generative
+AI, which is going to create
+new infrastructure
+dedicated to doing one thing
+and one thing only. Not for
+multi-user data centers, but
+AI generators. These AI
+generation will create
+incredibly valuable software.
+A new industrial
+revolution. Second, the computer
+of this revolution, the computer
+of this generation, generative
+AI, trillion parameters,
+Blackwell.
+Insane amounts of computers
+and computing. Third,
+I'm trying to concentrate.
+Good job.
+Third, new
+computer, new computer
+creates new types of software. New
+type of software should be distributed in a new
+way. So that it can, on the one
+hand, be an endpoint in the cloud and easy
+to use, but still allow you
+to take it with you. Because it is
+your intelligence. Your intelligence
+should be packaged up in a way
+that allows you to take it with you. We call
+them NIMS. And third, these
+NIMS are going to help you create
+a new type of application for the future.
+Not one that you wrote completely from
+scratch, but you're going to integrate
+them like teams.
+Create these applications. We have
+a fantastic capability
+between NIMS, the AI
+technology, the tools,
+NIMO, and the infrastructure DGX
+cloud in our AI
+foundry to help you create proprietary applications
+and proprietary chatbots. And then lastly,
+everything that moves in the future
+will be robotic. You're not going to be
+the only one. And these robotic
+systems, whether they are
+humanoid, AMRs,
+self-driving cars,
+forklifts, manipulating arms,
+they will all need one
+thing. Giant stadiums, warehouses,
+factories.
+There can be factories that are robotic,
+orchestrating factories, manufacturing
+lines that are robotics, building cars
+that are robotics. These
+systems all need one thing.
+They need a platform,
+a digital platform,
+a digital twin platform. And we call that
+omniverse, the operating system
+of the robotics world.
+These are the five things that we
+talked about today. What does NVIDIA
+look like? What does NVIDIA look like
+when we talk about GPUs?
+There's a very different image that I have
+when people ask me about GPUs.
+First, I see a bunch of software
+stacks and things like that. And second,
+I see this. This is
+what we announce to you today.
+This is Blackwell. This is
+the platform.
+Amazing, amazing processors,
+NVLink switches,
+networking systems,
+and the system design is a
+miracle. This is Blackwell.
+And this, to me, is what a GPU
+looks like in my mind.
+Thank you.
+Listen, orange, green,
+I think we have one more treat for everybody.
+What do you think? Should we?
+Okay, we have one more thing to show you.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+Roll it.
+1
+1
+1
+1
+1
+1
+Thank you, thank you, have a great, have a great GTC, thank you all for coming, thank
+you.
+Thank you, thank you, have a great, have a great GTC, thank you, have a great GTC, thank you.
+Thank you, thank you, have a great, have a great GTC, thank you.
+Thank you, thank you, have a great GTC, thank you.
