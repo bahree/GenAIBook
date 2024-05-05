@@ -29,8 +29,7 @@ If you happen to not be using conda, but are using pip, we install the needed ru
 
 | :warning: **Warning:** OpenAI API Breaking Changes |
 | --- |
-OpenAI recently updated its API, and the code in the book is incompatible with the new API (v1.0). Unfortunately, this new version introduces breaking changes, which, while insignificant, are still breaking. I am working on updating the code and will have it available soon. If you are doing a fresh installation and want to follow the code in the chapters, it might be best to pin the installation to the older API version (v0.28).
-If you are using pip, you can run the following command: `pip install openai==0.28.0`. Using conda, you can run the command: `conda install -c conda-forge openai=0.28.0`.
+The book's code works with the new API (v1.0) that OpenAI recently updated. If you have an old package version (v0.28), upgrade to the latest version for the code to work. To upgrade the package, you can run the following command: `pip install --upgrade openai`. If you are using conda, you can run the command: `conda update openai`.
 
 Depending on how many new packages need to be installed, and your internet speed, this can take a few minutes. You will see the output of this similar to the ones shown below - the first one when starting out, and the second one when finishing.
 ![](images/pip-install-step1.png)  

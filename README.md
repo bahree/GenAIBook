@@ -1,5 +1,7 @@
 # Book - Generative AI in Action
-Welcome to the code repo associated with my book **Generative AI in Action: Real-World Applications and Case Studies of Artificial Intelligence for Enterprises**.
+Welcome to the code repo associated with my book [**Generative AI in Action**](https://www.manning.com/books/generative-ai-in-action), published by Manning.
+
+<img src="docs/images/bahree_genai_in_action_meap.jpg" width="35%" height="35%"/>
 
 This repo has a few things that might be of interest:
 * Code from the different examples in the book.
@@ -25,7 +27,7 @@ Note: If any of these are missing and need step-by-step instructions, see detail
 The steps to get the environment up and running can be found in the <a href="docs/installation.md" target="_blank">installation instructions</a>. 
 
 ## Where is the Code? :file_folder:
-The book's code is organized by chapters as expected and is in the folder called `chapters`. You will find a folder for each chapter following the convention of ch{chapter-number}.
+The book's code is organized by chapters as expected and is in the folder called [`**chapters**`](chapters/readme.md). You will find a folder for each chapter following the convention of ch{chapter-number}.
 
 You can find some utility functions and programs in the **`utils`** folder.
 
