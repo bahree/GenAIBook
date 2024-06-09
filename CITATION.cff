@@ -1,0 +1,65 @@
+# cff-version: 1.2.0
+# message: "If you use this book or any of the work, I would appreciate if you can cite it as below."
+# authors:
+# - family-names: "Bahree"
+#   given-names: "Amit"
+#   orcid: "https://orcid.org/0009-0000-9596-8652"
+# title: "Generative AI in Action"
+# version: 2.0.4
+# date-released: 2024-07-11
+# url: "https://github.com/bahree/GenAIBook"
+# preferred-citation:
+#   type: book
+#   authors:
+#   - family-names: "Bahree"
+#     given-names: "Amit"
+#     orcid: "https://orcid.org/0009-0000-9596-8652"
+#   title: "Generative AI in Action"
+#   year: 2017
+#   publisher:
+#     name: Manning
+#   medium: print
+
+cff-version: 1.2.0
+title: Generative AI in Action
+message: >-
+  If you use this book or any of the work, I would
+  appreciate it if you can cite it as below.
+type: book
+authors:
+  - family-names: Bahree
+    given-names: Amit
+    orcid: 'https://orcid.org/0009-0000-9596-8652'
+repository-code: 'https://github.com/bahree/GenAIBook'
+url: 'https://github.com/bahree/GenAIBook'
+abstract: >-
+  Generative AI has created new opportunities for
+  organizations of all sizes. You can easily use tools like
+  ChatGPT, Bard, and Stable Diffusion to generate text and
+  images for product catalogs, marketing campaigns,
+  technical reporting, and other common tasks. Coding
+  assistants like Copilot are accelerating productivity in
+  software teams. In this insightful book, author Amit
+  Bahree shares his experience leading Generative AI
+  projects at Microsoft for nearly a decade, starting well
+  before the current GPT revolution.
+keywords:
+  - LLM
+  - SLM
+  - GenAI
+  - AI
+  - GPT
+license: MIT
+version: '1.0'
+date-released: '2024-07-01'
+preferred-citation:
+  type: book
+  authors:
+  - family-names: "Bahree"
+    given-names: "Amit"
+    orcid: "https://orcid.org/0009-0000-9596-8652"
+  title: "Generative AI in Action"
+  year: 2024
+  publisher:
+    name: Manning
+  medium: print
