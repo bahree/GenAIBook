@@ -1,6 +1,7 @@
+import os
 from openai import OpenAI
 
-client = OpenAI(api_key='your-api-key')
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def get_embedding(text):
     response = client.embeddings.create(
@@ -9,4 +10,5 @@ def get_embedding(text):
     return response.data[0].embedding
 
 embeddings = get_embedding("I have a white dog named Champ.")
-print(len(embeddings))
+print("Embedding Length:", len(embeddings))
+print("Embedding:", embeddings[:5])
