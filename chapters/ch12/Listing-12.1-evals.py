@@ -16,7 +16,7 @@ AZURE_ENDPOINT = os.getenv("AOAI_ENDPOINT")
 API_VERSION = "2024-02-15-preview"
 
 # Constants
-MODEL = "gp4"
+MODEL = "gpt-4"
 TEMPERATURE = 0.75
 TOP_P = 0.95
 FREQUENCY_PENALTY = 0
