@@ -1,4 +1,5 @@
-#  deepeval test run .\Listing12.3-deepeval.py    # Run the test
+# NOTE: This file needs be renamed to start with "test_" for example test_deepeval.py to run the test as shown below.
+# deepeval test run .\Listing12.3-deepeval.py    # Run the test
     
 import pytest
 from deepeval import assert_test
