@@ -1,3 +1,10 @@
+# Needs the following installed:
+# langchain                                  0.1.6
+# langchain-community                        0.0.19
+# langchain-core                             0.1.23
+# langchain-openai                           0.0.6
+# opentelemetry-instrumentation-langchain    0.14.3
+
 import os
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
@@ -6,7 +13,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_openai import OpenAI, OpenAIEmbeddings
 from tqdm import tqdm
-from PyPDF2 import PdfFileReader
+from PyPDF2 import PdfReader
 
 # Load environment variables
 load_dotenv('.env')
@@ -51,7 +58,7 @@ def load_pdfs() -> list[Document]:
         for filename in filenames:
             pdf_path = os.path.join(DOG_BOOKS, filename)
             with open(pdf_path, 'rb') as file:
-                pdf = PdfFileReader(file, strict=False)
+                pdf = PdfReader(file, strict=False)
                 j = 0
                 total_docs += 1
                 with tqdm(total=len(pdf.pages),

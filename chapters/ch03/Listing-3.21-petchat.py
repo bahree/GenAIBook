@@ -3,10 +3,10 @@ from openai import AzureOpenAI
 
 client = AzureOpenAI(
     azure_endpoint=os.getenv("AOAI_ENDPOINT"),
-    api_version="2023-05-15",
+    api_version="2024-05-01-preview",
     api_key=os.getenv("AOAI_KEY"))
 
-GPT_MODEL = "gpt35"
+GPT_MODEL = "gpt-35-turbo"
 
 conversation=[{"role": "system", "content": "You are a helpful AI assistant and happy to talk about pets and salons."}]
 

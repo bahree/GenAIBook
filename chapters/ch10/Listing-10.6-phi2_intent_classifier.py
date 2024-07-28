@@ -1,3 +1,6 @@
+# We need to ensure the following packages are installed:
+# pip install transformers==4.42.4 torch==2.3.1
+
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import warnings
@@ -79,20 +82,20 @@ def handle_prompt(user_input)->str:
 # Handle the dog question
 def handle_dog_question(question):
     # Handle the question using RAG and GPT4
-    # This is a placeholder function, replace it with your actual implementation
+    # This is a placeholder function, to show a proxy; we don't actually call the OpenAI model.
+    # If you want to call GPT4, replace it with your actual implementation.
     
     # Call OpenAI's GPT-4 to answer the question
     # Implement openai call here
-    openai_response = "Calling OpenAI's GPT-4 to answer the question: {question}"
+    openai_response = "This is a proxy to show that you are calling OpenAI's GPT-4 to answer the question: {question}"
     
-    # openai.api_key = ""
+    # openai.api_key = "your-openai-api-key"
     # openai_response = openai.Completion.create(
-    #   engine="text-davinci-003",
+    #   engine="model-id",
     #   prompt=f"Ask a question about dogs: {question}",
-    #   max_tokens=100
+    #   max_tokens=400
     # )
     
-    # openai_response = "This is a response from RAG and GPT4"
     return openai_response
     
 # Main function

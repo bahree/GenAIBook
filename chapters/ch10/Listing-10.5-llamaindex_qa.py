@@ -1,3 +1,11 @@
+# Name: llama-index
+# Version: 0.10.9
+# Summary: Interface between LLMs and your data
+# Home-page: https://llamaindex.ai
+
+#pip install llama-index==0.10.9
+# pip install llama-index-readers-file
+
 import os
 from dotenv import load_dotenv
 from llama_index.core import (
@@ -8,9 +16,12 @@ from llama_index.core import (
     Settings
 )
 from llama_index.embeddings.openai import OpenAIEmbedding
+from llama_index.readers.file import PDFReader
 
-PERSIST_DIR = "./storage"
-DOG_BOOKS = "./data/dog_books"
+PERSIST_DIR = "./storage/llamaindex"
+DOG_BOOKS = "./data/dog_books/"
+#DOG_BOOKS = "./data/dog_books_test/" #Used for testing with one file
+DEBUG = True
 
 # Load environment variables
 load_dotenv('.env')
@@ -22,10 +33,15 @@ def load_or_create_index():
     # check if storage already exists
     if not os.path.exists(PERSIST_DIR):
         try:
+            print("Loading PDFs from ", DOG_BOOKS)
+            parser = PDFReader()
+            file_extractor = {".pdf": parser}
+            
             # load the documents and create the index
-            documents = SimpleDirectoryReader(DOG_BOOKS).load_data()
-            index = VectorStoreIndex.from_documents(documents,
-                                                    show_progress=True)
+            required_exts = [".pdf"]
+            documents = SimpleDirectoryReader(DOG_BOOKS, file_extractor=file_extractor, required_exts=required_exts).load_data()
+            print("Loaded ", len(documents), "documents.")
+            index = VectorStoreIndex.from_documents(documents, show_progress=True)
             
             # store it for later
             index.storage_context.persist(persist_dir=PERSIST_DIR)
@@ -39,8 +55,7 @@ def load_or_create_index():
         
         try:
             # load the existing index
-            storage_context = StorageContext.from_defaults(
-                persist_dir=PERSIST_DIR)
+            storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
             index = load_index_from_storage(storage_context)
         except Exception as e:
             print("Error while loading index:", e)
