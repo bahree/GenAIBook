@@ -9,7 +9,7 @@ AOAI_API_KEY = os.getenv("AOAI_KEY")
 AZURE_ENDPOINT = os.getenv("AOAI_ENDPOINT")
 API_VERSION = "2024-02-15-preview"
 
-MODEL = "gp4"
+MODEL = "gpt-4"
 TEMPERATURE = 0
 TOP_P = 1
 FREQUENCY_PENALTY = 0
@@ -178,8 +178,10 @@ for eval_type, (criteria, steps) in evaluation_metrics.items():
         data["Evaluation Type"].append(eval_type)
         data["Summary Type"].append(summ_type)
         result = get_geval_score(criteria, steps, article_text, summary, eval_type)
-        score_num = int(float(result.strip()))
-        data["Score"].append(score_num)
+        numeric_part = ''.join(filter(str.isdigit, result.strip()))
+        if numeric_part:  # Check if numeric_part is not empty
+            score_num = int(float(result.strip()))
+            data["Score"].append(score_num)
 
 if DEBUG:
     print(data)
