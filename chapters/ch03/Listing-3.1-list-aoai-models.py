@@ -1,3 +1,8 @@
+# Make sure the following environment variables are set:
+# - AOAI_ENDPOINT
+# - AOAI_KEY
+# For exanple on Windows: setx AOAI_ENDPOINT "https://your-instance-here.openai.azure.com/"
+
 # Listing: 3.1 - List the models available in Azure OpenAI
 import os
 from openai import AzureOpenAI

@@ -4,11 +4,11 @@ from openai import AzureOpenAI
 
 client = AzureOpenAI(
     azure_endpoint=os.getenv("AOAI_ENDPOINT"),
-    api_version="2022-12-01",
+    api_version="2024-05-01-preview",
     api_key=os.getenv("AOAI_KEY"))
 
 # This model name is what you chose when you deployed the model in Azure OpenAI
-GPT_MODEL = "text-davinci-003"
+GPT_MODEL = "gpt-35-turbo"
 
 prompt_startphrase = "Suggest three names and a tagline which is at least 3 sentences for a new pet salon business. The generated name ideas should evoke positive emotions and the following key features: Professional, friendly, Personalized Service."
 

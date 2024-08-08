@@ -13,7 +13,9 @@ import spacy
 client = AzureOpenAI(
     api_key=os.getenv("AOAI_KEY"),
     azure_endpoint=os.getenv("AOAI_ENDPOINT"),
-    api_version="2022-12-01")
+    api_version="2024-05-01-preview")
+
+GPT_MODEL = "gpt-35-turbo"
 
 # function that splits the text into chunks based on sentences
 def split_sentences(text):
@@ -108,7 +110,7 @@ def generate_summaries(chunks):
         
         # use the OpenAI.Completion class to generate a summary for the chunk
         response = client.completions.create(
-            model="dv3",
+            model=GPT_MODEL,
             prompt=prompt,
             max_tokens=1500,
             temperature=0.7)
@@ -118,7 +120,7 @@ def generate_summaries(chunks):
         summary = response.choices[0].text
         # append the summary to the list of summaries
         summaries.append(summary)
-        sleep(1) # sleep for 3 seconds for rate limiting
+        sleep(1) # sleep for 1 second(s) for rate limiting
 
     # return the list of summaries
     return summaries
