@@ -4,7 +4,7 @@
 
 First, we need to create a new Conda environment using the `book-environment.yaml` file. This assumes you have all the core dependencies installed and configured. Of course if you have an existing environment that works, then you don't need to do this. This assumes you have all the core dependencies installed and configured.
 
-We do this by running the following command in a terminal that already has Conda configured and installed:
+We do this by running the following command in a terminal that already has Conda configured and installed; and it will create an environment called `book` with all the dependencies needed for the book.
 
 ```sh
 conda env create -f book-environment.yaml
