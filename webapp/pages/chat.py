@@ -44,7 +44,7 @@ def sidebar_settings():
     st.session_state.max_tokens = max_tokens
 
 def chat_interface():
-    st.title("ChatGPT-like Interface")
+    st.title("ChatGPT-like Interface 💬")
     
     sidebar_settings()
     

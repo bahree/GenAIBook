@@ -28,7 +28,7 @@ def sidebar_settings():
     st.session_state.quality = quality
 
 def main():
-    st.title("Image Generation with DALL-E 3")
+    st.title("Image Generation with DALL-E 3 🖼️")
     
     sidebar_settings()
 
@@ -56,6 +56,11 @@ def main():
         st.image(img, caption="Generated Image", use_column_width=True)
         
         if st.button("Save Image"):
+            generated_image_dir = "generated_images"
+            # Ensure the  directory exists
+            if not os.path.exists(generated_image_dir):
+                os.makedirs(generated_image_dir)
+                
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             sanitized_prompt = "".join([c for c in prompt if c.isalpha() or c.isdigit() or c==' ']).rstrip()
             filename = f"generated_images/dalle_image_{timestamp}_{sanitized_prompt}.png"

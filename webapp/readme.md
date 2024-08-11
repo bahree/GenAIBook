@@ -109,6 +109,21 @@ Use the sidebar panel to change the following setings and parameters:
 ChatGPT-like Interface:
 ![](images/webapp_streamlit_chat.png)
 
+Chat with Your Data:
+We can upload a PDF and ask questions about its contents. For this example, we use the Women FIFA Worldcup PDF from Chapter 7. We create embeddings for the text and then ask questions about the content. If we ask a question that is not in the text, the AI will not be able to answer it.
+
+![](images/webapp_streamlit_chat_with_your_data.png)
+
+Image Generation:
+We can generate images using AI. For this example, we ask "a scenic boat ride with Seattle space needle in the backdrop in impressionist style".
+
+![](images/webapp_streamlit_image_generation.png)
+
+The image can be saved by clicking on the "Save Image" button. This will be saved in the "generated_images" folder, with the prompt and date as the filename.
+
+![](images/webapp_streamlit_image_generation_save.png)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [`LICENSE`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FC%3A%2Fsrc%2FBook-GenAI%2FGenAIBook%2FLICENSE%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\src\Book-GenAI\GenAIBook\LICENSE") file for more details.

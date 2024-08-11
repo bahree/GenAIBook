@@ -65,7 +65,7 @@ def create_index(docs):
     return vectordb
 
 def main():
-    st.title("Chat with Your Data")
+    st.title("Chat with Your Data 📅")
     
     sidebar_settings()
     
