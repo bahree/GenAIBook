@@ -15,3 +15,5 @@ tiktoken
 requests
 pillow
 langchain-openai
+langchain-community
+langchain-core
