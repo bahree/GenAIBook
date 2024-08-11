@@ -91,12 +91,23 @@ The home page will look somehing like what you can see below. The best way to na
 - **Chat with Your Data**: Upload a PDF and ask questions about its contents.
 - **Image Generation**: Generate images using AI.
 
+## Settings
+Use the sidebar panel to change the following setings and parameters:
+- AI Provider: Choose between OpenAI and Azure OpenAI.
+- Temperature: A parameter that controls the randomness of the AI's responses - defaults to 0.7.
+- Max Tokens: The maximum number of tokens the AI can generate in a response - defaults to 800.
+
 ## File Structure
 
 - [`main.py`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FC%3A%2Fsrc%2FBook-GenAI%2FGenAIBook%2Fwebapp%2Fmain.py%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\src\Book-GenAI\GenAIBook\webapp\main.py"): The main script that runs the Streamlit application.
 - [`requirements.txt`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FC%3A%2Fsrc%2FBook-GenAI%2FGenAIBook%2Frequirements.txt%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\src\Book-GenAI\GenAIBook\requirements.txt"): A file containing all the dependencies required to run the application.
 - [`.env-example`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FC%3A%2Fsrc%2FBook-GenAI%2FGenAIBook%2Fwebapp%2F.env-example%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\src\Book-GenAI\GenAIBook\webapp\.env-example"): A template file for environment variables.
 - [`.env`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FC%3A%2Fsrc%2FBook-GenAI%2FGenAIBook%2F.env%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "c:\src\Book-GenAI\GenAIBook\.env"): A file to store environment variables (not included in the repository for security reasons).
+
+## Screenshots
+
+ChatGPT-like Interface:
+![](images/webapp_streamlit_chat.png)
 
 ## License
 

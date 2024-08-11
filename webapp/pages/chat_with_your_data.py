@@ -37,7 +37,13 @@ def sidebar_settings():
 
 def load_pdfs(uploaded_file):
     docs = []
-    pdf_path = os.path.join("temp", uploaded_file.name)
+    temp_dir = "temp"
+    
+    # Ensure the temp directory exists
+    if not os.path.exists(temp_dir):
+        os.makedirs(temp_dir)
+        
+    pdf_path = os.path.join(temp_dir, uploaded_file.name)
     with open(pdf_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
     with open(pdf_path, 'rb') as file:
