@@ -3,10 +3,10 @@ This document outlined details of the basic installation instructions.
 
 **Note:** We use Windows 11 with the Linux subsystem, in showing this example. However there is nothing in these that is specific to Windows, and you can use the same, or very similar instructions across both Mac OS, and different flavors of Linux.
 
-## Installing Visual Studio Code
+## 1. Installing Visual Studio Code
 If you don't already have an IDE, you can use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> for free; you can read up more on Visual Studio Code here, and download and <a href="https://code.visualstudio.com/download" target="_blank">install it from here</a>.
 
-## Installing Conda
+## 2. Installing Conda
 To install **Conda** on **Windows 11**, you can follow the steps below. For our purposes we use Miniconda but you can also use Anaconda if that is preferred.
 
 1. Download the installer from the <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html" target="_blank">official website</a>. You can choose between the **Miniconda** installer or the **Anaconda** installer.
@@ -35,9 +35,11 @@ The step-by-step install instructions for Miniconda are shown below.
 9. Update base conda packages by running `conda update --all`  
 ![Update conda packages](images/miniconda-step10.png)
 
-## Installing Python
+## 3. Installing Python
 To check which version of Python is installed run the following command: `python --version`. If Python is not installed you will see an error similar to the one shown below.  
 ![missing python error](images/python-missing.png)
+
+💡**Note** : If you installed python using Conda then you should not install Python seperately - usually you want one or the other, but not both as it can lead to conflicts when debugging.
 
 You can install Python using two ways on Windows as outlined below.
 
@@ -66,7 +68,7 @@ Step-by-step install instructions for Python are shown below.
 5. Restart your CLI for the path to reflect.  
 ![Step 5](images/python-install-5.png)
 
-## Installing Git
+## 4. Installing Git
 To install **Git** on **Windows**, you can follow the steps below:
 
 1. Download the latest Git for Windows installer from the <a href="https://github.com/git-guides/install-git" target="_blank">official website</a>.
