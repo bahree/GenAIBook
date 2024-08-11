@@ -1,8 +1,19 @@
-streamlit==1.37.0
-openai==0.27.0
-langchain-community==0.0.19
-langchain-core==0.1.23
-langchain-openai==0.0.6
-opentelemetry-instrumentation-langchain==0.14.3
-python-dotenv==0.21.0
-PyPDF2==2.10.6
+# streamlit==1.37.0
+# openai==0.27.0
+# langchain-community==0.0.19
+# langchain-core==0.1.23
+# langchain-openai==0.0.6
+# opentelemetry-instrumentation-langchain==0.14.3
+# python-dotenv==0.21.0
+# PyPDF2==2.10.6
+
+openai
+python-dotenv
+streamlit
+streamlit-chat
+tiktoken
+requests
+pillow
+langchain-openai
+langchain-community
+langchain-core
