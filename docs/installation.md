@@ -1,9 +1,15 @@
 ## Installation Instructions
-### 1. Create Conda Environment
-First think we need to do is create a new conda environment. Of course if you have an existing environment that works, then you don't need to do this. This assumes you have all the core dependencies installed and configured.
 
-We do this by running the following command in a terminal that is already configured for conda.
-`conda create -n book python=3.11.3`  
+### 1. Create Conda Environment
+
+First, we need to create a new Conda environment using the `book-environment.yaml` file. This assumes you have all the core dependencies installed and configured. Of course if you have an existing environment that works, then you don't need to do this. This assumes you have all the core dependencies installed and configured.
+
+We do this by running the following command in a terminal that already has Conda configured and installed:
+
+```sh
+conda env create -f book-environment.yaml
+```
+
 In our case, we can see the base environment in conda is active, as shown by `(base)`.  
 ![](images/conda-env-step1.png)  
 
