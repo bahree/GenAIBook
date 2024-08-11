@@ -1,18 +1,18 @@
-# Chat Application
+# 🗨️ Chat Application
 
 This is a Streamlit-based web application that allows users to chat with an AI assistant powered by OpenAI. The application provides three main features:
 - **ChatGPT-like Interface**: A simple chat interface where you can ask any questions.
 - **Chat with Your Data**: Upload a PDF and interact with it using the AI assistant.
 - **Image Generation**: Generate images using AI.
 
-## Setup Instructions
+## Setup Instructions 📖
 
 ### Prerequisites
 
 - Python 3.7 or higher
 - `pip` (Python package installer)
 
-### Installation
+### Installation ⚙️
 
 1. **Clone the repository:**
 
@@ -69,22 +69,26 @@ This is a Streamlit-based web application that allows users to chat with an AI a
 
 ### Running the Application
 
-1. **Start the Streamlit app:**
+1. **Start the Streamlit app:** 💻
 
     ```sh
     streamlit run main.py
     ```
+When we run this for the first time on a machine, we are asked for a email which can be skipped as shown below.
+![](images/webapp_streamlit_start.png)
 
-2. **Open your web browser and go to:**
+3. **Open your web browser and go to:** 👏
 
     ```
     http://localhost:8501
     ```
+The home page will look somehing like what you can see below. The best way to navigate is using the panel on the left.
+![](images/webapp_streamlit_homepage.png)
 
 ## Features
 
 - **ChatGPT-like Interface**: Interact with an AI assistant in a chat format.
-- **Chat with Your Data**: Upload a PDF and ask questions about its content.
+- **Chat with Your Data**: Upload a PDF and ask questions about its contents.
 - **Image Generation**: Generate images using AI.
 
 ## File Structure
