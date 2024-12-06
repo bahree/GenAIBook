@@ -1,6 +1,8 @@
 # Book - Generative AI in Action
 Welcome to the code repo associated with my book [**Generative AI in Action**](https://www.manning.com/books/generative-ai-in-action), published by Manning.
 
+Note: The book is also available on [Amazon](https://a.co/d/cFDrfcp).
+
 <img src="docs/images/bahree_genai_in_action.jpg" width="35%" height="35%"/>
 
 This repo has a few things that might be of interest:
