@@ -5,6 +5,8 @@ Note: The book is also available on [Amazon](https://a.co/d/cFDrfcp).
 
 <img src="docs/images/bahree_genai_in_action.jpg" width="35%" height="35%"/>
 
+[![ko-fi](https://img.shields.io/badge/ko--fi-Fuel%20my%20AI-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bahree)
+
 This repo has a few things that might be of interest:
 * Code from the different examples in the book.
 * List of research papers associated with different AI technology and techniques.
@@ -45,6 +47,9 @@ The reader is not expected to know these but as with most things, it is always g
 
 ## Contact
 You can see my <a href="https://github.com/bahree" target="_blank">GitHub profile</a> for different ways to get in touch. If there are any questions, or issues, please submit an Issue.
+
+## Support
+[![ko-fi](https://img.shields.io/badge/ko--fi-Fuel%20my%20AI-29abe0?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bahree)
 
 ## License
 The work as part of this repo is shared under <a href="LICENSE" target="_blank">MIT License</a>. 
